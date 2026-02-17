@@ -2,9 +2,9 @@
 
 ## 📊 市场概览
 
-![SPY周线图](charts/2026-02-16/SPY_weekly.png)
-![QQQ周线图](charts/2026-02-16/QQQ_weekly.png)
-![VIX周线图](charts/2026-02-16/VIX_weekly.png)
+![SPY周线图](/charts/2026-02-16/SPY_weekly.png)
+![QQQ周线图](/charts/2026-02-16/QQQ_weekly.png)
+![VIX周线图](/charts/2026-02-16/VIX_weekly.png)
 
 **今日市场动态 (基于Twitter/X搜索):**
 
@@ -23,16 +23,16 @@
 | 白银 (SI=F) | $77.595 |
 | **金/银比率** | **64.6** |
 
-![黄金周线图](charts/2026-02-16/GC%3DF_weekly.png)
-![白银周线图](charts/2026-02-16/SI%3DF_weekly.png)
+![黄金周线图](/charts/2026-02-16/GC%3DF_weekly.png)
+![白银周线图](/charts/2026-02-16/SI%3DF_weekly.png)
 
 > 注：今日API获取受限，比率采用昨日数据。长期均值约55。
 
 ## 🔥 热门股票
 
-![NVDA周线图](charts/2026-02-16/NVDA_weekly.png)
-![TSLA周线图](charts/2026-02-16/TSLA_weekly.png)
-![COIN周线图](charts/2026-02-16/COIN_weekly.png)
+![NVDA周线图](/charts/2026-02-16/NVDA_weekly.png)
+![TSLA周线图](/charts/2026-02-16/TSLA_weekly.png)
+![COIN周线图](/charts/2026-02-16/COIN_weekly.png)
 
 - $NVDA: AI芯片龙头，持续受机构关注
 - $TSLA: 大型put买入显示机构看空

@@ -9,15 +9,15 @@
 
 ### 大盘技术分析
 
-![SPY周线](charts/2026-02-17/SPY_weekly.png)
+![SPY周线](../charts/2026-02-17/SPY_weekly.png)
 
 **标普500 (SPY):** 周线处于高位震荡格局，MACD金叉但量能有所萎缩。
 
-![QQQ周线](charts/2026-02-17/QQQ_weekly.png)
+![QQQ周线](../charts/2026-02-17/QQQ_weekly.png)
 
 **纳指100 (QQQ):** 科技股领涨格局延续，关注185阻力位。
 
-![VIX周线](charts/2026-02-17/VIX_weekly.png)
+![VIX周线](../charts/2026-02-17/VIX_weekly.png)
 
 **恐慌指数 (VIX):** 维持在13-15低位区间，显示市场情绪偏乐观。
 
@@ -47,9 +47,9 @@
 
 ### 贵金属周线
 
-![黄金期货](charts/2026-02-17/GC_weekly.png)
+![黄金期货](../charts/2026-02-17/GC_weekly.png)
 
-![白银期货](charts/2026-02-17/SI_weekly.png)
+![白银期货](../charts/2026-02-17/SI_weekly.png)
 
 ### 比率分析
 
@@ -71,19 +71,19 @@
 
 ### NVDA 周线
 
-![NVDA](charts/2026-02-17/NVDA_weekly.png)
+![NVDA](../charts/2026-02-17/NVDA_weekly.png)
 
 **NVIDIA:** AI芯片龙头，周线依托5日线稳步上行，量价配合良好。
 
 ### TSLA 周线
 
-![TSLA](charts/2026-02-17/TSLA_weekly.png)
+![TSLA](../charts/2026-02-17/TSLA_weekly.png)
 
 **Tesla:** 回调至关键支撑位，250成为多空分水岭。
 
 ### COIN 周线
 
-![COIN](charts/2026-02-17/COIN_weekly.png)
+![COIN](../charts/2026-02-17/COIN_weekly.png)
 
 **Coinbase:** 加密货币交易所龙头，突破整理平台上沿。
 

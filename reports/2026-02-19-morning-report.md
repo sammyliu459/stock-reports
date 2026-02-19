@@ -13,15 +13,15 @@
 ## 3. 市场图表回顾 (周线)
 
 ### 大盘指数 (SPY & QQQ)
-![SPY Weekly](charts/2026-02-19/SPY_weekly.png)
-![QQQ Weekly](charts/2026-02-19/QQQ_weekly.png)
+![SPY Weekly](../charts/2026-02-19/SPY_weekly.png)
+![QQQ Weekly](../charts/2026-02-19/QQQ_weekly.png)
 
 ### 波动率指数 (VIX)
-![VIX Weekly](charts/2026-02-19/VIX_weekly.png)
+![VIX Weekly](../charts/2026-02-19/VIX_weekly.png)
 
 ### 贵金属 (黄金 & 白银)
-![Gold Weekly](charts/2026-02-19/GC%3DF_weekly.png)
-![Silver Weekly](charts/2026-02-19/SI%3DF_weekly.png)
+![Gold Weekly](../charts/2026-02-19/GC%3DF_weekly.png)
+![Silver Weekly](../charts/2026-02-19/SI%3DF_weekly.png)
 
 ---
 *报告生成于: 2026-02-19 09:00 AM PST*

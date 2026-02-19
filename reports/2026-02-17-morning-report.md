@@ -19,13 +19,13 @@
 ### 图表分析
 
 **S&P 500 (SPY) 周线**
-![SPY](charts/2026-02-17/SPY.png)
+![SPY](../charts/2026-02-17/SPY.png)
 
 **纳斯达克100 (QQQ) 周线**
-![QQQ](charts/2026-02-17/QQQ.png)
+![QQQ](../charts/2026-02-17/QQQ.png)
 
 **恐慌指数 VIX 周线**
-![VIX](charts/2026-02-17/VIX.png)
+![VIX](../charts/2026-02-17/VIX.png)
 
 ---
 
@@ -45,10 +45,10 @@
 > 📊 **知识普及**: 黄金/白银比率高于80通常表明白银被相对低估，可能存在反弹机会。
 
 **黄金ETF (GLD) 周线**
-![GLD](charts/2026-02-17/GLD.png)
+![GLD](../charts/2026-02-17/GLD.png)
 
 **白银ETF (SLV) 周线**
-![SLV](charts/2026-02-17/SLV.png)
+![SLV](../charts/2026-02-17/SLV.png)
 
 ---
 

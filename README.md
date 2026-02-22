@@ -6,8 +6,9 @@
 
 | 日期 | 报告链接 |
 |------|----------|
+| 2026-02-21 | [🗓️ Weekend](reports/2026-02-21-weekend-report.md) |
 | 2026-02-21 | [☀️ Morning](reports/2026-02-21-morning-report.md) |
-| 2026-02-20 | [☀️ Morning](reports/2026-02-20-morning-report.md) |
+| 2026-02-20 | [☀️ Morning](reports/2026-02-20-morning-report.github.io/stock-reports/reports/2026-02-20-morning-report.md) |
 | 2026-02-20 | [🌙 Afternoon](reports/2026-02-20-afternoon-report.md) |
 | 2026-02-19 | [☀️ Morning](reports/2026-02-19-morning-report.md) |
 | 2026-02-19 | [🌙 Afternoon](reports/2026-02-19-afternoon-report.md) |

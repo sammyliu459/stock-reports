@@ -18,18 +18,18 @@
 
 ## 3. 市场 K 线图 (周线)
 ### 大盘与波动率
-![SPY Weekly](charts/2026-02-21/SPY_weekly.png)
-![QQQ Weekly](charts/2026-02-21/QQQ_weekly.png)
-![VIX Weekly](charts/2026-02-21/VIX_weekly.png)
+![SPY Weekly](../charts/2026-02-21/SPY_weekly.png)
+![QQQ Weekly](../charts/2026-02-21/QQQ_weekly.png)
+![VIX Weekly](../charts/2026-02-21/VIX_weekly.png)
 
 ### 贵金属
-![Gold Weekly](charts/2026-02-21/GC%3DF_weekly.png)
-![Silver Weekly](charts/2026-02-21/SI%3DF_weekly.png)
+![Gold Weekly](../charts/2026-02-21/GC%3DF_weekly.png)
+![Silver Weekly](../charts/2026-02-21/SI%3DF_weekly.png)
 
 ### 热门股
-![MGRX Weekly](charts/2026-02-21/MGRX_weekly.png)
-![AIOS Weekly](charts/2026-02-21/AIOS_weekly.png)
-![CDIO Weekly](charts/2026-02-21/CDIO_weekly.png)
+![MGRX Weekly](../charts/2026-02-21/MGRX_weekly.png)
+![AIOS Weekly](../charts/2026-02-21/AIOS_weekly.png)
+![CDIO Weekly](../charts/2026-02-21/CDIO_weekly.png)
 
 ---
 *注：今日为周末，市场休市，以上数据反映最新交易日及实时金属行情。*

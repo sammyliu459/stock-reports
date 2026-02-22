@@ -23,8 +23,8 @@
 ![VIX Weekly](../charts/2026-02-21/VIX_weekly.png)
 
 ### 贵金属
-![Gold Weekly](../charts/2026-02-21/GC=F_weekly.png)
-![Silver Weekly](../charts/2026-02-21/SI=F_weekly.png)
+![Gold Weekly](../charts/2026-02-21/GC_weekly.png)
+![Silver Weekly](../charts/2026-02-21/SI_weekly.png)
 
 ### 热门股
 ![MGRX Weekly](../charts/2026-02-21/MGRX_weekly.png)

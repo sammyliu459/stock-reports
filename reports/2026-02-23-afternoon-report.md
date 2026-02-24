@@ -16,17 +16,17 @@
 
 分析：白银涨幅翻倍于黄金，显示出极其强劲的避险动能。金银比率下降至 59 左右，历史上这往往发生在贵金属牛市的主升浪期间。
 
-![Gold Weekly](charts/2026-02-23/GC_weekly.png)
-![Silver Weekly](charts/2026-02-23/SI_weekly.png)
+![Gold Weekly](../charts/2026-02-23/GC_weekly.png)
+![Silver Weekly](../charts/2026-02-23/SI_weekly.png)
 
 ## 个股技术分析
 - **NVDA**: AI 板块在宏观压力下回吐。
 - **TSLA**: 在关税担忧中表现波动。
 - **COIN**: 比特币 ETF 资金流出直接打击了加密相关股。
 
-![SPY Weekly](charts/2026-02-23/SPY_weekly.png)
-![NVDA Weekly](charts/2026-02-23/NVDA_weekly.png)
-![TSLA Weekly](charts/2026-02-23/TSLA_weekly.png)
+![SPY Weekly](../charts/2026-02-23/SPY_weekly.png)
+![NVDA Weekly](../charts/2026-02-23/NVDA_weekly.png)
+![TSLA Weekly](../charts/2026-02-23/TSLA_weekly.png)
 
 ## 异常信号
 - **Option Flow**: 观察到大量针对 SPY 的末日看跌期权买入。

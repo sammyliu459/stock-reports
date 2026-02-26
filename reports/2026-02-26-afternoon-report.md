@@ -1,20 +1,41 @@
-# 2026-02-26 Afternoon Stock Report
+# 每日深度股票研究报告 - 2026年02月26日 (周四)
 
-## Market Overview
-The US stock market saw mixed performance today as investors digested Nvidia's earnings report. Despite a stellar profit report, Nvidia's stock fell, dragging the S&P 500 and Nasdaq lower.
+## 1. 宏观概览
+今日市场情绪保持乐观，黄金和白银继续在高位震荡，美元走软以及地缘政治不确定性为贵金属提供了强力支撑。
 
-### Major Indices
-- **S&P 500**: 6,908.86 (-0.5%)
-- **Nasdaq Composite**: 22,878.38 (-1.2%)
-- **Dow Jones Industrial Average**: 49,499.20 (+17.05 points)
+## 2. 贵金属指标
+- **黄金价格**: ~$5,202.20 USD/oz
+- **白银价格**: ~$90.52 USD/oz
+- **金/银比率**: **57.4** (显示白银相对走强，低于长期均值 60-65)
 
-## Key Headlines
-- **Nvidia "Sell the News"**: Nvidia reported $68.13 billion in revenue, beating expectations, but shares tumbled up to 5.5% as investors questioned the sustainability of AI-driven capital expenditure.
-- **Tech Sector Pullback**: Semiconductor and AI-adjacent stocks followed Nvidia lower, impacting the tech-heavy Nasdaq.
-- **Defensive Strength**: The Dow managed a slight gain thanks to defensive financials and other non-tech sectors.
-- **International Markets**: 
-  - Canada's S&P/TSX composite rose nearly 375 points.
-  - India's NIFTY50 and SENSEX ended flat.
+### 贵金属 K 线图
+| 黄金 (GC=F) | 白银 (SI=F) |
+| :---: | :---: |
+| ![Gold Chart](../../charts/2026-02-26/gold.png) | ![Silver Chart](../../charts/2026-02-26/silver.png) |
+
+## 3. 市场指数
+- **SPY (S&P 500 ETF)**: 继续在历史高位附近整合。
+- **QQQ (Nasdaq 100 ETF)**: 科技股表现强劲，尤其是 AI 相关板块。
+
+### 指数 K 线图
+| SPY | QQQ |
+| :---: | :---: |
+| ![SPY Chart](../../charts/2026-02-26/spy.png) | ![QQQ Chart](../../charts/2026-02-26/qqq.png) |
+
+## 4. 重点关注个股
+- **NVDA (英伟达)**: AI 芯片需求依然旺盛，市场关注即将到来的财报。
+- **TSLA (特斯拉)**: 股价在近期回调后出现企稳迹象。
+
+### 个股 K 线图
+| NVDA | TSLA |
+| :---: | :---: |
+| ![NVDA Chart](../../charts/2026-02-26/nvda.png) | ![TSLA Chart](../../charts/2026-02-26/tsla.png) |
+
+## 5. 市场情绪总结 (Market Sentiment)
+- **黄金/白银**: 极度看涨 (Bullish)。受避险情绪和美国关税政策不确定性驱动。
+- **美股**: 中性偏看涨。市场正在消纳降息预期和企业盈利。
+- **风险点**: 注意 3 月初的通胀数据发布。
 
 ---
-*Report generated on 2026-02-26 14:30 PM PST.*
+*报告生成时间: 2026-02-26 15:00 PST*
+*查看更多历史报告: [GitHub Pages](https://sammyliu459.github.io/stock-reports/)*

@@ -13,6 +13,12 @@
 - **白银 (SI=F)**: $94.50 / oz
 - **黄金/白银比率 (Gold/Silver Ratio)**: **56.01**
 
+## 🇺🇸 US Treasury Yields
+- **3M (^IRX)**: 3.58%
+- **5Y (^FVX)**: 3.51%
+- **10Y (^TNX)**: 3.96%
+- **30Y (^TYX)**: 4.63%
+
 ## 🚀 热门股观察
 - **CRCL (Circle Internet Group)**: 周涨幅 +32.40%，受 USDC 流通量增长 72% 及强劲 Q4 财报推动。
 - **PYPL (PayPal)**: 上涨 10.95%，市场传闻 Stripe 考虑收购其部分或全部业务。

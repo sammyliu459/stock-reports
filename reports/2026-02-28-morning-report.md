@@ -22,15 +22,15 @@
 ## 📈 K线图 (周线)
 
 ### 大盘指数
-![SPY](charts/2026-02-28/SPY_weekly.png)
-![QQQ](charts/2026-02-28/QQQ_weekly.png)
+![SPY](../charts/2026-02-28/SPY_weekly.png)
+![QQQ](../charts/2026-02-28/QQQ_weekly.png)
 
 ### 避险资产与波动率
-![GC=F](charts/2026-02-28/GC%3DF_weekly.png)
-![SI=F](charts/2026-02-28/SI%3DF_weekly.png)
-![VIX](charts/2026-02-28/VIX_weekly.png)
+![GC=F](../charts/2026-02-28/GC_weekly.png)
+![SI=F](../charts/2026-02-28/SI_weekly.png)
+![VIX](../charts/2026-02-28/VIX_weekly.png)
 
 ### 热门个股
-![CRCL](charts/2026-02-28/CRCL_weekly.png)
-![PYPL](charts/2026-02-28/PYPL_weekly.png)
-![FSLY](charts/2026-02-28/FSLY_weekly.png)
+![CRCL](../charts/2026-02-28/CRCL_weekly.png)
+![PYPL](../charts/2026-02-28/PYPL_weekly.png)
+![FSLY](../charts/2026-02-28/FSLY_weekly.png)

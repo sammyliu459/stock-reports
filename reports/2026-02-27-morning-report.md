@@ -1,34 +1,47 @@
-# 每日早间股票研究报告 (2026-02-27)
+# Stock Research Report - 2026-02-27 (Morning)
 
-## 1. 市场热点与前瞻
-今日市场呈现高度个股化行情。由于地缘政治紧张局势，避险资产（黄金、白银）受到显著提振，白银价格大幅飙升。
+**Date:** Friday, February 27, 2026  
+**Time:** 1:24 PM PST (Afternoon Update)
 
-**热门股动态：**
-- **SBUX (Starbucks):** 盘前上涨 +2.3%
-- **KEY (KeyCorp):** 表现强劲，涨幅居前
-- **ABX (Barrick Gold):** 受金价支撑上涨 +2.3%
+## Market Overview
 
-## 2. 黄金/白银比率 (Gold/Silver Ratio)
-- **黄金 (Gold):** ~$5,193.00/oz
-- **白银 (Silver):** ~$90.00/oz
-- **黄金/白银比率:** **57.70**
-*(注：由于白银强劲上涨，该比率正处于显著调整中)*
-
-## 3. 技术分析图表 (周线)
-
-### 大盘指数
-![SPY Weekly](charts/2026-02-27/SPY_weekly.png)
-![QQQ Weekly](charts/2026-02-27/QQQ_weekly.png)
-![VIX Weekly](charts/2026-02-27/VIX_weekly.png)
-
-### 贵金属
-![Gold Futures Weekly](charts/2026-02-27/GC%3DF_weekly.png)
-![Silver Futures Weekly](charts/2026-02-27/SI%3DF_weekly.png)
-
-### 热门股
-![Starbucks Weekly](charts/2026-02-27/SBUX_weekly.png)
-![KeyCorp Weekly](charts/2026-02-27/KEY_weekly.png)
-![Barrick Gold Weekly](charts/2026-02-27/ABX_weekly.png)
+The tech sector is seeing some volatility following NVIDIA's massive revenue report. While the numbers were record-breaking, market sentiment shows a slight disconnect with some post-earnings selling pressure across major players.
 
 ---
-*报告生成时间: 2026-02-27 09:00 AM PST*
+
+## NVIDIA (NVDA)
+**Price:** ~$179.02 USD (-2.42%)
+
+### Key Highlights
+- **Record Q4 Revenue:** Reported $68.1 billion, up 73% YoY.
+- **Data Center Dominance:** 91.45% of total revenue ($62.3B).
+- **Supply Chain Strategy:** Planning $95 billion investment in inventory to address supply challenges.
+- **Top Customer:** NVIDIA has surpassed Apple to become TSMC's largest customer by revenue.
+
+---
+
+## Apple (AAPL)
+**Price:** ~$267.34
+
+### Key Highlights
+- **Houston Expansion:** Investing in a new campus for Mac mini and AI server hardware manufacturing.
+- **NATO Certification:** iOS 26 and iPadOS 26 certified for classified information handling for NATO.
+- **Investor Moves:** Reports of major trimmings by Ken Griffin, Ray Dalio, and Warren Buffett.
+
+---
+
+## Tesla (TSLA)
+**Price:** ~$399.60 (-2.06%)
+
+### Key Highlights
+- **China Demand Signals:** Delivery wait times collapsed to 1-3 weeks; extending aggressive 7-year financing.
+- **European Updates:** Launching 7-seat Model Y option in Europe; Model YL receiving EU type approval.
+- **Robotaxi Hurdles:** Facing regulatory conflicts and lack of commercial permits in major US markets.
+- **Q4 Production:** 434,358 units (5% YoY decline).
+
+---
+
+## Summary
+The "AI momentum" continues to drive core business fundamentals (NVIDIA's data center growth), but macro demand signals in EV (Tesla) and institutional trimming in mobile (Apple) are creating headwinds.
+
+*Source: Real-time market data aggregated via Brave Search.*

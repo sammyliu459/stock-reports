@@ -1,0 +1,14 @@
+# Temp/debug artifacts from automation
+.bird_*.txt
+.hot_tickers.txt
+.metals.txt
+.xau.csv
+.xag.csv
+
+# Local test artifacts
+test*
+*.gif
+stooq_*.png
+
+# Ad-hoc local chart experiments (keep report charts only)
+charts/*/*_candlestick_finviz.png

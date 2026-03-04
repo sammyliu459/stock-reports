@@ -50,17 +50,35 @@
 ## 五、真实K线图（周线）
 
 ### 宏观核心图
+#### SPY
 ![SPY 周线](../charts/2026-03-04/SPY_weekly.png)
+
+#### QQQ
 ![QQQ 周线](../charts/2026-03-04/QQQ_weekly.png)
+
+#### VIX
 ![VIX 周线](../charts/2026-03-04/VIX_weekly.png)
+
+#### GC=F（黄金）
 ![黄金 GC=F 周线](../charts/2026-03-04/GCF_weekly.png)
+
+#### SI=F（白银）
 ![白银 SI=F 周线](../charts/2026-03-04/SIF_weekly.png)
 
 ### 个股图
+#### NVDA
 ![NVDA 周线](../charts/2026-03-04/NVDA_weekly.png)
+
+#### TSLA
 ![TSLA 周线](../charts/2026-03-04/TSLA_weekly.png)
+
+#### AAPL
 ![AAPL 周线](../charts/2026-03-04/AAPL_weekly.png)
+
+#### AMD
 ![AMD 周线](../charts/2026-03-04/AMD_weekly.png)
+
+#### SMCI
 ![SMCI 周线](../charts/2026-03-04/SMCI_weekly.png)
 
 ## 六、来源说明

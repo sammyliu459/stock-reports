@@ -11,10 +11,15 @@
 - 黄金/白银比率: 61.65
 
 ## 核心图表（周线，真实K线）
+### SPY
 ![SPY_weekly.png](charts/2026-03-04/SPY_weekly.png)
+### QQQ
 ![QQQ_weekly.png](charts/2026-03-04/QQQ_weekly.png)
+### VIX
 ![VIX_weekly.png](charts/2026-03-04/VIX_weekly.png)
+### GC=F（黄金）
 ![GC_weekly.png](charts/2026-03-04/GC_weekly.png)
+### SI=F（白银）
 ![SI_weekly.png](charts/2026-03-04/SI_weekly.png)
 
 ## 热门个股图表（周线，真实K线）

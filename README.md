@@ -6,19 +6,26 @@
 
 | 日期 | 报告链接 |
 |------|----------|
-| 2026-02-21 | [🗓️ Weekend](reports/2026-02-21-weekend-report.md) |
-| 2026-02-21 | [☀️ Morning](reports/2026-02-21-morning-report.md) |
-| 2026-02-20 | [☀️ Morning](reports/2026-02-20-morning-report.github.io/stock-reports/reports/2026-02-20-morning-report.md) |
-| 2026-02-20 | [🌙 Afternoon](reports/2026-02-20-afternoon-report.md) |
-| 2026-02-19 | [☀️ Morning](reports/2026-02-19-morning-report.md) |
-| 2026-02-19 | [🌙 Afternoon](reports/2026-02-19-afternoon-report.md) |
-| 2026-02-18 | [☀️ Morning](reports/2026-02-18-morning-report.md) |
-| 2026-02-18 | [🌙 Afternoon](reports/2026-02-18-afternoon-report.md) |
-| 2026-02-17 | [☀️ Morning](reports/2026-02-17-morning-report.md) |
-| 2026-02-17 | [🌙 Afternoon](reports/2026-02-17-afternoon-report.md) |
-| 2026-02-16 | [🔧 Manual](reports/2026-02-16-manual-report.md) |
-| 2026-02-16 | [🌙 Afternoon](reports/2026-02-16-afternoon-report.md) |
-| 2026-02-15 | [🌙 Afternoon](reports/2026-02-15-afternoon-report.md) |
+| 2026-03-04 | [☀️ Morning](reports/2026-03-04-morning-report.md) |
+| 2026-03-04 | [🌙 Afternoon](reports/2026-03-04-afternoon-report.md) |
+| 2026-03-03 | [☀️ Morning](reports/2026-03-03-morning-report.md) |
+| 2026-03-03 | [🌙 Afternoon](reports/2026-03-03-afternoon-report.md) |
+| 2026-03-02 | [🌙 Afternoon](reports/2026-03-02-afternoon-report.md) |
+| 2026-03-01 | [📈 Weekly](reports/2026-03-01-weekly-report.md) |
+| 2026-03-01 | [🌙 Afternoon](reports/2026-03-01-afternoon-report.md) |
+| 2026-02-28 | [🗓️ Weekend](reports/2026-02-28-weekend-openai-test.md) |
+| 2026-02-28 | [🗓️ Weekend](reports/2026-02-28-weekend-glm5-test.md) |
+| 2026-02-28 | [☀️ Morning](reports/2026-02-28-morning-report.md) |
+| 2026-02-28 | [🌙 Afternoon](reports/2026-02-28-afternoon-report.md) |
+| 2026-02-27 | [☀️ Morning](reports/2026-02-27-morning-report.md) |
+| 2026-02-27 | [🌙 Afternoon](reports/2026-02-27-afternoon-report.md) |
+| 2026-02-26 | [☀️ Morning](reports/2026-02-26-morning-report.md) |
+| 2026-02-26 | [🌙 Afternoon](reports/2026-02-26-afternoon-report.md) |
+| 2026-02-25 | [☀️ Morning](reports/2026-02-25-morning-report.md) |
+| 2026-02-25 | [🌙 Afternoon](reports/2026-02-25-afternoon-report.md) |
+| 2026-02-24 | [☀️ Morning](reports/2026-02-24-morning-report.md) |
+| 2026-02-23 | [☀️ Morning](reports/2026-02-23-morning-report.md) |
+| 2026-02-23 | [🌙 Afternoon](reports/2026-02-23-afternoon-report.md) |
 
 ## 🔗 快速访问
 

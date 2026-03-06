@@ -1,0 +1,125 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='620' viewBox='0 0 1200 620'>
+<rect width='100%' height='100%' fill='white'/>
+<text x='70' y='30' font-size='24' font-family='Arial' fill='#111'>SI=F 周线K线图（1Y）</text>
+<line x1='70' y1='50.0' x2='1170' y2='50.0' stroke='#e5e7eb' stroke-width='1'/>
+<text x='8' y='54.0' font-size='14' font-family='Arial' fill='#6b7280'>121.30</text>
+<line x1='70' y1='152.0' x2='1170' y2='152.0' stroke='#e5e7eb' stroke-width='1'/>
+<text x='8' y='156.0' font-size='14' font-family='Arial' fill='#6b7280'>102.70</text>
+<line x1='70' y1='254.0' x2='1170' y2='254.0' stroke='#e5e7eb' stroke-width='1'/>
+<text x='8' y='258.0' font-size='14' font-family='Arial' fill='#6b7280'>84.10</text>
+<line x1='70' y1='356.0' x2='1170' y2='356.0' stroke='#e5e7eb' stroke-width='1'/>
+<text x='8' y='360.0' font-size='14' font-family='Arial' fill='#6b7280'>65.51</text>
+<line x1='70' y1='458.0' x2='1170' y2='458.0' stroke='#e5e7eb' stroke-width='1'/>
+<text x='8' y='462.0' font-size='14' font-family='Arial' fill='#6b7280'>46.91</text>
+<line x1='70' y1='560.0' x2='1170' y2='560.0' stroke='#e5e7eb' stroke-width='1'/>
+<text x='8' y='564.0' font-size='14' font-family='Arial' fill='#6b7280'>28.31</text>
+<line x1='80.58' y1='532.69' x2='80.58' y2='525.62' stroke='#dc2626' stroke-width='1.4'/>
+<rect x='74.70' y='528.57' width='11.75' height='4.11' fill='#dc2626' stroke='#dc2626'/>
+<line x1='101.73' y1='532.82' x2='101.73' y2='521.86' stroke='#16a34a' stroke-width='1.4'/>
+<rect x='95.85' y='525.26' width='11.75' height='6.41' fill='#16a34a' stroke='#16a34a'/>
+<line x1='122.88' y1='555.58' x2='122.88' y2='523.31' stroke='#dc2626' stroke-width='1.4'/>
+<rect x='117.01' y='524.63' width='11.75' height='30.95' fill='#dc2626' stroke='#dc2626'/>
+<line x1='144.04' y1='560.00' x2='144.04' y2='540.73' stroke='#16a34a' stroke-width='1.4'/>
+<rect x='138.16' y='540.73' width='11.75' height='18.50' fill='#16a34a' stroke='#16a34a'/>
+<line x1='165.19' y1='540.86' x2='165.19' y2='534.14' stroke='#16a34a' stroke-width='1.4'/>
+<rect x='159.32' y='537.46' width='11.75' height='3.40' fill='#16a34a' stroke='#16a34a'/>
+<line x1='186.35' y1='537.04' x2='186.35' y2='531.26' stroke='#16a34a' stroke-width='1.4'/>
+<rect x='180.47' y='534.34' width='11.75' height='1.86' fill='#16a34a' stroke='#16a34a'/>
+<line x1='207.50' y1='541.49' x2='207.50' y2='531.45' stroke='#dc2626' stroke-width='1.4'/>
+<rect x='201.62' y='534.33' width='11.75' height='5.49' fill='#dc2626' stroke='#dc2626'/>
+<line x1='228.65' y1='540.23' x2='228.65' y2='533.24' stroke='#16a34a' stroke-width='1.4'/>
+<rect x='222.78' y='536.05' width='11.75' height='4.15' fill='#16a34a' stroke='#16a34a'/>
+<line x1='249.81' y1='540.26' x2='249.81' y2='533.15' stroke='#dc2626' stroke-width='1.4'/>
+<rect x='243.93' y='536.55' width='11.75' height='2.34' fill='#dc2626' stroke='#dc2626'/>
+<line x1='270.96' y1='539.38' x2='270.96' y2='531.12' stroke='#16a34a' stroke-width='1.4'/>
+<rect x='265.09' y='531.85' width='11.75' height='5.50' fill='#16a34a' stroke='#16a34a'/>
+<line x1='292.12' y1='536.14' x2='292.12' y2='531.86' stroke='#dc2626' stroke-width='1.4'/>
+<rect x='286.24' y='533.02' width='11.75' height='1.85' fill='#dc2626' stroke='#dc2626'/>
+<line x1='313.27' y1='531.81' x2='313.27' y2='515.88' stroke='#16a34a' stroke-width='1.4'/>
+<rect x='307.39' y='517.69' width='11.75' height='14.12' fill='#16a34a' stroke='#16a34a'/>
+<line x1='334.42' y1='519.14' x2='334.42' y2='514.05' stroke='#dc2626' stroke-width='1.4'/>
+<rect x='328.55' y='514.05' width='11.75' height='2.23' fill='#dc2626' stroke='#dc2626'/>
+<line x1='355.58' y1='519.06' x2='355.58' y2='510.94' stroke='#dc2626' stroke-width='1.4'/>
+<rect x='349.70' y='516.45' width='11.75' height='1.50' fill='#dc2626' stroke='#dc2626'/>
+<line x1='376.73' y1='520.02' x2='376.73' y2='514.31' stroke='#dc2626' stroke-width='1.4'/>
+<rect x='370.85' y='516.95' width='11.75' height='1.20' fill='#dc2626' stroke='#dc2626'/>
+<line x1='397.88' y1='521.83' x2='397.88' y2='512.67' stroke='#16a34a' stroke-width='1.4'/>
+<rect x='392.01' y='513.57' width='11.75' height='4.83' fill='#16a34a' stroke='#16a34a'/>
+<line x1='419.04' y1='517.14' x2='419.04' y2='501.76' stroke='#16a34a' stroke-width='1.4'/>
+<rect x='413.16' y='503.15' width='11.75' height='8.70' fill='#16a34a' stroke='#16a34a'/>
+<line x1='440.19' y1='508.64' x2='440.19' y2='500.60' stroke='#dc2626' stroke-width='1.4'/>
+<rect x='434.32' y='500.82' width='11.75' height='4.81' fill='#dc2626' stroke='#dc2626'/>
+<line x1='461.35' y1='506.64' x2='461.35' y2='499.12' stroke='#dc2626' stroke-width='1.4'/>
+<rect x='455.47' y='501.40' width='11.75' height='4.54' fill='#dc2626' stroke='#dc2626'/>
+<line x1='482.50' y1='515.93' x2='482.50' y2='505.81' stroke='#dc2626' stroke-width='1.4'/>
+<rect x='476.62' y='506.14' width='11.75' height='7.37' fill='#dc2626' stroke='#dc2626'/>
+<line x1='503.65' y1='511.54' x2='503.65' y2='503.46' stroke='#16a34a' stroke-width='1.4'/>
+<rect x='497.78' y='504.57' width='11.75' height='6.98' fill='#16a34a' stroke='#16a34a'/>
+<line x1='524.81' y1='509.30' x2='524.81' y2='504.09' stroke='#dc2626' stroke-width='1.4'/>
+<rect x='518.93' y='506.64' width='11.75' height='1.20' fill='#dc2626' stroke='#dc2626'/>
+<line x1='545.96' y1='511.22' x2='545.96' y2='501.35' stroke='#16a34a' stroke-width='1.4'/>
+<rect x='540.09' y='501.35' width='11.75' height='5.77' fill='#16a34a' stroke='#16a34a'/>
+<line x1='567.12' y1='504.06' x2='567.12' y2='494.21' stroke='#16a34a' stroke-width='1.4'/>
+<rect x='561.24' y='494.79' width='11.75' height='7.87' fill='#16a34a' stroke='#16a34a'/>
+<line x1='588.27' y1='494.87' x2='588.27' y2='486.48' stroke='#16a34a' stroke-width='1.4'/>
+<rect x='582.39' y='490.00' width='11.75' height='4.88' fill='#16a34a' stroke='#16a34a'/>
+<line x1='609.42' y1='491.07' x2='609.42' y2='482.80' stroke='#16a34a' stroke-width='1.4'/>
+<rect x='603.55' y='482.80' width='11.75' height='6.78' fill='#16a34a' stroke='#16a34a'/>
+<line x1='630.58' y1='487.69' x2='630.58' y2='480.17' stroke='#16a34a' stroke-width='1.4'/>
+<rect x='624.70' y='481.98' width='11.75' height='1.79' fill='#16a34a' stroke='#16a34a'/>
+<line x1='651.73' y1='477.79' x2='651.73' y2='461.77' stroke='#16a34a' stroke-width='1.4'/>
+<rect x='645.85' y='461.77' width='11.75' height='13.99' fill='#16a34a' stroke='#16a34a'/>
+<line x1='672.88' y1='466.35' x2='672.88' y2='454.22' stroke='#16a34a' stroke-width='1.4'/>
+<rect x='667.01' y='454.22' width='11.75' height='7.99' fill='#16a34a' stroke='#16a34a'/>
+<line x1='694.04' y1='458.95' x2='694.04' y2='443.84' stroke='#dc2626' stroke-width='1.4'/>
+<rect x='688.16' y='452.59' width='11.75' height='5.25' fill='#dc2626' stroke='#dc2626'/>
+<line x1='715.19' y1='449.08' x2='715.19' y2='422.72' stroke='#16a34a' stroke-width='1.4'/>
+<rect x='709.32' y='441.79' width='11.75' height='2.87' fill='#16a34a' stroke='#16a34a'/>
+<line x1='736.35' y1='456.29' x2='736.35' y2='433.20' stroke='#dc2626' stroke-width='1.4'/>
+<rect x='730.47' y='438.77' width='11.75' height='11.18' fill='#dc2626' stroke='#dc2626'/>
+<line x1='757.50' y1='463.83' x2='757.50' y2='448.28' stroke='#16a34a' stroke-width='1.4'/>
+<rect x='751.62' y='452.04' width='11.75' height='1.20' fill='#16a34a' stroke='#16a34a'/>
+<line x1='778.65' y1='458.56' x2='778.65' y2='450.09' stroke='#16a34a' stroke-width='1.4'/>
+<rect x='772.78' y='451.92' width='11.75' height='1.20' fill='#16a34a' stroke='#16a34a'/>
+<line x1='799.81' y1='443.78' x2='799.81' y2='418.01' stroke='#16a34a' stroke-width='1.4'/>
+<rect x='793.93' y='437.81' width='11.75' height='5.98' fill='#16a34a' stroke='#16a34a'/>
+<line x1='820.96' y1='451.33' x2='820.96' y2='431.44' stroke='#dc2626' stroke-width='1.4'/>
+<rect x='815.09' y='436.93' width='11.75' height='4.81' fill='#dc2626' stroke='#dc2626'/>
+<line x1='842.12' y1='443.26' x2='842.12' y2='405.64' stroke='#16a34a' stroke-width='1.4'/>
+<rect x='836.24' y='405.69' width='11.75' height='37.57' fill='#16a34a' stroke='#16a34a'/>
+<line x1='863.27' y1='407.37' x2='863.27' y2='392.23' stroke='#16a34a' stroke-width='1.4'/>
+<rect x='857.39' y='394.85' width='11.75' height='12.08' fill='#16a34a' stroke='#16a34a'/>
+<line x1='884.42' y1='399.80' x2='884.42' y2='364.65' stroke='#16a34a' stroke-width='1.4'/>
+<rect x='878.55' y='378.73' width='11.75' height='17.29' fill='#16a34a' stroke='#16a34a'/>
+<line x1='905.58' y1='379.45' x2='905.58' y2='348.66' stroke='#16a34a' stroke-width='1.4'/>
+<rect x='899.70' y='348.66' width='11.75' height='30.80' fill='#16a34a' stroke='#16a34a'/>
+<line x1='926.73' y1='347.78' x2='926.73' y2='282.87' stroke='#16a34a' stroke-width='1.4'/>
+<rect x='920.85' y='295.78' width='11.75' height='52.00' fill='#16a34a' stroke='#16a34a'/>
+<line x1='947.88' y1='332.14' x2='947.88' y2='278.15' stroke='#dc2626' stroke-width='1.4'/>
+<rect x='942.01' y='278.15' width='11.75' height='50.15' fill='#dc2626' stroke='#dc2626'/>
+<line x1='969.04' y1='313.99' x2='969.04' y2='271.57' stroke='#16a34a' stroke-width='1.4'/>
+<rect x='963.16' y='282.63' width='11.75' height='25.83' fill='#16a34a' stroke='#16a34a'/>
+<line x1='990.19' y1='265.54' x2='990.19' y2='205.21' stroke='#16a34a' stroke-width='1.4'/>
+<rect x='984.32' y='232.13' width='11.75' height='33.41' fill='#16a34a' stroke='#16a34a'/>
+<line x1='1011.35' y1='212.94' x2='1011.35' y2='150.78' stroke='#16a34a' stroke-width='1.4'/>
+<rect x='1005.47' y='161.75' width='11.75' height='47.19' fill='#16a34a' stroke='#16a34a'/>
+<line x1='1032.50' y1='298.31' x2='1032.50' y2='50.00' stroke='#dc2626' stroke-width='1.4'/>
+<rect x='1026.62' y='139.15' width='11.75' height='146.74' fill='#dc2626' stroke='#dc2626'/>
+<line x1='1053.65' y1='338.43' x2='1053.65' y2='216.32' stroke='#dc2626' stroke-width='1.4'/>
+<rect x='1047.78' y='271.02' width='11.75' height='23.39' fill='#dc2626' stroke='#dc2626'/>
+<line x1='1074.81' y1='304.86' x2='1074.81' y2='251.99' stroke='#dc2626' stroke-width='1.4'/>
+<rect x='1068.93' y='273.74' width='11.75' height='14.56' fill='#dc2626' stroke='#dc2626'/>
+<line x1='1095.96' y1='320.38' x2='1095.96' y2='252.29' stroke='#16a34a' stroke-width='1.4'/>
+<rect x='1090.09' y='263.99' width='11.75' height='38.02' fill='#16a34a' stroke='#16a34a'/>
+<line x1='1117.12' y1='249.20' x2='1117.12' y2='200.38' stroke='#16a34a' stroke-width='1.4'/>
+<rect x='1111.24' y='206.95' width='11.75' height='33.93' fill='#16a34a' stroke='#16a34a'/>
+<line x1='1138.27' y1='281.99' x2='1138.27' y2='189.52' stroke='#dc2626' stroke-width='1.4'/>
+<rect x='1132.39' y='189.52' width='11.75' height='77.73' fill='#dc2626' stroke='#dc2626'/>
+<line x1='1159.42' y1='266.72' x2='1159.42' y2='247.25' stroke='#16a34a' stroke-width='1.4'/>
+<rect x='1153.55' y='252.65' width='11.75' height='9.84' fill='#16a34a' stroke='#16a34a'/>
+<line x1='70' y1='560' x2='1170' y2='560' stroke='#111' stroke-width='1.2'/>
+<line x1='70' y1='50' x2='70' y2='560' stroke='#111' stroke-width='1.2'/>
+<text x='45.6' y='600' font-size='13' font-family='Arial' fill='#6b7280'>2025-03-17</text>
+<text x='595.6' y='600' font-size='13' font-family='Arial' fill='#6b7280'>2025-09-15</text>
+<text x='1124.4' y='600' font-size='13' font-family='Arial' fill='#6b7280'>2026-03-06</text>
+</svg>

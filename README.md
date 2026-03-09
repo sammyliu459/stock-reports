@@ -6,6 +6,13 @@
 
 | 日期 | 报告链接 |
 |------|----------|
+| 2026-03-08 | [🌙 Afternoon](reports/2026-03-08-afternoon-report.md) |
+| 2026-03-07 | [🌙 Afternoon](reports/2026-03-07-afternoon-report.md) |
+| 2026-03-07 | [🗓️ Weekend](reports/2026-03-07-weekend-report.md) |
+| 2026-03-06 | [☀️ Morning](reports/2026-03-06-morning-report.md) |
+| 2026-03-06 | [🌙 Afternoon](reports/2026-03-06-afternoon-report.md) |
+| 2026-03-05 | [☀️ Morning](reports/2026-03-05-morning-report.md) |
+| 2026-03-05 | [🌙 Afternoon](reports/2026-03-05-afternoon-report.md) |
 | 2026-03-04 | [☀️ Morning](reports/2026-03-04-morning-report.md) |
 | 2026-03-04 | [🌙 Afternoon](reports/2026-03-04-afternoon-report.md) |
 | 2026-03-03 | [☀️ Morning](reports/2026-03-03-morning-report.md) |

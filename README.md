@@ -6,6 +6,7 @@
 
 | 日期 | 报告链接 | 模型 |
 |------|----------|------|
+| 2026-03-10 | [🌙 Afternoon](reports/2026-03-10-afternoon-report.md) | Gemini-3 |
 | 2026-03-09 | [☀️ Morning](reports/2026-03-09-morning-report.md) \| [🌙 Afternoon](reports/2026-03-09-afternoon-report.md) | GPT-5.3 |
 | 2026-03-08 | [🌙 Afternoon](reports/2026-03-08-afternoon-report.md) | GPT-5.3 |
 | 2026-03-07 | [🌙 Afternoon](reports/2026-03-07-afternoon-report.md) \| [🗓️ Weekend](reports/2026-03-07-weekend-report.md) | GPT-5.3 |

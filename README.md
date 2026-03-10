@@ -17,15 +17,11 @@
 | 2026-03-01 | [📈 Weekly](reports/2026-03-01-weekly-report.md) \| [🌙 Afternoon](reports/2026-03-01-afternoon-report.md) | Gemini-3 |
 | 2026-02-28 | [🗓️ Weekend](reports/2026-02-28-weekend-openai-test.md) \| [🗓️ Weekend](reports/2026-02-28-weekend-glm5-test.md) | GPT-5 / GLM-5 |
 | 2026-02-28 | [☀️ Morning](reports/2026-02-28-morning-report.md) \| [🌙 Afternoon](reports/2026-02-28-afternoon-report.md) | Gemini-3 |
-| 2026-02-27 | [☀️ Morning](reports/2026-02-27-morning-report.md) |
-| 2026-02-27 | [🌙 Afternoon](reports/2026-02-27-afternoon-report.md) |
-| 2026-02-26 | [☀️ Morning](reports/2026-02-26-morning-report.md) |
-| 2026-02-26 | [🌙 Afternoon](reports/2026-02-26-afternoon-report.md) |
-| 2026-02-25 | [☀️ Morning](reports/2026-02-25-morning-report.md) |
-| 2026-02-25 | [🌙 Afternoon](reports/2026-02-25-afternoon-report.md) |
-| 2026-02-24 | [☀️ Morning](reports/2026-02-24-morning-report.md) |
-| 2026-02-23 | [☀️ Morning](reports/2026-02-23-morning-report.md) |
-| 2026-02-23 | [🌙 Afternoon](reports/2026-02-23-afternoon-report.md) |
+| 2026-02-27 | [☀️ Morning](reports/2026-02-27-morning-report.md) \| [🌙 Afternoon](reports/2026-02-27-afternoon-report.md) | Gemini-3 |
+| 2026-02-26 | [☀️ Morning](reports/2026-02-26-morning-report.md) \| [🌙 Afternoon](reports/2026-02-26-afternoon-report.md) | Gemini-3 |
+| 2026-02-25 | [☀️ Morning](reports/2026-02-25-morning-report.md) \| [🌙 Afternoon](reports/2026-02-25-afternoon-report.md) | Gemini-3 |
+| 2026-02-24 | [☀️ Morning](reports/2026-02-24-morning-report.md) | Gemini-3 |
+| 2026-02-23 | [☀️ Morning](reports/2026-02-23-morning-report.md) \| [🌙 Afternoon](reports/2026-02-23-afternoon-report.md) | Gemini-3 |
 
 ## 🔗 快速访问
 

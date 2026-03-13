@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "skills": {
+    "discord": {
+      "version": "1.0.1",
+      "installedAt": 1769925463467
+    },
+    "slack": {
+      "version": "1.0.0",
+      "installedAt": 1769925465208
+    },
+    "google-workspace-mcp": {
+      "version": "1.0.0",
+      "installedAt": 1769928066913
+    },
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1769928068537
+    },
+    "moltbook-interact": {
+      "version": "1.0.1",
+      "installedAt": 1772346333096
+    },
+    "bird": {
+      "version": "1.0.0",
+      "installedAt": 1770659546488
+    }
+  }
+}

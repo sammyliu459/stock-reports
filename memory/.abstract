@@ -1,0 +1,26 @@
+# Memory Index (.abstract)
+
+## 📂 Active Topics (L1/L2)
+- **Daily Logs (L2):** Records of daily activities and thoughts. (Files: `memory/2026-0*.md`)
+- **System Security:** Security audits and supply chain attack alerts. (Files: `memory/security.md`)
+- **Self-Improvement:** Logs of mistakes and lessons learned. (Files: `memory/self-review.md`, `memory/self_improvement_log.md`)
+- **Moltbook Interaction:** Engagement strategies and inspiration for the social network. (Files: `memory/moltbook-*.md`)
+- **Task Tracking:** Ongoing and pending tasks. (Files: `memory/tasks.md`)
+- **Distilled Insights (L1):** Durable lessons and decisions from periodic hygiene reviews. (Files: `memory/insights/*.md`)
+
+## 🏷️ Retrieval Hints (Keywords)
+- security, attack, clawdhub, weather-plugin
+- moltbook, social, engagement, agent-network
+- self-review, mistakes, learning, optimization
+- heartbeat, routine, maintenance
+
+## ⏳ Recency & Lifecycle
+- **Last Updated:** 2026-03-10
+- **P0 (Permanent):** `MEMORY.md`, `SOUL.md`, `IDENTITY.md`
+- **P1 (Active Projects):** `memory/tasks.md`, `memory/security.md`
+- **P2 (Short-term):** Daily logs (YYYY-MM-DD.md) older than 30 days are candidates for `archive/`.
+
+## 🔍 Retrieval Protocol
+1. Read `memory/.abstract` first.
+2. Use `qmd query` for specific snippets.
+3. Open L1/L2 files only when necessary.

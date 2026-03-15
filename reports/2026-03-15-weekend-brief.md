@@ -74,29 +74,49 @@
 
 ## 市场图表参考
 
+> 📊 点击任意图表可访问 Finviz 完整分析页面
+
 ### 大盘指数趋势
 
-| SPY (S&P 500) | QQQ (Nasdaq 100) | IWM (Russell 2000) |
-|:---:|:---:|:---:|
-| ![SPY](https://charts2.finviz.com/chart.ashx?t=SPY&ty=c&p=d&l=m) | ![QQQ](https://charts2.finviz.com/chart.ashx?t=QQQ&ty=c&p=d&l=m) | ![IWM](https://charts2.finviz.com/chart.ashx?t=IWM&ty=c&p=d&l=m) |
+#### SPY (S&P 500)
+[![SPY Chart](https://charts2.finviz.com/chart.ashx?t=SPY&ty=c&p=d&l=m)](https://finviz.com/quote.ashx?t=SPY)
+
+#### QQQ (Nasdaq 100)
+[![QQQ Chart](https://charts2.finviz.com/chart.ashx?t=QQQ&ty=c&p=d&l=m)](https://finviz.com/quote.ashx?t=QQQ)
+
+#### IWM (Russell 2000)
+[![IWM Chart](https://charts2.finviz.com/chart.ashx?t=IWM&ty=c&p=d&l=m)](https://finviz.com/quote.ashx?t=IWM)
 
 ### 科技股精选
 
-| NVDA | AAPL | TSLA |
-|:---:|:---:|:---:|
-| ![NVDA](https://charts2.finviz.com/chart.ashx?t=NVDA&ty=c&p=d&l=m) | ![AAPL](https://charts2.finviz.com/chart.ashx?t=AAPL&ty=c&p=d&l=m) | ![TSLA](https://charts2.finviz.com/chart.ashx?t=TSLA&ty=c&p=d&l=m) |
+#### NVDA (英伟达)
+[![NVDA Chart](https://charts2.finviz.com/chart.ashx?t=NVDA&ty=c&p=d&l=m)](https://finviz.com/quote.ashx?t=NVDA)
 
-| META | MSFT | AMD |
-|:---:|:---:|:---:|
-| ![META](https://charts2.finviz.com/chart.ashx?t=META&ty=c&p=d&l=m) | ![MSFT](https://charts2.finviz.com/chart.ashx?t=MSFT&ty=c&p=d&l=m) | ![AMD](https://charts2.finviz.com/chart.ashx?t=AMD&ty=c&p=d&l=m) |
+#### AAPL (苹果)
+[![AAPL Chart](https://charts2.finviz.com/chart.ashx?t=AAPL&ty=c&p=d&l=m)](https://finviz.com/quote.ashx?t=AAPL)
+
+#### TSLA (特斯拉)
+[![TSLA Chart](https://charts2.finviz.com/chart.ashx?t=TSLA&ty=c&p=d&l=m)](https://finviz.com/quote.ashx?t=TSLA)
+
+#### META (Meta)
+[![META Chart](https://charts2.finviz.com/chart.ashx?t=META&ty=c&p=d&l=m)](https://finviz.com/quote.ashx?t=META)
+
+#### MSFT (微软)
+[![MSFT Chart](https://charts2.finviz.com/chart.ashx?t=MSFT&ty=c&p=d&l=m)](https://finviz.com/quote.ashx?t=MSFT)
+
+#### AMD (AMD)
+[![AMD Chart](https://charts2.finviz.com/chart.ashx?t=AMD&ty=c&p=d&l=m)](https://finviz.com/quote.ashx?t=AMD)
 
 ### 能源与大宗商品
 
-| XOM (埃克森美孚) | OXY (西方石油) | USO (原油 ETF) |
-|:---:|:---:|:---:|
-| ![XOM](https://charts2.finviz.com/chart.ashx?t=XOM&ty=c&p=d&l=m) | ![OXY](https://charts2.finviz.com/chart.ashx?t=OXY&ty=c&p=d&l=m) | ![USO](https://charts2.finviz.com/chart.ashx?t=USO&ty=c&p=d&l=m) |
+#### XOM (埃克森美孚)
+[![XOM Chart](https://charts2.finviz.com/chart.ashx?t=XOM&ty=c&p=d&l=m)](https://finviz.com/quote.ashx?t=XOM)
 
-> 📊 图表来源: [Finviz](https://finviz.com) | 点击图表可访问完整分析
+#### OXY (西方石油)
+[![OXY Chart](https://charts2.finviz.com/chart.ashx?t=OXY&ty=c&p=d&l=m)](https://finviz.com/quote.ashx?t=OXY)
+
+#### USO (原油 ETF)
+[![USO Chart](https://charts2.finviz.com/chart.ashx?t=USO&ty=c&p=d&l=m)](https://finviz.com/quote.ashx?t=USO)
 
 ---
 

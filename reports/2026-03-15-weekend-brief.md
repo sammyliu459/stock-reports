@@ -70,5 +70,29 @@
 
 ---
 
+## 市场图表参考
+
+### 大盘指数趋势
+![SPY Daily Chart](../charts/2026-03-15/SPY_daily.html)
+![QQQ Daily Chart](../charts/2026-03-15/QQQ_daily.html)
+![IWM Daily Chart](../charts/2026-03-15/IWM_daily.html)
+
+### 贵金属与原油
+![GLD Daily Chart](../charts/2026-03-15/GLD_daily.html)
+![SLV Daily Chart](../charts/2026-03-15/SLV_daily.html)
+![USO Daily Chart](../charts/2026-03-15/USO_daily.html)
+
+### 科技股精选
+![NVDA Daily Chart](../charts/2026-03-15/NVDA_daily.html)
+![AAPL Daily Chart](../charts/2026-03-15/AAPL_daily.html)
+![TSLA Daily Chart](../charts/2026-03-15/TSLA_daily.html)
+![META Daily Chart](../charts/2026-03-15/META_daily.html)
+
+### 能源股精选
+![XOM Daily Chart](../charts/2026-03-15/XOM_daily.html)
+![OXY Daily Chart](../charts/2026-03-15/OXY_daily.html)
+
+---
+
 *简报生成时间: 2026-03-15 09:00 AM PST*
 *下周一（3月16日）美股恢复正常交易*

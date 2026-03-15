@@ -72,25 +72,38 @@
 
 ## 市场图表参考
 
-### 大盘指数趋势
-![SPY Daily Chart](../charts/2026-03-15/SPY_daily.html)
-![QQQ Daily Chart](../charts/2026-03-15/QQQ_daily.html)
-![IWM Daily Chart](../charts/2026-03-15/IWM_daily.html)
+点击股票代码查看 TradingView 实时图表：
 
-### 贵金属与原油
-![GLD Daily Chart](../charts/2026-03-15/GLD_daily.html)
-![SLV Daily Chart](../charts/2026-03-15/SLV_daily.html)
-![USO Daily Chart](../charts/2026-03-15/USO_daily.html)
+### 大盘指数趋势
+- [📈 SPY (S&P 500)](../charts/2026-03-15/SPY_daily.html)
+- [📈 QQQ (Nasdaq 100)](../charts/2026-03-15/QQQ_daily.html)
+- [📈 IWM (Russell 2000)](../charts/2026-03-15/IWM_daily.html)
+- [📈 DIA (Dow Jones)](../charts/2026-03-15/DIA_daily.html)
+- [📈 VIX (波动率指数)](../charts/2026-03-15/VIX_daily.html)
+
+### 贵金属与大宗商品
+- [📈 GLD (黄金 ETF)](../charts/2026-03-15/GLD_daily.html)
+- [📈 SLV (白银 ETF)](../charts/2026-03-15/SLV_daily.html)
+- [📈 USO (原油 ETF)](../charts/2026-03-15/USO_daily.html)
+- [📈 TLT (长期国债)](../charts/2026-03-15/TLT_daily.html)
 
 ### 科技股精选
-![NVDA Daily Chart](../charts/2026-03-15/NVDA_daily.html)
-![AAPL Daily Chart](../charts/2026-03-15/AAPL_daily.html)
-![TSLA Daily Chart](../charts/2026-03-15/TSLA_daily.html)
-![META Daily Chart](../charts/2026-03-15/META_daily.html)
+- [📈 NVDA (英伟达)](../charts/2026-03-15/NVDA_daily.html)
+- [📈 AAPL (苹果)](../charts/2026-03-15/AAPL_daily.html)
+- [📈 TSLA (特斯拉)](../charts/2026-03-15/TSLA_daily.html)
+- [📈 META (Meta)](../charts/2026-03-15/META_daily.html)
+- [📈 MSFT (微软)](../charts/2026-03-15/MSFT_daily.html)
+- [📈 GOOGL (谷歌)](../charts/2026-03-15/GOOGL_daily.html)
+- [📈 AMZN (亚马逊)](../charts/2026-03-15/AMZN_daily.html)
+- [📈 AMD (AMD)](../charts/2026-03-15/AMD_daily.html)
+- [📈 AVGO (博通)](../charts/2026-03-15/AVGO_daily.html)
+- [📈 MU (美光)](../charts/2026-03-15/MU_daily.html)
 
-### 能源股精选
-![XOM Daily Chart](../charts/2026-03-15/XOM_daily.html)
-![OXY Daily Chart](../charts/2026-03-15/OXY_daily.html)
+### 能源与金融
+- [📈 XOM (埃克森美孚)](../charts/2026-03-15/XOM_daily.html)
+- [📈 OXY (西方石油)](../charts/2026-03-15/OXY_daily.html)
+- [📈 JPM (摩根大通)](../charts/2026-03-15/JPM_daily.html)
+- [📈 BRK-B (伯克希尔)](../charts/2026-03-15/BRK-B_daily.html)
 
 ---
 

@@ -7,22 +7,15 @@
 python3 scripts/qa_check.py reports/YYYY-MM-DD-*.md
 ```
 
-## 报告类型
+## 报告类型与频率
 
-### 1. 早间报告 (Morning Report)
-- **时间**: 9:00 AM PST
-- **文件名**: `YYYY-MM-DD-morning-report.md`
-- **内容**: 市场开盘前简报、隔夜新闻、期货数据
+| 类型 | 频率 | 时间 | 文件名 | 内容 |
+|------|------|------|--------|------|
+| 早间报告 | 工作日 | 9:00 AM PST | `YYYY-MM-DD-morning-report.md` | 开盘前简报、隔夜新闻 |
+| 下午报告 | 工作日 | 3:00 PM PST | `YYYY-MM-DD-afternoon-report.md` | 盘后深度分析 |
+| 周末报告 | **每周一份** | 周六或周日 | `YYYY-MM-DD-weekend-report.md` | 本周回顾、下周展望 |
 
-### 2. 下午报告 (Afternoon Report)
-- **时间**: 3:00 PM PST (收盘后)
-- **文件名**: `YYYY-MM-DD-afternoon-report.md`
-- **内容**: 盘后深度分析、个股扫描、技术指标
-
-### 3. 周末简报 (Weekend Brief)
-- **时间**: 周六/周日
-- **文件名**: `YYYY-MM-DD-weekend-brief.md`
-- **内容**: 本周回顾、下周展望
+**注意**: 周末只生成**一份**报告（周六或周日选一天），避免重复。
 
 ## 图表生成
 

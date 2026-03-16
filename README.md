@@ -6,6 +6,7 @@
 
 | 日期 | 报告链接 | 模型 |
 |------|----------|------|
+| 2026-03-16 | [☀️ Morning](reports/2026-03-16-morning-report.md) \| [🌙 Afternoon](reports/2026-03-16-afternoon-report.md) | Kimi-K2.5 |
 | 2026-03-15 | [🌙 Afternoon](reports/2026-03-15-afternoon-report.md) \| [🗓️ Weekend](reports/2026-03-15-weekend-brief.md) | Kimi-K2.5 |
 | 2026-03-14 | [🌙 Afternoon](reports/2026-03-14-afternoon-report.md) | Kimi-K2.5 |
 | 2026-03-13 | [☀️ Morning](reports/2026-03-13-morning-report.md) \| [🌙 Afternoon](reports/2026-03-13-afternoon-report.md) | Kimi-K2.5 |

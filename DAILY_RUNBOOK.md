@@ -50,40 +50,22 @@ print(f'XAU={gp:.2f}\nXAG={sp:.2f}\nRATIO={gp/sp:.2f}\nUPDATED=$(date +%Y-%m-%d)
 
 ## 图表生成
 
-### 路径规则（重要！）
+### 方案 A: Finviz URL 嵌入（唯一方案）
 
-报告在 `reports/` 目录，图表在 `charts/` 目录。**必须用 `../charts/` 前缀！**
+直接用 Finviz URL 嵌入报告，**不要下载本地图片**！
 
 ```markdown
-✅ ![SPY](../charts/2026-03-18/SPY_daily.png)
-❌ ![SPY](./charts/2026-03-18/SPY.png)    ← 会 404
-❌ ![SPY](charts/2026-03-18/SPY.png)      ← 会 404
+![SPY](https://charts2.finviz.com/chart.ashx?t=SPY&ty=c&p=d&l=1)
+![QQQ](https://charts2.finviz.com/chart.ashx?t=QQQ&ty=c&p=d&l=1)
+![GC%3DF](https://charts2.finviz.com/chart.ashx?t=GC%3DF&ty=c&p=d&l=1)
+![SI%3DF](https://charts2.finviz.com/chart.ashx?t=SI%3DF&ty=c&p=d&l=1)
+![NVDA](https://charts2.finviz.com/chart.ashx?t=NVDA&ty=c&p=d&l=1)
+![TSLA](https://charts2.finviz.com/chart.ashx?t=TSLA&ty=c&p=d&l=1)
 ```
 
-QA 脚本会自动检测错误路径（`./charts/` 和 `charts/`）。
+**好处**：实时图片、无路径问题、无本地存储、GitHub Pages 直接渲染
 
-### 方案 A: Finviz 图片 (推荐)
-使用 Finviz 图表 URL 直接嵌入：
-```markdown
-![SPY](https://charts2.finviz.com/chart.ashx?t=SPY&ty=c&p=d&l=m)
-```
-
-参数说明：
-- `t=SPY` - 股票代码
-- `ty=c` - 蜡烛图
-- `p=d` - 日线
-- `l=m` - 中等时间范围
-
-### 方案 B: TradingView HTML (备用)
-生成 TradingView 嵌入页面，以链接形式提供：
-```markdown
-[📈 SPY 图表](../charts/YYYY-MM-DD/SPY_daily.html)
-```
-
-生成脚本：
-```bash
-bash scripts/generate_weekend_report.sh
-```
+**参数**：`t=代码` `ty=c`蜡烛图 `p=d`日线 `l=1`时间范围
 
 ## QA 检查
 

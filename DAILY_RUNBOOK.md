@@ -7,6 +7,37 @@
 python3 scripts/qa_check.py reports/YYYY-MM-DD-*.md
 ```
 
+## ⚠️ 黄金/白银数据源（必须使用）
+
+每次生成报告，**必须**先读取 `/tmp/stock-reports/.metals.txt` 获取金银价格。**禁止自己编数字！**
+
+### 数据格式
+```
+XAU=4822.90
+XAG=75.53
+RATIO=63.86
+UPDATED=2026-03-18
+SOURCE=yfinance
+```
+
+### 更新流程
+1. 检查 `UPDATED` 日期
+2. 如果超过24小时，用 yfinance 重新获取：
+```bash
+python3 -c "
+import yfinance as yf
+g = yf.Ticker('GC=F')
+s = yf.Ticker('SI=F')
+gp = g.fast_info.last_price
+sp = s.fast_info.last_price
+print(f'XAU={gp:.2f}\nXAG={sp:.2f}\nRATIO={gp/sp:.2f}\nUPDATED=$(date +%Y-%m-%d)\nSOURCE=yfinance')
+" > /tmp/stock-reports/.metals.txt
+```
+3. 报告中引用 `.metals.txt` 的 XAU/XAG/RATIO 值
+
+### 事故教训
+- 2026-03-18: morning report 用了错误的黄金价格 ($4867 vs 实际 $4822.90)，因为没有强制使用 `.metals.txt`
+
 ## 报告类型与频率
 
 | 类型 | 频率 | 时间 | 文件名 | 内容 |

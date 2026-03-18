@@ -50,6 +50,18 @@ print(f'XAU={gp:.2f}\nXAG={sp:.2f}\nRATIO={gp/sp:.2f}\nUPDATED=$(date +%Y-%m-%d)
 
 ## 图表生成
 
+### 路径规则（重要！）
+
+报告在 `reports/` 目录，图表在 `charts/` 目录。**必须用 `../charts/` 前缀！**
+
+```markdown
+✅ ![SPY](../charts/2026-03-18/SPY_daily.png)
+❌ ![SPY](./charts/2026-03-18/SPY.png)    ← 会 404
+❌ ![SPY](charts/2026-03-18/SPY.png)      ← 会 404
+```
+
+QA 脚本会自动检测错误路径（`./charts/` 和 `charts/`）。
+
 ### 方案 A: Finviz 图片 (推荐)
 使用 Finviz 图表 URL 直接嵌入：
 ```markdown

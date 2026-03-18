@@ -111,11 +111,36 @@ git push origin main
 open https://sammyliu459.github.io/stock-reports/
 ```
 
+## ⚠️ Telegram 发送格式（必须遵守）
+
+Telegram 不支持 Markdown 表格和图片语法！发送到 Telegram 的消息必须：
+
+1. **用 bullet list 代替表格** ✅ `• 黄金: $4,822` ❌ `| 黄金 | $4,822 |`
+2. **不要用 `![img](path)`** — Telegram 显示为纯文本
+3. **报告链接用 GitHub Pages HTML**：
+   - ✅ `https://sammyliu459.github.io/stock-reports/reports/YYYY-MM-DD-morning-report.html`
+   - ❌ `reports/YYYY-MM-DD-morning-report.md`（不可点击，显示源码）
+4. **消息格式**：
+```
+📊 早间报告 2026-03-18
+• 黄金: $4,822.90
+• 白银: $75.53
+• 金银比: 63.86
+• SPY: 高位震荡
+在线查看: https://sammyliu459.github.io/stock-reports/reports/2026-03-18-morning-report.html
+```
+
+**注意**：.md 报告文件本身可以正常使用 markdown 表格和图片（GitHub Pages 渲染用）。
+
 ## 常见问题
 
 ### 表格不显示
 **原因**: Jekyll/kramdown 要求表格前后有空行  
 **修复**: 在表格前添加空行
+
+### Telegram 表格变纯文本
+**原因**: Telegram 不支持 markdown 表格  
+**修复**: Telegram 消息改用 bullet list
 
 ### 图片不显示
 **原因**: HTML 文件被当作图片引用  
@@ -124,6 +149,10 @@ open https://sammyliu459.github.io/stock-reports/
 ### 链接 404
 **原因**: 相对路径错误  
 **修复**: reports/ 下的文件使用 `../charts/` 而非 `charts/`
+
+### Telegram 链接指向 .md 文件
+**原因**: 使用了 GitHub 源文件 URL 而非 Pages URL  
+**修复**: 改用 `https://sammyliu459.github.io/stock-reports/reports/YYYY-MM-DD-morning-report.html`
 
 ## 工具脚本
 

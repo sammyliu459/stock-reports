@@ -14,8 +14,8 @@
 | 金银比 | 63.86 | 计算值 |
 
 ### 贵金属图表
-![黄金走势图](./charts/2026-03-18/GC_F.png)
-![白银走势图](./charts/2026-03-18/SI_F.png)
+![黄金走势图](../charts/2026-03-18/GC_F.png)
+![白银走势图](../charts/2026-03-18/SI_F.png)
 
 ---
 
@@ -28,9 +28,9 @@
 | VIXY | $33.59 | +8.01% | 6,980,059 |
 
 ### 指数图表
-![SPY走势图](./charts/2026-03-18/SPY.png)
-![QQQ走势图](./charts/2026-03-18/QQQ.png)
-![VIXY走势图](./charts/2026-03-18/VIXY.png)
+![SPY走势图](../charts/2026-03-18/SPY.png)
+![QQQ走势图](../charts/2026-03-18/QQQ.png)
+![VIXY走势图](../charts/2026-03-18/VIXY.png)
 
 ---
 
@@ -48,14 +48,14 @@
 | META | $615.68 | -1.15% | 11,622,275 |
 
 ### 个股图表
-![NVDA走势图](./charts/2026-03-18/NVDA.png)
-![TSLA走势图](./charts/2026-03-18/TSLA.png)
-![AAPL走势图](./charts/2026-03-18/AAPL.png)
-![AMD走势图](./charts/2026-03-18/AMD.png)
-![MSFT走势图](./charts/2026-03-18/MSFT.png)
-![AMZN走势图](./charts/2026-03-18/AMZN.png)
-![GOOGL走势图](./charts/2026-03-18/GOOGL.png)
-![META走势图](./charts/2026-03-18/META.png)
+![NVDA走势图](../charts/2026-03-18/NVDA.png)
+![TSLA走势图](../charts/2026-03-18/TSLA.png)
+![AAPL走势图](../charts/2026-03-18/AAPL.png)
+![AMD走势图](../charts/2026-03-18/AMD.png)
+![MSFT走势图](../charts/2026-03-18/MSFT.png)
+![AMZN走势图](../charts/2026-03-18/AMZN.png)
+![GOOGL走势图](../charts/2026-03-18/GOOGL.png)
+![META走势图](../charts/2026-03-18/META.png)
 
 ---
 

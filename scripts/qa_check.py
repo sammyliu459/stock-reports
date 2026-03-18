@@ -81,9 +81,11 @@ def check_links(md_text: str, file_path: str):
     """检查链接格式"""
     errors = []
 
-    # 检查相对路径格式
+    # 检查相对路径格式 - 报告在 reports/ 里，图表在 charts/ 里，必须用 ../charts/
     if '](charts/' in md_text:
         errors.append("Found '](charts/' - should be '](../charts/' for reports in subdir")
+    if '](./charts/' in md_text:
+        errors.append("Found '](./charts/' - should be '](../charts/' (reports/ is parent of charts/)")
 
     return errors
 

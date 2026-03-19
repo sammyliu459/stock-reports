@@ -38,11 +38,11 @@
 
 ## 🥇 Precious Metals Charts
 
-### Gold Futures (GC=F)
-![GC=F](https://charts2.finviz.com/chart.ashx?t=GC%3DF&ty=c&p=d&l=1)
+### GLD (Gold ETF)
+![GLD](https://charts2.finviz.com/chart.ashx?t=GLD&ty=c&p=d&l=1)
 
-### Silver Futures (SI=F)
-![SI=F](https://charts2.finviz.com/chart.ashx?t=SI%3DF&ty=c&p=d&l=1)
+### SLV (Silver ETF)
+![SLV](https://charts2.finviz.com/chart.ashx?t=SLV&ty=c&p=d&l=1)
 
 ---
 

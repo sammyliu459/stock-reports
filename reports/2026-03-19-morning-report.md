@@ -25,13 +25,20 @@
 
 ---
 
-## 🥇 贵金属期货
+## 🥇 贵金属 ETF
 
-### 黄金期货 (GC=F)
-📊 [TradingView 黄金期货图表](https://www.tradingview.com/chart/?symbol=COMEX%3AGC1!)
+### GLD (黄金 ETF)
+![GLD](https://charts2.finviz.com/chart.ashx?t=GLD&ty=c&p=d&l=1)
 
-### 白银期货 (SI=F)
-📊 [TradingView 白银期货图表](https://www.tradingview.com/chart/?symbol=COMEX%3ASI1!)
+### SLV (白银 ETF)
+![SLV](https://charts2.finviz.com/chart.ashx?t=SLV&ty=c&p=d&l=1)
+
+---
+
+## 🛢️ 能源 ETF
+
+### USO (原油 ETF)
+![USO](https://charts2.finviz.com/chart.ashx?t=USO&ty=c&p=d&l=1)
 
 ---
 

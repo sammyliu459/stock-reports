@@ -27,11 +27,11 @@
 
 ## 🥇 贵金属期货
 
-### 黄金期货 (GC1!)
-![GC1!](https://charts2.finviz.com/chart.ashx?t=GC1!&ty=c&p=d&l=1)
+### 黄金期货 (GC=F)
+📊 [TradingView 黄金期货图表](https://www.tradingview.com/chart/?symbol=COMEX%3AGC1!)
 
-### 白银期货 (SI1!)
-![SI1!](https://charts2.finviz.com/chart.ashx?t=SI1!&ty=c&p=d&l=1)
+### 白银期货 (SI=F)
+📊 [TradingView 白银期货图表](https://www.tradingview.com/chart/?symbol=COMEX%3ASI1!)
 
 ---
 

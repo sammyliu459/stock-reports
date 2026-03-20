@@ -8,8 +8,8 @@
 
 ## 🏆 贵金属市场
 
-- **黄金 (GC=F):** $4,551.90
-- **白银 (SI=F):** $69.10
+- **黄金 (GLD):** $4,551.90
+- **白银 (SLV):** $69.10
 - **金银比率:** 65.88
 
 ---
@@ -24,13 +24,13 @@
 
 ---
 
-## 💰 贵金属期货
+## 💰 贵金属ETF
 
-### 黄金期货 (GC=F)
-![GC=F](https://charts2.finviz.com/chart.ashx?t=GC%3DF&ty=c&p=d&l=1)
+### 黄金ETF (GLD)
+![GLD](https://charts2.finviz.com/chart.ashx?t=GLD&ty=c&p=d&l=1)
 
-### 白银期货 (SI=F)
-![SI=F](https://charts2.finviz.com/chart.ashx?t=SI%3DF&ty=c&p=d&l=1)
+### 白银ETF (SLV)
+![SLV](https://charts2.finviz.com/chart.ashx?t=SLV&ty=c&p=d&l=1)
 
 ---
 

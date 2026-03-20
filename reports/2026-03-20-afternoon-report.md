@@ -25,9 +25,9 @@
 
 ### 贵金属图表
 
-![黄金 GC=F](https://charts2.finviz.com/chart.ashx?t=GC%3DF&ty=c&p=d&l=1)
+![黄金 GLD](https://charts2.finviz.com/chart.ashx?t=GLD&ty=c&p=d&l=1)
 
-![白银 SI=F](https://charts2.finviz.com/chart.ashx?t=SI%3DF&ty=c&p=d&l=1)
+![白银 SLV](https://charts2.finviz.com/chart.ashx?t=SLV&ty=c&p=d&l=1)
 
 ### 贵金属市场动态
 

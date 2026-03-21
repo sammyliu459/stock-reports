@@ -5,8 +5,12 @@
 ## 📊 最新报告
 
 | 日期 | 报告链接 | 模型 |
-| 2026-03-17 | [☀️ Morning](reports/2026-03-17-morning-report.md) | [🌙 Afternoon](reports/2026-03-17-afternoon-report.md) | Kimi-K2.5 |
 |------|----------|------|
+| 2026-03-21 | [☀️ Morning](reports/2026-03-21-morning-report.md) | | Kimi-K2.5 |
+| 2026-03-20 | [☀️ Morning](reports/2026-03-20-morning-report.md) \| [🌙 Afternoon](reports/2026-03-20-afternoon-report.md) | Kimi-K2.5 |
+| 2026-03-19 | [☀️ Morning](reports/2026-03-19-morning-report.md) \| [🌙 Afternoon](reports/2026-03-19-afternoon-report.md) | Kimi-K2.5 |
+| 2026-03-18 | [☀️ Morning](reports/2026-03-18-morning-report.md) \| [🌙 Afternoon](reports/2026-03-18-afternoon-report.md) | Kimi-K2.5 |
+| 2026-03-17 | [☀️ Morning](reports/2026-03-17-morning-report.md) \| [🌙 Afternoon](reports/2026-03-17-afternoon-report.md) | Kimi-K2.5 |
 | 2026-03-16 | [☀️ Morning](reports/2026-03-16-morning-report.md) \| [🌙 Afternoon](reports/2026-03-16-afternoon-report.md) | Kimi-K2.5 |
 | 2026-03-15 | [🌙 Afternoon](reports/2026-03-15-afternoon-report.md) \| [🗓️ Weekend](reports/2026-03-15-weekend-brief.md) | Kimi-K2.5 |
 | 2026-03-14 | [🌙 Afternoon](reports/2026-03-14-afternoon-report.md) | Kimi-K2.5 |

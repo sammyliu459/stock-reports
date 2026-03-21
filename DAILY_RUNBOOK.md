@@ -84,7 +84,31 @@ for f in reports/*.md; do python3 scripts/qa_check.py "$f"; done
 - ✅ 链接路径正确（`../charts/` 而非 `charts/`）
 - ✅ 文档结构完整（有 H1 标题）
 
-## 发布流程
+## 发布流程（推荐）
+
+使用统一脚本，自动完成 QA 检查、README 更新和 GitHub 推送：
+
+```bash
+# 1. 先生成报告（手动或脚本）
+# ...
+
+# 2. 一键发布（自动 QA + 更新索引 + Git 推送）
+./scripts/generate_and_publish.sh morning    # 早间报告
+./scripts/generate_and_publish.sh afternoon  # 下午报告
+./scripts/generate_and_publish.sh weekend    # 周末报告
+```
+
+**脚本会自动：**
+- ✅ 检查并更新金银数据（.metals.txt）
+- ✅ QA 检查报告格式
+- ✅ **更新 README.md 索引**（防止遗漏）
+- ✅ Git add / commit / push
+
+---
+
+## 手动发布流程（备用）
+
+如果不用脚本，**必须**执行以下步骤：
 
 ```bash
 # 1. 生成/更新报告
@@ -93,7 +117,7 @@ for f in reports/*.md; do python3 scripts/qa_check.py "$f"; done
 # 2. QA 检查
 python3 scripts/qa_check.py reports/YYYY-MM-DD-*.md
 
-# 3. 更新 README 索引
+# 3. ⚠️ 更新 README 索引（容易遗漏！）
 python3 scripts/update_readme_index.py
 
 # 4. 提交到 GitHub

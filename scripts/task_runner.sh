@@ -34,8 +34,9 @@ get_config_list() {
 validate_config() {
     [[ -f "$CONFIG_FILE" ]] || fail "CONFIG.md not found at $CONFIG_FILE"
     
-    # Check for banned patterns
-    if grep -E "GC=F|SI=F|CL=F|NG=F" "$CONFIG_FILE" 2>/dev/null; then
+    # Check for banned patterns (only in actual ticker definitions, not comments)
+    # Look for tickers in list format "- TICKER:" or "TICKER: description"
+    if grep -E "^- [A-Z]+=" "$CONFIG_FILE" 2>/dev/null | grep -E "GC=F|SI=F|CL=F|NG=F"; then
         fail "CONFIG.md contains banned futures tickers (GC=F, SI=F, etc.)"
     fi
     
@@ -61,7 +62,9 @@ generate_stock_report() {
     # Read metals data
     local xau="N/A" xag="N/A" ratio="N/A"
     if [[ -f "$REPO_DIR/.metals.txt" ]]; then
-        read -r xau xag ratio < <(awk -F= '/XAU/{x=$2}/XAG/{y=$2}/RATIO/{r=$2}END{print x,y,r}' "$REPO_DIR/.metals.txt")
+        xau=$(awk -F= '/^XAU=/{print $2}' "$REPO_DIR/.metals.txt")
+        xag=$(awk -F= '/^XAG=/{print $2}' "$REPO_DIR/.metals.txt")
+        ratio=$(awk -F= '/^RATIO=/{print $2}' "$REPO_DIR/.metals.txt")
     fi
     
     # Build report

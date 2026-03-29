@@ -12,3 +12,4 @@ stooq_*.png
 
 # Ad-hoc local chart experiments (keep report charts only)
 charts/*/*_candlestick_finviz.png
+__pycache__/

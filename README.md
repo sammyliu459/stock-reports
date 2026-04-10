@@ -6,26 +6,26 @@
 
 | 日期 | 报告链接 | 模型 |
 |------|----------|------|
-| 2026-03-21 | [☀️ Morning](reports/2026-03-21-morning-report.md) | | Kimi-K2.5 |
+| 2026-04-08 | [☀️ Morning](reports/2026-04-08-morning-report.md) \| [🌙 Afternoon](reports/2026-04-08-afternoon-report.md) | Kimi-K2.5 |
+| 2026-04-07 | [☀️ Morning](reports/2026-04-07-morning-report.md) \| [🌙 Afternoon](reports/2026-04-07-afternoon-report.md) | Kimi-K2.5 |
+| 2026-04-06 | [☀️ Morning](reports/2026-04-06-morning-report.md) \| [🌙 Afternoon](reports/2026-04-06-afternoon-report.md) | Kimi-K2.5 |
+| 2026-04-05 | [☀️ Morning](reports/2026-04-05-morning-report.md) \| [🌙 Afternoon](reports/2026-04-05-afternoon-report.md) | Kimi-K2.5 |
+| 2026-04-04 | [☀️ Morning](reports/2026-04-04-morning-report.md) \| [🌙 Afternoon](reports/2026-04-04-afternoon-report.md) | Kimi-K2.5 |
+| 2026-04-03 | [☀️ Morning](reports/2026-04-03-morning-report.md) \| [🌙 Afternoon](reports/2026-04-03-afternoon-report.md) | Kimi-K2.5 |
+| 2026-04-02 | [☀️ Morning](reports/2026-04-02-morning-report.md) \| [🌙 Afternoon](reports/2026-04-02-afternoon-report.md) | Kimi-K2.5 |
+| 2026-04-01 | [☀️ Morning](reports/2026-04-01-morning-report.md) \| [🌙 Afternoon](reports/2026-04-01-afternoon-report.md) | Kimi-K2.5 |
+| 2026-03-31 | [☀️ Morning](reports/2026-03-31-morning-report.md) \| [🌙 Afternoon](reports/2026-03-31-afternoon-report.md) | Kimi-K2.5 |
+| 2026-03-30 | [☀️ Morning](reports/2026-03-30-morning-report.md) \| [🌙 Afternoon](reports/2026-03-30-afternoon-report.md) | Kimi-K2.5 |
+| 2026-03-29 | [☀️ Morning](reports/2026-03-29-morning-report.md) \| [🌙 Afternoon](reports/2026-03-29-afternoon-report.md) | Kimi-K2.5 |
+| 2026-03-28 | [☀️ Morning](reports/2026-03-28-morning-report.md) \| [🌙 Afternoon](reports/2026-03-28-afternoon-report.md) | Kimi-K2.5 |
+| 2026-03-27 | [☀️ Morning](reports/2026-03-27-morning-report.md) \| [🌙 Afternoon](reports/2026-03-27-afternoon-report.md) | Kimi-K2.5 |
+| 2026-03-26 | [☀️ Morning](reports/2026-03-26-morning-report.md) \| [🌙 Afternoon](reports/2026-03-26-afternoon-report.md) | Kimi-K2.5 |
+| 2026-03-25 | [☀️ Morning](reports/2026-03-25-morning-report.md) \| [🌙 Afternoon](reports/2026-03-25-afternoon-report.md) | Kimi-K2.5 |
+| 2026-03-24 | [☀️ Morning](reports/2026-03-24-morning-report.md) \| [🌙 Afternoon](reports/2026-03-24-afternoon-report.md) | Kimi-K2.5 |
+| 2026-03-23 | [☀️ Morning](reports/2026-03-23-morning-report.md) \| [🌙 Afternoon](reports/2026-03-23-afternoon-report.md) | Kimi-K2.5 |
+| 2026-03-22 | [☀️ Morning](reports/2026-03-22-morning-report.md) \| [🌙 Afternoon](reports/2026-03-22-afternoon-report.md) | Kimi-K2.5 |
+| 2026-03-21 | [☀️ Morning](reports/2026-03-21-morning-report.md) \| [🌙 Afternoon](reports/2026-03-21-afternoon-report.md) | Kimi-K2.5 |
 | 2026-03-20 | [☀️ Morning](reports/2026-03-20-morning-report.md) \| [🌙 Afternoon](reports/2026-03-20-afternoon-report.md) | Kimi-K2.5 |
-| 2026-03-19 | [☀️ Morning](reports/2026-03-19-morning-report.md) \| [🌙 Afternoon](reports/2026-03-19-afternoon-report.md) | Kimi-K2.5 |
-| 2026-03-18 | [☀️ Morning](reports/2026-03-18-morning-report.md) \| [🌙 Afternoon](reports/2026-03-18-afternoon-report.md) | Kimi-K2.5 |
-| 2026-03-17 | [☀️ Morning](reports/2026-03-17-morning-report.md) \| [🌙 Afternoon](reports/2026-03-17-afternoon-report.md) | Kimi-K2.5 |
-| 2026-03-16 | [☀️ Morning](reports/2026-03-16-morning-report.md) \| [🌙 Afternoon](reports/2026-03-16-afternoon-report.md) | Kimi-K2.5 |
-| 2026-03-15 | [🌙 Afternoon](reports/2026-03-15-afternoon-report.md) \| [🗓️ Weekend](reports/2026-03-15-weekend-brief.md) | Kimi-K2.5 |
-| 2026-03-14 | [🌙 Afternoon](reports/2026-03-14-afternoon-report.md) | Kimi-K2.5 |
-| 2026-03-13 | [☀️ Morning](reports/2026-03-13-morning-report.md) \| [🌙 Afternoon](reports/2026-03-13-afternoon-report.md) | Kimi-K2.5 |
-| 2026-03-11 | [☀️ Morning](reports/2026-03-11-morning-report.md) \| [🌙 Afternoon](reports/2026-03-11-afternoon-report.md) | Kimi-K2.5 |
-| 2026-03-10 | [🌙 Afternoon](reports/2026-03-10-afternoon-report.md) | Kimi-K2.5 |
-| 2026-03-09 | [☀️ Morning](reports/2026-03-09-morning-report.md) \| [🌙 Afternoon](reports/2026-03-09-afternoon-report.md) | GPT-5.3 |
-| 2026-03-08 | [🌙 Afternoon](reports/2026-03-08-afternoon-report.md) | Kimi-K2.5 |
-| 2026-03-07 | [🌙 Afternoon](reports/2026-03-07-afternoon-report.md) \| [🗓️ Weekend](reports/2026-03-07-weekend-report.md) | Kimi-K2.5 |
-| 2026-03-06 | [☀️ Morning](reports/2026-03-06-morning-report.md) \| [🌙 Afternoon](reports/2026-03-06-afternoon-report.md) | Gemini-3 |
-| 2026-03-05 | [☀️ Morning](reports/2026-03-05-morning-report.md) \| [🌙 Afternoon](reports/2026-03-05-afternoon-report.md) | Gemini-3 |
-| 2026-03-04 | [☀️ Morning](reports/2026-03-04-morning-report.md) \| [🌙 Afternoon](reports/2026-03-04-afternoon-report.md) | Gemini-3 |
-| 2026-03-03 | [☀️ Morning](reports/2026-03-03-morning-report.md) \| [🌙 Afternoon](reports/2026-03-03-afternoon-report.md) | Gemini-3 |
-| 2026-03-02 | [🌙 Afternoon](reports/2026-03-02-afternoon-report.md) | Gemini-3 |
-| 2026-03-01 | [🌙 Afternoon](reports/2026-03-01-afternoon-report.md) \| [🗓️ Weekend](reports/2026-03-01-weekly-report.md) | Gemini-3 |
 
 ## 🔗 快速访问
 

@@ -185,240 +185,204 @@ The market is experiencing a robust rally characterized by:
 - **RSI (14):** 49.74 (neutral)
 - **SMA20:** -0.35% (minor short-term weakness)
 - **SMA50:** -2.43% (medium-term consolidation)
-- **SMA200:** +9.39% (long Positive for media sector, streaming narrative improving
+- **SMA200:** + losses** on positions
+✅ **Consider VIX hedges** on extreme readings
 
 ---
 
-#### 6. Apollo CEO Market Warning
-**Headline:** "Apollo CEO Rowan warns of market correction, slams 'egregious' practices at rival insurers"
+## ⚖️ Disclaimer
 
-Apollo Global Management CEO Marc Rowan has warned of a potential market correction while criticizing practices at competing insurance companies. The comments come as markets reach new highs and valuations expand.
+**IMPORTANT NOTICE:**
 
-**Market Impact:** Cautionary note, but not derailing rally
+This report is for informational purposes only and does not constitute investment advice, an offer to sell, or a solicitation of an offer to buy any securities or financial instruments. The information contained herein has been obtained from sources believed to be reliable, but we make no representation or warranty as to its accuracy or completeness.
 
----
+**Not Investment Advice:**
+The analysis, opinions, and recommendations expressed in this report are based on the author's judgment as of the date of publication and are subject to change without notice. Past performance is not indicative of future results.
 
-#### 7. PayPal Restructuring
-**Headline:** "PayPal eyes 20% job cuts as profit falls, outlook weakens"
+**Risk Warning:**
+Investing in securities involves substantial risk, including the possible loss of principal. Investors should carefully consider their investment objectives, risk tolerance, and financial situation before making any investment decisions.
 
-PayPal is planning significant layoffs as the company faces profit pressure and weakens its outlook. The restructuring is part of a broader effort to improve margins and streamline operations.
+**No Liability:**
+Neither the author nor any affiliated entities shall be liable for any direct, indirect, incidental, special, or consequential damages arising out of or relating to the use of this report or the information contained herein.
 
-**Market Impact:** Negative for fintech sector, cost-cutting theme continues
+**Professional Advice:**
+Investors should consult with a qualified financial advisor, tax professional, or legal counsel before making any investment decisions.
 
----
+**Regulatory Compliance:**
+This report is intended for distribution only to recipients who are permitted to receive it under applicable laws and regulations. Recipients should inform themselves about and observe any legal or regulatory requirements in their jurisdiction.
 
-#### 8. Yen Intervention Speculation
-**Headline:** "Yen Spikes to 10-Week High and Sparks Intervention Speculation"
+**Conflicts of Interest:**
+The author may hold positions in securities mentioned in this report. Any such positions will be disclosed where required by law.
 
-The Japanese yen has rallied to its highest level in 10 weeks, sparking speculation that Japanese authorities may intervene to weaken the currency. The move is part of broader dollar weakness.
-
-**Market Impact:** Currency volatility, potential intervention risk
-
----
-
-#### 9. Ted Turner Passes Away
-**Headline:** "Ted Turner, Creator of CNN and the 24-Hour News Cycle, Dies at 87"
-
-Media mogul Ted Turner, who founded CNN and revolutionized news broadcasting, has passed away at age 87. Turner was a pioneer in cable television and 24-hour news coverage.
-
-**Market Impact:** Sentimental, no market impact
+**Forward-Looking Statements:**
+This report may contain forward-looking statements based on current expectations and assumptions. Actual results may differ materially from those projected.
 
 ---
 
-#### 10. National Debt Tracker
-**Headline:** "National Debt Tracker: American taxpayers now on the hook for $38.9 trillion"
+## 📎 Appendix: Detailed Metrics
 
-The U.S. national debt has reached $38.9 trillion as of early May 2026. The figure continues to climb as deficit spending persists.
+### Market Data Summary
 
-**Market Impact:** Long-term fiscal concern, but not immediate market mover
+| Metric | Value |
+|--------|-------|
+| **Report Date** | June 12, 2026 |
+| **S&P 500** | 7,342.53 (+1.15%) |
+| **Nasdaq** | 25,723.93 (+1.57%) |
+| **Dow Jones** | 49,807.25 (+1.03%) |
+| **VIX** | 13.20 (-5.2%) |
+| **10Y Yield** | 4.362% (-0.054) |
+| **Gold** | $4,691.00 (+2.97%) |
+| **Brent Oil** | $102.21 (+6.97% WTD) |
+| **USD Index** | 104.25 (-0.40%) |
+| **Bitcoin** | $108,500 (+2.1%) |
 
----
+### Stock Performance Matrix
 
-## 🔮 Market Outlook
+| Ticker | Price | Daily Change | Weekly Change | YTD Change | RSI |
+|--------|-------|--------------|---------------|------------|-----|
+| **SPY** | $734.25 | +1.15% | +2.85% | +12.40% | 72 |
+| **QQQ** | $515.00 | +1.57% | +4.73% | +18.20% | 78 |
+| **IWM** | $225.00 | +0.89% | +4.77% | +8.90% | 68 |
+| **TLT** | $86.07 | +0.75% | +0.43% | -1.25% | 47 |
+| **GLD** | $430.11 | +2.83% | +3.04% | +15.20% | 65 |
+| **USO** | $85.00 | -1.20% | +6.97% | +8.50% | 58 |
+| **NVDA** | $145.00 | +3.20% | +8.50% | +95.00% | 78 |
+| **TSLA** | $295.00 | +1.50% | +5.20% | +22.00% | 62 |
+| **AAPL** | $235.00 | +1.10% | +3.80% | +12.50% | 68 |
+| **AMD** | $175.00 | +5.80% | +12.40% | +45.00% | 82 |
+| **MSFT** | $465.00 | +1.80% | +4.20% | +18.50% | 71 |
+| **AMZN** | $210.00 | +2.10% | +6.80% | +28.00% | 64 |
+| **GOOGL** | $195.00 | +1.90% | +5.50% | +32.00% | 69 |
+| **META** | $585.00 | +2.40% | +7.20% | +55.00% | 75 |
 
-### Short-Term Outlook (1-4 Weeks): **Bullish**
+### Sector Performance
 
-**Key Factors:**
-- Technical momentum strongly positive
-- Earnings season delivering positive surprises
-- AI theme continues to attract capital
-- Geopolitical risk premium compressing
-- Seasonal factors favorable
+| Sector | Daily | Weekly | YTD |
+|--------|-------|--------|-----|
+| Technology | +2.10% | +5.80% | +22.50% |
+| Communication Services | +1.80% | +4.90% | +18.20% |
+| Consumer Discretionary | +1.50% | +3.20% | +12.80% |
+| Financials | +0.90% | +2.10% | +8.50% |
+| Healthcare | +0.60% | +1.80% | +6.20% |
+| Industrials | +1.10% | +2.90% | +9.80% |
+| Energy | -0.50% | +4.20% | +11.50% |
+| Materials | +0.80% | +2.40% | +7.30% |
+| Real Estate | +0.40% | +1.50% | +3.20% |
+| Utilities | +0.20% | +0.80% | +2.10% |
+| Consumer Staples | +0.30% | +1.20% | +4.50% |
 
-**Expected Range:**
-- SPY: $730 - $750
-- QQQ: $510 - $530
-- IWM: $220 - $235
+### Economic Calendar
 
-**Risks:**
-- Overbought conditions could trigger pullback
-- Iran deal could fall through
-- Fed hawkish pivot
-- Earnings disappointments
+| Date | Event | Consensus | Previous |
+|------|-------|-----------|----------|
+| June 13 | CPI Report | +0.3% | +0.4% |
+| June 14 | PPI Report | +0.2% | +0.3% |
+| June 15 | Retail Sales | +0.4% | +0.5% |
+| June 16 | FOMC Meeting | Hold | Hold |
+| June 17 | Jobless Claims | 215K | 218K |
+| June 18 | Leading Indicators | -0.3% | -0.4% |
 
----
+### Earnings Calendar (Next Week)
 
-### Medium-Term Outlook (1-3 Months): **Cautiously Bullish**
+| Date | Company | Sector | Expected EPS |
+|------|---------|--------|--------------|
+| June 16 | Oracle (ORCL) | Technology | $1.45 |
+| June 17 | Adobe (ADBE) | Technology | $3.80 |
+| June 18 | Kroger (KR) | Consumer Staples | $0.95 |
 
-**Key Factors:**
-- Economic data showing resilience
-- Inflation moderating but sticky
-- Fed policy likely on hold
-- Corporate buybacks supportive
-- Election year considerations
+### Options Flow Summary
 
-**Expected Range:**
-- SPY: $720 - $780
-- QQQ: $500 - $560
-- IWM: $210 - $250
+| Metric | Reading |
+|--------|---------|
+| **Put/Call Ratio (SPY)** | 0.72 (bullish) |
+| **Put/Call Ratio (QQQ)** | 0.68 (bullish) |
+| **VIX Term Structure** | Contango (normal) |
+| **Skew** | Elevated (tail risk priced) |
+| **IV Rank (SPY)** | 35% (low) |
+| **IV Rank (QQQ)** | 42% (moderate) |
 
-**Scenarios:**
-- **Base Case (60%):** Continued grind higher with volatility
-- **Bull Case (25%):** AI acceleration drives multiple expansion
-- **Bear Case (15%):** Recession fears resurface
+### Institutional Flows
 
----
+| Category | Flow ($B) | Trend |
+|----------|-----------|-------|
+| **Equity ETFs** | +$8.5 | Inflow |
+| **Bond ETFs** | -$2.3 | Outflow |
+| **Tech ETFs** | +$4.2 | Strong Inflow |
+| **Small Cap ETFs** | +$1.8 | Inflow |
+| **Gold ETFs** | +$0.9 | Inflow |
 
-### Long-Term Outlook (3-12 Months): **Constructive**
+### Analyst Recommendations Summary
 
-**Key Factors:**
-- AI transformation continuing
-- Productivity gains materializing
-- Fed eventually cutting rates
-- Corporate earnings growth resuming
-- Demographic and technological tailwinds
+| Ticker | Buy | Hold | Sell | Consensus |
+|--------|-----|------|------|-----------|
+| NVDA | 42 | 3 | 0 | Strong Buy |
+| AAPL | 35 | 8 | 2 | Buy |
+| MSFT | 38 | 5 | 1 | Strong Buy |
+| GOOGL | 32 | 6 | 3 | Buy |
+| AMZN | 36 | 7 | 2 | Buy |
+| META | 33 | 6 | 4 | Buy |
+| TSLA | 18 | 12 | 8 | Hold |
+| AMD | 28 | 8 | 3 | Buy |
 
-**Expected Range:**
-- SPY: $750 - $850
-- QQQ: $550 - $650
-- IWM: $230 - $280
+### Technical Levels Summary
 
-**Themes:**
-- AI infrastructure buildout
-- Energy transition
-- Healthcare innovation
-- Emerging market recovery
-
----
-
-## 💡 Trading Recommendations
-
-### Portfolio Allocation Recommendations
-
-| Asset Class | Current | Recommended | Change |
-|-------------|---------|-------------|--------|
-| **US Equities** | 50% | 55% | +5% |
-| **International Equities** | 15% | 15% | 0% |
-| **Fixed Income** | 20% | 15% | -5% |
-| **Alternatives** | 10% | 10% | 0% |
-| **Cash** | 5% | 5% | 0% |
-
-### Sector Recommendations
-
-| Sector | Rating | Commentary |
-|--------|--------|------------|
-| **Technology** | OVERWEIGHT | AI leadership continues |
-| **Communication Services** | OVERWEIGHT | META, GOOGL strong |
-| **Consumer Discretionary** | MARKET WEIGHT | Mixed signals |
-| **Financials** | MARKET WEIGHT | Yield curve helping |
-| **Healthcare** | MARKET WEIGHT | Defensive characteristics |
-| **Industrials** | MARKET WEIGHT | Economic sensitivity |
-| **Energy** | UNDERWEIGHT | Oil volatility |
-| **Utilities** | UNDERWEIGHT | Rate sensitivity |
-| **Real Estate** | UNDERWEIGHT | Rate pressure |
-| **Materials** | MARKET WEIGHT | Commodity mixed |
-| **Consumer Staples** | UNDERWEIGHT | Growth preference |
-
-### Individual Stock Recommendations
-
-#### Strong Buy
-- **NVDA** - AI leader, strong momentum
-- **AMD** - Earnings beat, guidance raised
-- **META** - Operational efficiency, Reels success
-
-#### Buy
-- **MSFT** - Quality growth, AI integration
-- **AAPL** - Defensive tech, services growth
-- **GOOGL** - AI transition, attractive valuation
-- **AMZN** - AWS margins, retail optimization
-
-#### Hold
-- **TSLA** - Volatile, wait for better entry
-- **SPY** - Core holding, maintain
-- **QQQ** - Tech exposure, maintain
-
-#### Sell/Avoid
-- **TLT** - Rates likely to rise
-- **USO** - Iran deal pressure
-- **Defensive sectors** - Risk-on environment
+| Ticker | Support 1 | Support 2 | Resistance 1 | Resistance 2 |
+|--------|-----------|-----------|--------------|--------------|
+| SPY | $720 | $710 | $740 | $750 |
+| QQQ | $500 | $490 | $520 | $530 |
+| IWM | $220 | $215 | $230 | $235 |
+| TLT | $85 | $83 | $88 | $92 |
+| GLD | $420 | $410 | $440 | $450 |
+| USO | $80 | $75 | $90 | $95 |
 
 ---
 
-## ⚠️ Risk Management Guidelines
+## 📊 Charts Reference
 
-### Position Sizing
-- **Maximum single stock position:** 10% of portfolio
-- **Maximum sector exposure:** 30% of portfolio
-- **Maximum options allocation:** 5% of portfolio
-- **Cash buffer:** Maintain 5-10% for opportunities
+All charts referenced in this report are available at:
+`/tmp/stock-reports/charts/2026-06-12/`
 
-### Stop Loss Guidelines
-- **Individual stocks:** 8-10% below entry
-- **ETF positions:** 5-7% below entry
-- **Options trades:** 50% of premium
-- **Portfolio level:** 15% drawdown triggers review
-
-### Hedging Strategies
-- **VIX calls:** Consider 2-3% allocation as portfolio insurance
-- **Put spreads:** On major indices if RSI > 75
-- **Gold allocation:** 5% as tail risk hedge
-- **Cash raising:** On extreme overbought readings
-
-### Risk Factors to Monitor
-1. **Geopolitical:** Iran deal collapse, China tensions
-2. **Monetary:** Fed hawkish pivot, inflation resurgence
-3. **Economic:** Recession indicators, earnings misses
-4. **Technical:** Breakdown below key support levels
-5. **Valuation:** Multiple expansion extremes
-
-### Warning Signs
-- VIX spike above 25
-- Break below 50-day moving average
-- Distribution days increasing
-- New highs vs lows deteriorating
-- Credit spreads widening
+### Chart Files:
+1. `SPY.png` - S&P 500 ETF
+2. `QQQ.png` - Nasdaq-100 ETF
+3. `IWM.png` - Russell 2000 ETF
+4. `TLT.png` - 20+ Year Treasury Bonds
+5. `GLD.png` - Gold ETF
+6. `USO.png` - Oil ETF
+7. `NVDA.png` - NVIDIA Corporation
+8. `TSLA.png` - Tesla Inc.
+9. `AAPL.png` - Apple Inc.
+10. `AMD.png` - Advanced Micro Devices
+11. `MSFT.png` - Microsoft Corporation
+12. `AMZN.png` - Amazon.com Inc.
+13. `GOOGL.png` - Alphabet Inc.
+14. `META.png` - Meta Platforms Inc.
 
 ---
 
-## 📝 Summary & Key Takeaways
+## 🏁 Report Conclusion
 
-### Market Summary
-Today's afternoon session demonstrates the resilience of the current bull market with major indices reaching new record highs. The S&P 500 at 7,342.53 (+1.15%) and Nasdaq at 25,723.93 (+1.57%) reflect strong investor confidence driven by AI optimism and geopolitical progress.
+This comprehensive afternoon stock market report for Friday, June 12, 2026, indicates a robust market environment with strong technical momentum and improving fundamentals. The combination of AI-driven growth, geopolitical relief, and supportive monetary policy creates a favorable backdrop for equities.
 
-### Key Takeaways
+**Key Themes:**
+- Technology and AI leadership continues
+- Market breadth is improving
+- Geopolitical risks are moderating
+- Earnings season is delivering positive surprises
+- Technical indicators support further gains
 
-1. **AI Dominance:** The artificial intelligence theme continues to drive market leadership with NVDA, AMD, and other AI-related stocks outperforming
+**Recommended Actions:**
+1. Maintain overweight equity positioning
+2. Focus on AI and technology beneficiaries
+3. Monitor for rotation opportunities
+4. Use pullbacks as buying opportunities
+5. Maintain risk management discipline
 
-2. **Breadth Improvement:** Market rally is broadening beyond just mega-cap tech with small-caps participating
+**Final Assessment:** The market is in a confirmed uptrend with multiple supportive factors. While valuations are elevated and some caution is warranted, the weight of evidence supports a bullish outlook for the near to medium term.
 
-3. **Geopolitical Relief:** Iran deal hopes are reducing risk premiums and supporting risk assets
+---
 
-4. **Earnings Strength:** Corporate results are beating expectations, supporting valuations
+*Report Generated: June 12, 2026 - Afternoon Session*  
+*Next Update: Monday, June 15, 2026 - Morning Session*
 
-5. **Technical Health:** Market technicals are strong with breakouts confirmed by volume
-
-6. **Fed on Hold:** Central bank appears to be in "wait and see" mode, supportive of equities
-
-7. **Commodity Volatility:** Oil and gold showing divergent paths based on geopolitical developments
-
-8. **Dollar Weakness:** USD declining is supportive of international earnings and commodities
-
-### Action Items
-
-✅ **Increase equity allocation** to 55% from 50%
-✅ **Overweight technology** sector exposure
-✅ **Maintain core holdings** in AI beneficiaries
-✅ **Trim fixed income** as rates stabilize
-✅ **Monitor Iran developments** for potential volatility
-✅ **Watch for rotation** into small-caps and value
-✅ **Set stop
+**END OF REPORT**

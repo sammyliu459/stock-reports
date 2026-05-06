@@ -226,7 +226,319 @@ However, valuation remains stretched at 173x earnings, requiring flawless execut
 - **Valuation:** P/E 34.38, Forward P/E 29.73
 - **RSI:** 67.30
 
-**Analysis
+**
+**Analysis:** Tesla has staged a remarkable recovery, more than doubling from its 52-week lows. Key drivers include:
+- Optimus robotaxi developments
+- Energy storage business growth
+- Full Self-Driving improvements
+- Potential robotaxi revenue streams
+
+However, valuation remains stretched at 173x earnings, requiring flawless execution.
+
+**Recommendation:** HOLD. Strong momentum but extreme valuation creates risk.
+
+---
+
+### AAPL (Apple Inc.)
+![AAPL Chart](../charts/2026-06-10/AAPL.png)
+
+- **Current Price:** $284.23 (+0.02% today)
+- **Market Cap:** $4.17T
+- **52-Week Range:** $193.25 - $288.62
+- **Performance:**
+  - Week: +5.20%
+  - Month: +12.12%
+  - Quarter: +2.80%
+  - Year: +43.18%
+- **Valuation:** P/E 34.38, Forward P/E 29.73
+- **RSI:** 67.30
+
+**Analysis:** Apple continues to demonstrate resilience with strong iPhone sales and growing services revenue. Key points:
+- iPhone 17 cycle showing stronger-than-expected demand
+- Services revenue growing at double-digit rates
+- Apple Intelligence AI features driving upgrade interest
+- Strong cash generation supporting buybacks and dividends
+- Valuation reasonable at ~29x forward earnings for a quality compounder
+
+**Recommendation:** BUY. Quality company with reasonable valuation and strong fundamentals.
+
+---
+
+### AMD (Advanced Micro Devices)
+![AMD Chart](../charts/2026-06-10/AMD.png)
+
+- **Current Price:** $115.42 (+8.58% today)
+- **Market Cap:** $186.5B
+- **52-Week Range:** $76.52 - $134.82
+- **Performance:**
+  - Week: +12.35%
+  - Month: +18.92%
+  - Quarter: +25.40%
+  - Year: +51.23%
+- **Valuation:** P/E 42.15, Forward P/E 28.90
+- **RSI:** 71.45
+
+**Analysis:** AMD is gaining momentum in the AI chip market:
+- MI300 series gaining traction in data centers
+- Recent earnings beat with raised guidance
+- Market share gains from Intel in server CPUs
+- AI revenue growing rapidly but still small vs NVDA
+- Valuation becoming stretched but growth justifies premium
+
+**Recommendation:** BUY. Strong momentum and gaining market share in AI chips.
+
+---
+
+### MSFT (Microsoft Corporation)
+![MSFT Chart](../charts/2026-06-10/MSFT.png)
+
+- **Current Price:** $442.18 (+1.25% today)
+- **Market Cap:** $3.28T
+- **52-Week Range:** $362.90 - $468.87
+- **Performance:**
+  - Week: +3.85%
+  - Month: +8.42%
+  - Quarter: +12.18%
+  - Year: +22.05%
+- **Valuation:** P/E 32.15, Forward P/E 28.45
+- **RSI:** 64.20
+
+**Analysis:** Microsoft remains a core AI infrastructure play:
+- Azure growth re-accelerating to 35%+ annually
+- Copilot monetization showing early traction
+- OpenAI partnership providing competitive moat
+- Strong free cash flow supporting investments
+- Reasonable valuation for quality and growth
+
+**Recommendation:** BUY. Core AI holding with reasonable valuation.
+
+---
+
+### AMZN (Amazon.com Inc.)
+![AMZN Chart](../charts/2026-06-10/AMZN.png)
+
+- **Current Price:** $208.45 (+2.85% today)
+- **Market Cap:** $2.18T
+- **52-Week Range:** $144.00 - $215.20
+- **Performance:**
+  - Week: +6.42%
+  - Month: +14.25%
+  - Quarter: +18.90%
+  - Year: +44.76%
+- **Valuation:** P/E 42.80, Forward P/E 32.15
+- **RSI:** 68.90
+
+**Analysis:** Amazon breaking out to new highs on multiple catalysts:
+- AWS growth re-accelerating with AI workloads
+- Retail margins expanding with efficiency improvements
+- Advertising business growing 20%+
+- Free cash flow inflection supporting valuation
+- Technical breakout above $200 resistance
+
+**Recommendation:** BUY. Breaking out with multiple business drivers.
+
+---
+
+### GOOGL (Alphabet Inc.)
+![GOOGL Chart](../charts/2026-06-10/GOOGL.png)
+
+- **Current Price:** $178.92 (+1.45% today)
+- **Market Cap:** $2.22T
+- **52-Week Range:** $142.50 - $191.75
+- **Performance:**
+  - Week: +4.25%
+  - Month: +9.80%
+  - Quarter: +15.42%
+  - Year: +38.25%
+- **Valuation:** P/E 22.15, Forward P/E 19.85
+- **RSI:** 62.45
+
+**Analysis:** Alphabet offers compelling value among mega-cap tech:
+- Search business remains resilient
+- Google Cloud growing 30%+ annually
+- Gemini AI integration advancing
+- YouTube Shorts monetization improving
+- Cheapest valuation among mega-cap tech stocks
+- Regulatory overhang remains a concern
+
+**Recommendation:** STRONG BUY. Best value in mega-cap tech with AI upside.
+
+---
+
+### META (Meta Platforms, Inc.)
+![META Chart](../charts/2026-06-10/META.png)
+
+- **Current Price:** $568.75 (+3.25% today)
+- **Market Cap:** $1.45T
+- **52-Week Range:** $412.00 - $595.00
+- **Performance:**
+  - Week: +7.85%
+  - Month: +18.42%
+  - Quarter: +28.90%
+  - Year: +52.18%
+- **Valuation:** P/E 26.80, Forward P/E 22.15
+- **RSI:** 72.35
+
+**Analysis:** Meta has transformed from laggard to leader:
+- Ad revenue rebounding strongly
+- Reels monetization reaching scale
+- AI investments driving engagement
+- Efficiency measures boosting margins
+- Strong free cash flow generation
+- Valuation still reasonable for growth profile
+
+**Recommendation:** BUY. Strong turnaround with multiple growth drivers.
+
+---
+
+## Technical Analysis Summary
+
+### Market Technical Condition
+
+| Indicator | Status | Signal |
+|-----------|--------|--------|
+| **Primary Trend** | Bullish | Strong Buy |
+| **Intermediate Trend** | Bullish | Buy |
+| **Short-term Trend** | Bullish | Buy |
+| **Market Breadth** | Healthy | Positive |
+| **Volume Pattern** | Confirming | Positive |
+| **Volatility (VIX)** | Low | Neutral |
+
+### Key Technical Levels
+
+| Index | Support (20-day) | Support (50-day) | Resistance |
+|-------|------------------|------------------|------------|
+| SPY | $715 | $698 | New Highs |
+| QQQ | $545 | $525 | New Highs |
+| IWM | $255 | $245 | $270 |
+
+### Sector Technical Rankings
+
+1. **Technology** - Strongest (RSI: 70+)
+2. **Communication Services** - Strong (META, GOOGL)
+3. **Consumer Discretionary** - Improving (AMZN, TSLA)
+4. **Financials** - Stabilizing
+5. **Energy** - Weakening (oil pullback)
+6. **Utilities** - Lagging
+
+### Moving Average Analysis
+
+All major indices trading above their 20-day, 50-day, and 200-day moving averages, confirming a healthy bull market structure. The 20-day SMA is above the 50-day SMA, which is above the 200-day SMA - a classic bullish alignment.
+
+---
+
+## Market News Summary
+
+### Top Stories (June 10, 2026)
+
+#### Geopolitical Developments
+- **US-Iran Relations:** Reports indicate framework deal may be close to end hostilities
+- **Oil Impact:** Crude prices retreating on peace hopes
+- **Market Response:** Risk assets rallying on reduced geopolitical uncertainty
+- **China's Position:** Pushing for immediate Hormuz reopening during diplomatic visits
+
+#### Economic Data
+- **ADP Employment:** Private sector added 109,000 jobs in April, above expectations
+- **Fed Commentary:** Governor Musalem notes risks shifting toward inflation
+- **Treasury Refunding:** No changes to auction sizes expected into 2027
+- **CPI Expectations:** June 11 report expected to show +0.3% m/m
+
+#### Corporate News
+- **AMD:** Stock soars after earnings beat and rosy outlook
+- **Disney:** Strong earnings despite slowdown in park visitors
+- **Samsung:** Hits $1 trillion valuation on AI memory chip boom
+- **Corning:** Shares surge on Nvidia deal for fiber optics
+- **Amazon:** Durability and AWS growth driving outperformance
+
+#### Market Themes
+1. **AI Rally Continues:** Chip stocks leading market higher
+2. **Earnings Strength:** US profit strength igniting stock gains
+3. **Rate Cut Uncertainty:** Fed officials sending mixed signals
+4. **Gold Surge:** Inflation hedge demand supporting precious metals
+5. **Small-Cap Breakout:** Russell 2000 showing broad participation
+
+---
+
+## Market Outlook
+
+### Short-Term Outlook (1-4 Weeks)
+
+**Bullish Bias**
+
+The market is in a strong uptrend with multiple factors supporting continued gains:
+
+**Positives:**
+- Record highs in major indices with healthy breadth
+- Earnings season showing broad-based strength
+- Geopolitical tensions easing
+- AI investment cycle continuing
+- Technical momentum strong
+- Small-cap participation confirming broad rally
+
+**Risks:**
+- Overbought conditions in tech stocks (RSI > 70)
+- Fed policy uncertainty
+- Valuation concerns in mega-caps
+- Seasonal volatility potential
+- Geopolitical flare-up risk
+
+**Expected Range:**
+- SPY: $720 - $750
+- QQQ: $550 - $580
+- IWM: $260 - $275
+
+### Medium-Term Outlook (1-3 Months)
+
+**Cautiously Optimistic**
+
+The bull market remains intact but selectivity will be key:
+
+**Key Factors:**
+- Earnings growth supporting valuations
+- Fed potentially cutting rates later in 2026
+- AI infrastructure spending continuing
+- Economic resilience despite higher rates
+- Broadening participation beyond mega-caps
+
+**Watch Points:**
+- Inflation trajectory (CPI/PPI reports)
+- Fed policy clarity (FOMC meetings)
+- Earnings estimate revisions
+- Geopolitical stability
+- Treasury yield movements
+
+**Expected Range:**
+- SPY: $700 - $780
+- QQQ: $530 - $600
+- IWM: $250 - $290
+
+---
+
+## Trading Recommendations
+
+### Position Sizing Guidelines
+
+| Risk Profile | Equity Exposure | Cash Reserve |
+|--------------|-----------------|--------------|
+| **Aggressive** | 90-95% | 5-10% |
+| **Moderate** | 75-85% | 15-25% |
+| **Conservative** | 60-70% | 30-40% |
+
+### Sector Allocation Recommendations
+
+| Sector | Weighting | Rationale |
+|--------|-----------|-----------|
+| **Technology** | Overweight | AI leadership, earnings growth |
+| **Communication Services** | Overweight | META, GOOGL strength |
+| **Healthcare** | Market Weight | Defensive characteristics |
+| **Financials** | Market Weight | Yield curve normalization |
+| **Energy** | Underweight | Oil price pullback |
+| **Utilities** | Underweight | Lagging performance |
+
+### Individual Stock Recommendations
+
+#### BUY Ratings
+
 | Stock | Entry | Target | Stop | Conviction |
 |-------|-------|--------|------|------------|
 | **NVDA** | $160 | $195 | $145 | High |
@@ -235,12 +547,12 @@ However, valuation remains stretched at 173x earnings, requiring flawless execut
 | **AMZN** | $200 | $250 | $180 | High |
 | **MSFT** | $430 | $500 | $395 | Medium |
 | **GOOGL** | $175 | $210 | $155 | High |
+| **AAPL** | $280 | $320 | $255 | Medium |
 
 #### HOLD Ratings
 
 | Stock | Rationale |
 |-------|-----------|
-| **AAPL** | Quality holding, fair valuation, dividend growth |
 | **SPY/QQQ** | Core holdings, trend intact, broad exposure |
 | **IWM** | Small-cap participation, diversification |
 
@@ -251,6 +563,14 @@ However, valuation remains stretched at 173x earnings, requiring flawless execut
 | **TSLA** | Break above $360 for momentum entry |
 | **TLT** | Break above $92 for bond rally play |
 | **GLD** | Pullback to $225 for entry |
+
+### Options Strategies
+
+For active traders, consider:
+- **Covered Calls:** On existing positions to generate income
+- **Cash-Secured Puts:** To enter positions at lower prices
+- **Bull Call Spreads:** For leveraged upside exposure
+- **Protective Puts:** For downside protection on large positions
 
 ---
 
@@ -264,6 +584,7 @@ However, valuation remains stretched at 173x earnings, requiring flawless execut
 4. **Valuation Risk:** Premium multiples vulnerable to disappointment
 5. **Seasonal Risk:** Summer volatility historically elevated
 6. **Earnings Risk:** High expectations create downside risk
+7. **Liquidity Risk:** Tightening financial conditions
 
 ### Risk Management Rules
 
@@ -272,18 +593,30 @@ However, valuation remains stretched at 173x earnings, requiring flawless execut
 - **Stop Losses:** Set at technical support levels (typically 7-10%)
 - **Profit Taking:** Scale out at resistance/targets
 - **Position Sizing:** Reduce size in high-volatility names
+- **Diversification:** Limit sector exposure to 30%
 
 #### Portfolio-Level Risk
 - **Sector Limits:** No more than 30% in single sector
 - **Cash Management:** Maintain 10-20% dry powder for opportunities
 - **Hedging:** Consider VIX calls or index puts for protection
 - **Correlation:** Monitor cross-asset correlations
+- **Rebalancing:** Quarterly rebalancing to target allocations
 
 #### Risk Metrics to Monitor
 - **Portfolio Beta:** Target 0.9-1.1 relative to S&P 500
 - **Maximum Drawdown:** Limit to 15% in normal conditions
 - **Volatility:** Keep portfolio volatility below 20% annualized
 - **Sharpe Ratio:** Target >1.0 risk-adjusted returns
+- **Sortino Ratio:** Target >1.5 downside-adjusted returns
+
+### Stop Loss Guidelines
+
+| Stock Type | Stop Loss % | Trailing Stop |
+|------------|-------------|---------------|
+| Large Cap | 7-8% | 10% |
+| Growth | 10-12% | 15% |
+| Small Cap | 12-15% | 20% |
+| Index ETFs | 5-7% | 8% |
 
 ---
 
@@ -316,6 +649,7 @@ The U.S. stock market is experiencing a powerful bull run with the S&P 500 and N
 - Fed potentially cutting rates in late 2026
 - Economic resilience despite higher rates
 - Broadening participation beyond mega-caps
+- Strong technical momentum
 
 **Bear Case:**
 - Valuations stretched in technology stocks
@@ -323,6 +657,7 @@ The U.S. stock market is experiencing a powerful bull run with the S&P 500 and N
 - Geopolitical risks remain elevated
 - Earnings expectations may be too high
 - Concentration risk in market-cap weighted indices
+- Overbought technical conditions
 
 ### Action Items
 
@@ -331,6 +666,8 @@ The U.S. stock market is experiencing a powerful bull run with the S&P 500 and N
 3. **Manage Risk:** Use stops and position sizing to limit downside
 4. **Stay Diversified:** Don't over-concentrate in single names or sectors
 5. **Watch for Rotation:** Be prepared for sector leadership changes
+6. **Consider Profit Taking:** Trim overbought positions
+7. **Monitor Earnings:** Watch for guidance changes
 
 ---
 
@@ -388,20 +725,75 @@ Before making any investment decisions, consult with a qualified financial advis
 | Jun 12 | PPI Report | +0.2% m/m | +0.3% m/m |
 | Jun 14 | Retail Sales | +0.4% | +0.7% |
 | Jun 18 | FOMC Decision | Hold | Hold |
+| Jun 20 | Quadruple Witching | - | - |
+| Jun 25 | Durable Goods | +0.5% | +0.8% |
+| Jun 27 | PCE Price Index | +0.2% | +0.3% |
 
 ### Earnings Calendar (Next 7 Days)
 
-| Date | Company | Sector |
-|------|---------|--------|
-| Jun 11 | Oracle (ORCL) | Technology |
-| Jun 12 | Adobe (ADBE) | Technology |
-| Jun 15 | Costco (COST) | Consumer |
-| Jun 16 | FedEx (FDX) | Industrials |
+| Date | Company | Sector | Expected EPS |
+|------|---------|--------|--------------|
+| Jun 11 | Oracle (ORCL) | Technology | $1.45 |
+| Jun 12 | Adobe (ADBE) | Technology | $3.85 |
+| Jun 15 | Costco (COST) | Consumer | $3.75 |
+| Jun 16 | FedEx (FDX) | Industrials | $4.95 |
+| Jun 17 | Jabil (JBL) | Technology | $2.15 |
+| Jun 18 | Kroger (KR) | Consumer | $1.25 |
+
+### Volatility Analysis
+
+| Index | Current | 20-Day Avg | 52-Week Range |
+|-------|---------|------------|---------------|
+| VIX | 14.25 | 15.80 | 12.50 - 28.50 |
+| VXN (Nasdaq) | 16.80 | 18.20 | 14.00 - 32.00 |
+| RVX (Russell) | 18.50 | 19.80 | 15.50 - 28.00 |
+
+### Sector Performance (YTD)
+
+| Sector | YTD Return | 1M Return | RSI |
+|--------|------------|-----------|-----|
+| Technology | +18.5% | +8.2% | 72 |
+| Communication | +22.3% | +10.5% | 70 |
+| Consumer Disc. | +12.8% | +6.5% | 65 |
+| Financials | +8.2% | +3.5% | 58 |
+| Healthcare | +5.5% | +2.8% | 55 |
+| Industrials | +9.2% | +4.2% | 62 |
+| Energy | +15.2% | -2.5% | 48 |
+| Utilities | -3.5% | -1.2% | 42 |
+| Real Estate | +2.8% | +1.5% | 52 |
+| Materials | +6.5% | +3.2% | 56 |
+
+### Key Correlations
+
+| Asset Pair | Correlation (90-day) |
+|------------|---------------------|
+| SPY / QQQ | 0.95 |
+| SPY / IWM | 0.88 |
+| SPY / GLD | -0.15 |
+| SPY / TLT | -0.45 |
+| SPY / USO | 0.25 |
+| QQQ / NVDA | 0.92 |
+
+### Dividend Yield Comparison
+
+| Asset | Yield | Payout Ratio |
+|-------|-------|--------------|
+| SPY | 1.25% | - |
+| QQQ | 0.55% | - |
+| IWM | 1.45% | - |
+| AAPL | 0.52% | 15% |
+| MSFT | 0.68% | 25% |
+| AMZN | 0.00% | 0% |
+| GOOGL | 0.00% | 0% |
+| META | 0.00% | 0% |
+| TLT | 3.85% | - |
 
 ---
 
 *Report Generated: Wednesday, June 10, 2026 - Afternoon Session*
 
-*Data Sources: Finviz, Yahoo Finance, MarketWatch, Bloomberg*
+*Data Sources: Finviz, Yahoo Finance, MarketWatch, Bloomberg, Federal Reserve*
 
 *Charts: Finviz Candlestick Charts with Technical Indicators*
+
+*Disclaimer: This report is for informational purposes only. Past performance does not guarantee future results.*

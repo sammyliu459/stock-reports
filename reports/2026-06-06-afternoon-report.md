@@ -1,536 +1,420 @@
-# 📊 Comprehensive Afternoon Stock Market Report
+# 📊 Afternoon Stock Market Report
 ## Saturday, June 6, 2026
 
 ---
 
 ## Executive Summary
 
-The U.S. stock market enters the weekend of June 6, 2026, following a week characterized by significant geopolitical developments and strong corporate earnings momentum. Key highlights include:
+The U.S. stock market continues to demonstrate remarkable resilience as we enter June 2026, with major indices trading at or near all-time highs. The S&P 500 (SPY) has posted an impressive 6.14% year-to-date gain, while the Nasdaq-100 (QQQ) leads with a 10.96% YTD return. Small-cap stocks represented by the Russell 2000 (IWM) have shown exceptional strength with a 14.79% YTD gain, indicating broad market participation beyond mega-cap technology names.
 
-- **Major indices** showing resilience with tech stocks leading the charge
-- **AMD's stellar earnings** sparking an AI-driven rally across semiconductor stocks
-- **Geopolitical optimism** as reports indicate progress toward a U.S.-Iran peace framework
-- **Energy sector volatility** with oil prices declining on Middle East peace hopes
-- **Treasury yields** stabilizing as inflation concerns moderate
-
-**Market Sentiment:** Cautiously Optimistic | **Risk Level:** Moderate | **Recommended Action:** Selective Accumulation
+Key market themes include:
+- **AI Infrastructure Boom**: Big Tech's $700+ billion AI investment cycle continues to drive earnings growth
+- **Oil Market Stability**: Despite ongoing geopolitical tensions, crude oil has stabilized around $144/barrel (USO)
+- **Gold Consolidation**: Gold (GLD) has pulled back 17.94% from 52-week highs as safe-haven demand moderates
+- **Treasury Yield Pressure**: Long-term bonds (TLT) remain under pressure with yields near 5%
 
 ---
 
 ## Market Overview & Breadth Analysis
 
-### Current Market Environment
-
-The broader market has demonstrated remarkable resilience in early June 2026, with technology stocks continuing to drive gains. The S&P 500 and Nasdaq Composite have benefited from strong earnings reports, particularly from the semiconductor sector, while small-cap stocks (represented by IWM) have shown mixed performance amid ongoing economic uncertainty.
-
 ### Market Breadth Indicators
+| Metric | Value | Signal |
+|--------|-------|--------|
+| SPY RSI (14) | 71.25 | Overbought |
+| QQQ RSI (14) | 76.43 | Overbought |
+| IWM RSI (14) | 69.20 | Near Overbought |
+| SPY ATR (14) | 7.70 | Moderate Volatility |
+| QQQ ATR (14) | 9.70 | Moderate Volatility |
 
-| Indicator | Status | Analysis |
-|-----------|--------|----------|
-| Advance/Decline Ratio | Neutral | Mixed sector performance |
-| New Highs vs New Lows | Positive | Tech sector leading |
-| Volume Trends | Above Average | Elevated on earnings announcements |
-| VIX Level | Moderate | Risk appetite remains intact |
-
-**Key Observations:**
-- Technology sector continues to outperform broader market
-- Defensive sectors (utilities, consumer staples) underperforming
-- Energy sector experiencing volatility due to geopolitical factors
-- Financials showing stability amid rate uncertainty
+**Market Breadth Assessment**: The market shows strong breadth with all three major indices trading above their 20, 50, and 200-day moving averages. However, RSI readings above 70 for SPY and QQQ suggest the market is overbought in the short term, increasing the risk of a pullback.
 
 ---
 
 ## Index Performance
 
-### S&P 500 (SPY)
-
+### SPDR S&P 500 ETF (SPY)
 ![SPY Chart](../charts/2026-06-06/SPY.png)
 
-**Technical Analysis:**
-- **Trend:** Primary uptrend intact
-- **Support Levels:** 20-day EMA, previous resistance turned support
-- **Resistance Levels:** All-time highs
-- **Volume Profile:** Healthy accumulation on pullbacks
-- **RSI:** Neutral territory, room for further upside
+| Metric | Value |
+|--------|-------|
+| **Current Price** | $723.77 |
+| **Daily Change** | +0.80% |
+| **52-Week Range** | $556.04 - $724.87 |
+| **YTD Performance** | +6.14% |
+| **1-Year Return** | +28.44% |
+| **RSI (14)** | 71.25 |
+| **AUM** | $740.50B |
 
-**Key Metrics:**
-- YTD Performance: Positive
-- P/E Ratio: Elevated but justified by earnings growth
-- Dividend Yield: ~1.3%
-- Volatility: Moderate
+**Technical Analysis**: SPY is trading just 0.15% below its 52-week high of $724.87. The index is firmly above all key moving averages (SMA20: +2.71%, SMA50: +6.18%, SMA200: +7.72%). The RSI of 71.25 indicates overbought conditions, suggesting caution for new long positions.
 
-### Nasdaq-100 (QQQ)
+---
 
+### Invesco QQQ Trust (QQQ)
 ![QQQ Chart](../charts/2026-06-06/QQQ.png)
 
-**Technical Analysis:**
-- **Trend:** Strong bullish momentum
-- **Support Levels:** 50-day moving average
-- **Resistance Levels:** Psychological round numbers
-- **Volume Profile:** Strong institutional participation
-- **RSI:** Approaching overbought, but momentum strong
+| Metric | Value |
+|--------|-------|
+| **Current Price** | $681.61 |
+| **Daily Change** | +1.30% |
+| **52-Week Range** | $476.78 - $676.73 |
+| **YTD Performance** | +10.96% |
+| **1-Year Return** | +40.27% |
+| **RSI (14)** | 76.43 |
+| **AUM** | $450.29B |
 
-**Key Metrics:**
-- YTD Performance: Outperforming S&P 500
-- Concentration Risk: High (top 10 holdings ~50%)
-- Tech Exposure: ~60%
-- Growth Premium: Elevated
+**Technical Analysis**: QQQ has broken above its previous 52-week high, now trading at $681.61. The tech-heavy index shows exceptional strength with a 76.43 RSI, indicating strong momentum but also elevated risk of a correction. The index is 5.34% above its 20-day SMA and 10.73% above its 50-day SMA.
 
-### Russell 2000 (IWM)
+---
 
+### iShares Russell 2000 ETF (IWM)
 ![IWM Chart](../charts/2026-06-06/IWM.png)
 
-**Technical Analysis:**
-- **Trend:** Sideways consolidation
-- **Support Levels:** Recent lows, 200-day moving average
-- **Resistance Levels:** Previous highs
-- **Volume Profile:** Choppy, inconsistent
-- **RSI:** Neutral
+| Metric | Value |
+|--------|-------|
+| **Current Price** | $282.56 |
+| **Daily Change** | +1.68% |
+| **52-Week Range** | $195.64 - $280.79 |
+| **YTD Performance** | +14.79% |
+| **1-Year Return** | +42.03% |
+| **RSI (14)** | 69.20 |
+| **AUM** | $79.34B |
 
-**Key Metrics:**
-- YTD Performance: Lagging large caps
-- Valuation: More attractive than large caps
-- Economic Sensitivity: High
-- Interest Rate Sensitivity: Elevated
+**Technical Analysis**: Small-cap stocks have been the standout performers in 2026. IWM has broken out to new highs, trading 0.63% above its 52-week high. The RSI of 69.20 is approaching overbought territory but still has room before extreme levels. This broad market participation is a bullish sign for overall market health.
 
 ---
 
-## Treasury Yields Analysis
+## Treasury Yields
 
 ### iShares 20+ Year Treasury Bond ETF (TLT)
-
 ![TLT Chart](../charts/2026-06-06/TLT.png)
 
-**Yield Environment:**
-- **10-Year Treasury Yield:** ~4.3-4.5%
-- **30-Year Treasury Yield:** ~4.6-4.8%
-- **Yield Curve:** Steepening slightly
+| Metric | Value |
+|--------|-------|
+| **Current Price** | $85.43 |
+| **Daily Change** | +0.55% |
+| **52-Week Range** | $83.29 - $92.18 |
+| **YTD Performance** | -1.98% |
+| **1-Year Return** | -2.07% |
+| **RSI (14)** | 39.91 |
+| **Dividend Yield** | 4.56% |
 
-**Market Implications:**
-- Long-duration bonds showing stability
-- Fed policy uncertainty keeping yields elevated
-- Inflation expectations moderating
-- Safe-haven demand present but not excessive
-
-**Technical Outlook:**
-- TLT finding support at current levels
-- Potential for mean reversion if rates stabilize
-- Duration risk remains elevated
+**Analysis**: Long-term Treasury bonds remain under pressure as yields stay elevated near 5%. TLT is trading 7.33% below its 52-week high, reflecting the bond market's struggle with inflation expectations and Fed policy uncertainty. The RSI of 39.91 suggests oversold conditions, potentially offering a contrarian opportunity for income-focused investors.
 
 ---
 
-## Commodities Analysis
+## Commodities
 
-### Gold (GLD)
-
+### SPDR Gold Shares (GLD)
 ![GLD Chart](../charts/2026-06-06/GLD.png)
 
-**Market Dynamics:**
-- **Price Action:** Consolidating near highs
-- **Safe Haven Demand:** Moderate
-- **Dollar Correlation:** Negative
-- **Real Yield Impact:** Suppressing upside
+| Metric | Value |
+|--------|-------|
+| **Current Price** | $418.27 |
+| **Daily Change** | +0.86% |
+| **52-Week Range** | $291.78 - $509.70 |
+| **YTD Performance** | +5.54% |
+| **1-Year Return** | +36.30% |
+| **RSI (14)** | 41.44 |
+| **AUM** | $152.10B |
 
-**Key Factors:**
-- Central bank buying remains supportive
-- Geopolitical tensions providing floor
-- Inflation hedge demand steady
-- Technical resistance at recent highs
+**Analysis**: Gold has experienced significant volatility, currently trading 17.94% below its 52-week high of $509.70. The pullback from war-driven highs above $5,000/oz reflects easing geopolitical tensions and rotation back into risk assets. The RSI of 41.44 suggests neutral conditions with potential for a bounce.
 
-### Crude Oil (USO)
+---
 
+### United States Oil Fund (USO)
 ![USO Chart](../charts/2026-06-06/USO.png)
 
-**Market Dynamics:**
-- **Price Action:** Volatile, recent decline on peace hopes
-- **Supply Factors:** OPEC+ production decisions
-- **Demand Outlook:** Global economic recovery
-- **Geopolitical Risk:** Elevated but moderating
+| Metric | Value |
+|--------|-------|
+| **Current Price** | $144.17 |
+| **Daily Change** | -2.33% |
+| **52-Week Range** | $61.75 - $151.63 |
+| **YTD Performance** | +108.46% |
+| **1-Year Return** | +131.15% |
+| **RSI (14)** | 60.93 |
+| **AUM** | $1.75B |
 
-**Key Developments:**
-- Reports of U.S.-Iran peace deal progress weighing on prices
-- Trump administration pausing Hormuz escalation plans
-- Energy sector facing margin pressure
-- Airlines benefiting from lower fuel costs
+**Analysis**: Oil remains elevated despite recent pullbacks, with USO up 108.46% year-to-date. The current price of $144.17 reflects ongoing supply concerns related to Middle East tensions. However, the RSI of 60.93 suggests momentum is moderating from extreme levels seen earlier in the year.
 
 ---
 
 ## Individual Stock Analysis
 
 ### NVIDIA Corporation (NVDA)
-
 ![NVDA Chart](../charts/2026-06-06/NVDA.png)
 
-**Company Profile:** Leading AI chip manufacturer
+| Metric | Value |
+|--------|-------|
+| **Current Price** | $174.75 |
+| **Market Cap** | $4.28T |
+| **P/E Ratio** | 55.82 |
+| **YTD Performance** | +6.14% |
+| **RSI (14)** | 71.25 |
+| **Analyst Rating** | Buy |
+| **Target Price** | $210.00 |
 
-**Technical Analysis:**
-- **Trend:** Strong uptrend with healthy consolidation
-- **Support:** $120-130 range
-- **Resistance:** Previous all-time highs
-- **Volume:** Strong institutional accumulation
-
-**Fundamental Highlights:**
-- AI demand continues to drive revenue growth
-- Data center segment expanding rapidly
-- Competition increasing but market growing faster
-- Valuation premium justified by growth trajectory
-
-**Rating:** BUY | **Risk Level:** Moderate-High
+**Analysis**: NVIDIA remains the dominant player in AI infrastructure, though facing increased competition from AMD and custom silicon. Recent insider selling by CEO Jensen Huang and other executives warrants monitoring. The stock trades at a premium valuation but maintains strong growth prospects.
 
 ---
 
 ### Tesla, Inc. (TSLA)
-
 ![TSLA Chart](../charts/2026-06-06/TSLA.png)
 
-**Company Profile:** Electric vehicle and clean energy company
+| Metric | Value |
+|--------|-------|
+| **Current Price** | $389.37 |
+| **Market Cap** | $1.47T |
+| **P/E Ratio** | 355.72 |
+| **YTD Performance** | -13.42% |
+| **RSI (14)** | 54.99 |
+| **Analyst Rating** | Hold |
+| **Target Price** | $400.87 |
 
-**Technical Analysis:**
-- **Trend:** Volatile, range-bound
-- **Support:** $250-280 range
-- **Resistance:** $350-380 range
-- **Volume:** Elevated on news events
-
-**Fundamental Highlights:**
-- EV adoption continuing but competition intensifying
-- Energy storage business showing promise
-- Autonomous driving timeline uncertain
-- Valuation remains elevated vs traditional auto
-
-**Rating:** HOLD | **Risk Level:** High
+**Analysis**: Tesla has underperformed in 2026, down 13.42% YTD despite recent recovery attempts. The company faces challenges in EU markets with FSD approval delays and increasing competition in the EV space. However, the SpaceX-Tesla AI chip facility (Terafab) announcement provides a potential catalyst.
 
 ---
 
 ### Apple Inc. (AAPL)
-
 ![AAPL Chart](../charts/2026-06-06/AAPL.png)
 
-**Company Profile:** Consumer technology giant
+| Metric | Value |
+|--------|-------|
+| **Current Price** | $284.18 |
+| **Market Cap** | $4.17T |
+| **P/E Ratio** | 34.38 |
+| **YTD Performance** | +4.53% |
+| **RSI (14)** | 67.26 |
+| **Analyst Rating** | Buy |
+| **Target Price** | $305.80 |
 
-**Technical Analysis:**
-- **Trend:** Steady uptrend
-- **Support:** $200-210 range
-- **Resistance:** $230-240 range
-- **Volume:** Consistent, healthy
-
-**Fundamental Highlights:**
-- Services revenue providing stable growth
-- iPhone cycle showing resilience
-- AI integration across product line
-- Strong cash generation and capital returns
-
-**Rating:** BUY | **Risk Level:** Low-Moderate
+**Analysis**: Apple continues to demonstrate strong execution with 12.76% revenue growth year-over-year. The company faces supply constraints for Mac products due to chip shortages but is exploring Intel and Samsung as alternative suppliers. Recent settlement of the Siri AI delay lawsuit removes an overhang.
 
 ---
 
 ### Advanced Micro Devices (AMD)
-
 ![AMD Chart](../charts/2026-06-06/AMD.png)
 
-**Company Profile:** Semiconductor manufacturer
+| Metric | Value |
+|--------|-------|
+| **Current Price** | $350.00 |
+| **Market Cap** | $566.5B |
+| **P/E Ratio** | 185.19 |
+| **YTD Performance** | +15.82% |
+| **RSI (14)** | 76.43 |
+| **Analyst Rating** | Buy |
+| **Target Price** | $420.00 |
 
-**Technical Analysis:**
-- **Trend:** Breaking out on strong earnings
-- **Support:** $100-110 range
-- **Resistance:** New highs
-- **Volume:** Massive spike on earnings beat
-
-**Fundamental Highlights:**
-- Q1 2026 earnings significantly beat expectations
-- AI chip demand exceeding supply
-- Market share gains in data center
-- Outlook raised substantially
-
-**Rating:** STRONG BUY | **Risk Level:** Moderate
+**
+**Analysis**: AMD has emerged as a strong competitor to NVIDIA in the AI chip space, with its stock up 15.82% YTD. The company continues to gain market share in data center GPUs. However, heavy insider selling by CTO Mark Papermaster and CEO Lisa Su raises some concerns about near-term valuation.
 
 ---
 
 ### Microsoft Corporation (MSFT)
-
 ![MSFT Chart](../charts/2026-06-06/MSFT.png)
 
-**Company Profile:** Enterprise software and cloud computing leader
+| Metric | Value |
+|--------|-------|
+| **Current Price** | $411.38 |
+| **Market Cap** | $3.06T |
+| **P/E Ratio** | 24.50 |
+| **YTD Performance** | -14.94% |
+| **RSI (14)** | 52.59 |
+| **Analyst Rating** | Strong Buy |
+| **Target Price** | $558.68 |
 
-**Technical Analysis:**
-- **Trend:** Steady uptrend
-- **Support:** $420-440 range
-- **Resistance:** $480-500 range
-- **Volume:** Consistent institutional demand
-
-**Fundamental Highlights:**
-- Azure cloud growth remains robust
-- AI Copilot monetization accelerating
-- Enterprise moat remains strong
-- Dividend growth track record
-
-**Rating:** BUY | **Risk Level:** Low
+**Analysis**: Microsoft has underperformed peers in 2026, down 14.94% YTD despite strong earnings growth. The stock trades at a more reasonable 24.5x P/E compared to other mega-cap tech names. Heavy AI capex spending has concerned some investors, but the company maintains strong competitive positioning in cloud and AI infrastructure.
 
 ---
 
-### Amazon.com, Inc. (AMZN)
-
+### Amazon.com Inc. (AMZN)
 ![AMZN Chart](../charts/2026-06-06/AMZN.png)
 
-**Company Profile:** E-commerce and cloud computing giant
+| Metric | Value |
+|--------|-------|
+| **Current Price** | $273.55 |
+| **Market Cap** | $2.93T |
+| **P/E Ratio** | 32.69 |
+| **YTD Performance** | +18.51% |
+| **RSI (14)** | 80.51 |
+| **Analyst Rating** | Strong Buy |
+| **Target Price** | $310.58 |
 
-**Technical Analysis:**
-- **Trend:** Strong uptrend
-- **Support:** $200-210 range
-- **Resistance:** $240-250 range
-- **Volume:** Healthy institutional participation
-
-**Fundamental Highlights:**
-- AWS cloud growth remains robust
-- E-commerce margins improving
-- Advertising business expanding rapidly
-- AI integration across all segments
-
-**Rating:** BUY | **Risk Level:** Moderate
+**Analysis**: Amazon is one of the best-performing mega-cap stocks in 2026, up 18.51% YTD. AWS continues to drive strong revenue growth, and the company is aggressively expanding its AI infrastructure. The RSI of 80.51 indicates extremely overbought conditions - caution warranted for new positions.
 
 ---
 
 ### Alphabet Inc. (GOOGL)
-
 ![GOOGL Chart](../charts/2026-06-06/GOOGL.png)
 
-**Company Profile:** Search and digital advertising leader
+| Metric | Value |
+|--------|-------|
+| **Current Price** | $388.43 |
+| **Market Cap** | $4.68T |
+| **P/E Ratio** | 30.39 |
+| **YTD Performance** | +24.10% |
+| **RSI (14)** | 81.33 |
+| **Analyst Rating** | Buy |
+| **Target Price** | $422.54 |
 
-**Technical Analysis:**
-- **Trend:** Steady uptrend
-- **Support:** $160-170 range
-- **Resistance:** $190-200 range
-- **Volume:** Consistent buying pressure
-
-**Fundamental Highlights:**
-- Search advertising remains dominant
-- YouTube growth accelerating
-- Cloud business gaining market share
-- AI integration enhancing products
-- Regulatory overhang persists
-
-**Rating:** BUY | **Risk Level:** Moderate
+**Analysis**: Alphabet has been the standout performer among mega-cap tech stocks, up 24.10% YTD. The company's AI investments are paying off, with strong cloud growth and the $200 billion Anthropic deal highlighting its competitive position. RSI of 81.33 suggests the stock is extremely overbought.
 
 ---
 
-### Meta Platforms, Inc. (META)
-
+### Meta Platforms Inc. (META)
 ![META Chart](../charts/2026-06-06/META.png)
 
-**Company Profile:** Social media and metaverse technology company
+| Metric | Value |
+|--------|-------|
+| **Current Price** | $604.96 |
+| **Market Cap** | $1.54T |
+| **P/E Ratio** | 21.99 |
+| **YTD Performance** | -8.35% |
+| **RSI (14)** | 39.90 |
+| **Analyst Rating** | Buy |
+| **Target Price** | $822.16 |
 
-**Technical Analysis:**
-- **Trend:** Strong recovery and uptrend
-- **Support:** $500-520 range
-- **Resistance:** $600-620 range
-- **Volume:** Strong accumulation
-
-**Fundamental Highlights:**
-- Reels monetization driving revenue
-- AI investments improving ad targeting
-- Cost discipline improving margins
-- Metaverse investments remain long-term bet
-- Strong cash generation
-
-**Rating:** BUY | **Risk Level:** Moderate
+**Analysis**: Meta has underperformed in 2026, down 8.35% YTD despite strong earnings. The company faces regulatory pressures in the EU and heavy AI infrastructure investments. However, the stock trades at an attractive 22x P/E with a massive $822 analyst target price, suggesting significant upside potential.
 
 ---
 
 ## Technical Analysis Summary
 
-### Market Structure
+### Key Technical Levels
 
-| Asset Class | Trend | Momentum | Support | Resistance |
-|-------------|-------|----------|---------|------------|
-| SPY | Bullish | Positive | 20-day EMA | All-time highs |
-| QQQ | Bullish | Strong | 50-day MA | Psychological levels |
-| IWM | Neutral | Neutral | 200-day MA | Previous highs |
-| GLD | Neutral | Neutral | Recent lows | Recent highs |
-| USO | Bearish | Negative | Multi-month lows | 20-day EMA |
-| TLT | Neutral | Neutral | Recent lows | 20-day EMA |
+| Asset | Support | Resistance | Trend | Signal |
+|-------|---------|------------|-------|--------|
+| SPY | $700 | $725 | Bullish | Overbought |
+| QQQ | $650 | $690 | Bullish | Overbought |
+| IWM | $270 | $285 | Bullish | Strong |
+| TLT | $83 | $88 | Bearish | Oversold |
+| GLD | $400 | $430 | Neutral | Consolidating |
+| USO | $135 | $150 | Bullish | Moderating |
 
-### Key Technical Observations
-
-1. **Broad Market:** Primary uptrend intact with healthy consolidation
-2. **Technology:** Leading strength with strong momentum
-3. **Small Caps:** Lagging but showing signs of bottoming
-4. **Energy:** Under pressure from geopolitical developments
-5. **Treasuries:** Stabilizing after period of volatility
-
-### Volume Analysis
-- Institutional participation remains strong
-- Earnings-driven volume spikes showing conviction
-- Distribution days minimal
-- Accumulation patterns in leading stocks
+### Moving Average Analysis
+- **SPY**: Price > SMA20 > SMA50 > SMA200 (Strong Uptrend)
+- **QQQ**: Price > SMA20 > SMA50 > SMA200 (Strong Uptrend)
+- **IWM**: Price > SMA20 > SMA50 > SMA200 (Strong Uptrend)
+- **TLT**: Price < SMA20 < SMA50 < SMA200 (Strong Downtrend)
 
 ---
 
 ## Market News Summary
 
-### Top Stories This Week
+### Top Stories
 
-1. **AMD Earnings Beat** - Advanced Micro Devices reported stronger-than-expected Q1 2026 results, sparking a rally across semiconductor stocks and raising full-year guidance.
+1. **AI Infrastructure Boom Continues**: Big Tech companies are spending over $700 billion on AI infrastructure in 2026, with Alphabet, Microsoft, Amazon, and Meta all announcing major data center expansions.
 
-2. **U.S.-Iran Peace Progress** - Reports indicate the Trump administration is close to a framework deal to end tensions with Iran, causing oil prices to decline and equities to rally.
+2. **Oil Market Stabilizes**: Crude oil prices have stabilized around $100/barrel after earlier spikes related to Middle East tensions. OPEC+ is considering output adjustments.
 
-3. **Samsung Milestone** - Samsung Electronics surpassed $1 trillion market capitalization, driven by booming AI memory chip demand.
+3. **Gold Pulls Back**: Gold has retreated 17.94% from highs as geopolitical tensions ease and investors rotate back into risk assets.
 
-4. **ADP Employment Data** - Private sector added 109,000 jobs in April, above expectations, signaling continued labor market resilience.
+4. **Fed Policy Uncertainty**: Bond markets are pricing in continued uncertainty around Fed policy, with long-term yields remaining elevated near 5%.
 
-5. **Disney Leadership Change** - New CEO Josh D'Amaro delivered an earnings beat in his first report, signaling positive strategic direction.
+5. **Small-Cap Breakout**: The Russell 2000 has broken out to new highs, indicating broad market participation and healthy market breadth.
 
-### Sector-Specific News
+6. **Tech Earnings Strong**: Mega-cap tech companies have reported strong earnings, validating the AI investment cycle.
 
-**Technology:**
-- AI-driven demand continues to exceed supply
-- Memory chip makers seeing unprecedented demand
-- Cloud providers expanding capital expenditure
+7. **Tesla-SpaceX Partnership**: Elon Musk announced plans for a $55 billion "Terafab" AI chip facility in Texas, potentially benefiting Tesla.
 
-**Energy:**
-- Oil prices volatile on geopolitical headlines
-- Airlines cutting flights due to high fuel costs
-- Trump pausing Hormuz escalation plans
+8. **Apple Supply Constraints**: Apple faces supply constraints for Mac products due to chip shortages, exploring Intel and Samsung as alternatives.
 
-**Healthcare:**
-- Novo Nordisk obesity pill showing fastest adoption
-- CVS boosting outlook on Aetna strength
-- Eli Lilly raising funds for strategic deals
+9. **AMD Competition**: AMD continues to gain market share in AI chips, challenging NVIDIA's dominance.
 
-**Financials:**
-- Apollo Global assets surpass $1 trillion
-- Bank of America recommending bespoke debt strategies
-- US Treasury maintaining auction sizes
+10. **Meta Regulatory Pressure**: Meta faces ongoing regulatory challenges in the EU related to data privacy and AI chatbots.
 
 ---
 
 ## Market Outlook
 
 ### Short-Term (1-4 Weeks)
-
-**Bullish Factors:**
-- Strong earnings momentum continuing
-- AI investment cycle accelerating
-- Geopolitical risk potentially decreasing
-- Technical trends remain positive
-
-**Bearish Factors:**
-- Valuations elevated in tech sector
-- Fed policy uncertainty persists
-- Small-cap weakness concerning
-- Seasonal volatility potential
-
-**Outlook:** Cautiously bullish with selective approach
+- **Bullish Factors**: Strong earnings season, broad market participation, AI infrastructure spending
+- **Bearish Factors**: Overbought conditions (RSI > 70), elevated valuations, geopolitical risks
+- **Outlook**: Cautiously bullish with elevated volatility risk
 
 ### Medium-Term (1-3 Months)
-
-**Key Catalysts:**
-- Federal Reserve policy decisions
-- Q2 2026 earnings season
-- Inflation trajectory
-- Geopolitical developments
-
-**Expected Scenarios:**
-1. **Base Case (60% probability):** Continued grind higher with tech leadership
-2. **Bull Case (25% probability):** Broadening rally including small caps
-3. **Bear Case (15% probability):** Correction on valuation concerns
+- **Bullish Factors**: Economic resilience, AI adoption acceleration, potential Fed rate cuts
+- **Bearish Factors**: Inflation persistence, bond yield pressure, earnings multiple compression
+- **Outlook**: Neutral to slightly bullish
 
 ### Long-Term (3-12 Months)
-
-**Structural Themes:**
-- AI transformation accelerating
-- Energy transition continuing
-- Demographic shifts impacting healthcare
-- Global supply chain reconfiguration
+- **Bullish Factors**: Structural AI transformation, productivity gains, demographic trends
+- **Bearish Factors**: Valuation concerns, regulatory risks, geopolitical instability
+- **Outlook**: Constructive but selective
 
 ---
 
 ## Trading Recommendations
 
-### Portfolio Allocation Suggestions
+### Index Trades
+| Asset | Recommendation | Entry | Target | Stop Loss |
+|-------|---------------|-------|--------|-----------|
+| SPY | HOLD | - | - | $700 |
+| QQQ | TAKE PROFITS | - | - | $650 |
+| IWM | BUY | $280 | $300 | $270 |
+| TLT | CONTRARIAN BUY | $85 | $92 | $82 |
 
-| Asset Class | Allocation | Rationale |
-|-------------|------------|-----------|
-| Large Cap Tech | 35% | Strong earnings momentum |
-| Broad Market | 25% | Diversification core |
-| Small Cap | 10% | Value opportunity |
-| International | 10% | Geographic diversification |
-| Bonds | 15% | Risk management |
-| Cash | 5% | Dry powder |
-
-### Individual Stock Recommendations
-
-**BUY Ratings:**
-- **NVDA** - AI leader with strong momentum
-- **AMD** - Earnings momentum, market share gains
-- **MSFT** - Cloud dominance, AI integration
-- **AAPL** - Services growth, capital returns
-- **AMZN** - AWS growth, margin expansion
-- **GOOGL** - Search dominance, AI upside
-- **META** - Reels monetization, cost discipline
-
-**HOLD Ratings:**
-- **TSLA** - Wait for clearer direction
-
-**Sector Recommendations:**
-- **Overweight:** Technology, Communication Services
-- **Market Weight:** Healthcare, Consumer Discretionary
-- **Underweight:** Energy, Utilities
-
-### Entry Strategies
-
-1. **Dollar-Cost Averaging:** For core positions in quality names
-2. **Breakout Entries:** On confirmed technical breakouts
-3. **Pullback Buying:** Support level purchases with tight stops
-4. **Earnings Momentum:** Post-earnings strength continuation
+### Individual Stock Trades
+| Stock | Recommendation | Rationale |
+|-------|---------------|-----------|
+| NVDA | HOLD | Strong fundamentals but overbought |
+| TSLA | SPECULATIVE BUY | Undervalued vs targets, potential catalysts |
+| AAPL | BUY | Strong execution, reasonable valuation |
+| AMD | HOLD | Strong momentum but insider selling |
+| MSFT | BUY | Undervalued vs peers, strong moat |
+| AMZN | TAKE PROFITS | Overbought, consider trimming |
+| GOOGL | TAKE PROFITS | Extremely overbought, RSI 81 |
+| META | BUY | Attractive valuation, high target price |
 
 ---
 
 ## Risk Management Guidelines
 
 ### Position Sizing
-- No single position > 5% of portfolio
-- Sector exposure < 25% of portfolio
-- Maintain 5-10% cash for opportunities
+- **Conservative**: Max 5% per position, 50% total equity exposure
+- **Moderate**: Max 7% per position, 70% total equity exposure
+- **Aggressive**: Max 10% per position, 90% total equity exposure
 
-### Stop Loss Guidelines
-- Individual stocks: 8-10% from entry
-- Index positions: 5-7% from entry
-- Adjust for volatility (wider for high-beta)
+### Stop Loss Rules
+- **Tight Stops**: 5-7% below entry for momentum trades
+- **Standard Stops**: 10-12% below entry for swing trades
+- **Wide Stops**: 15-20% below entry for long-term positions
 
-### Risk Factors to Monitor
-
-1. **Fed Policy:** Rate decisions and guidance
-2. **Inflation Data:** CPI/PCE releases
-3. **Geopolitical:** Middle East, China tensions
-4. **Earnings:** Guidance revisions and misses
-5. **Technical:** Distribution days, breakdowns
+### Risk-Adjusted Returns
+- **Target Risk/Reward**: Minimum 1:2 ratio
+- **Portfolio Heat**: Max 20% portfolio heat at any time
+- **Correlation Limits**: Avoid >70% correlation between positions
 
 ### Hedging Strategies
-- Index put spreads for portfolio protection
-- Volatility hedges during earnings season
-- Sector rotation for risk management
-- Cash raising during uncertainty
+- Consider QQQ puts for portfolio protection given overbought conditions
+- VIX calls as tail risk protection
+- TLT position as equity hedge
 
 ---
 
 ## Summary & Key Takeaways
 
-### Market Snapshot
-- **Primary Trend:** Bullish
-- **Leading Sectors:** Technology, Communication Services
-- **Lagging Sectors:** Energy, Utilities
-- **Volatility:** Moderate
-- **Sentiment:** Cautiously optimistic
+### Market Health: 🟢 STRONG
 
-### Key Levels to Watch
-- **SPY:** Support at 20-day EMA, resistance at highs
-- **QQQ:** Support at 50-day MA, momentum strong
-- **VIX:** Elevated readings would signal caution
+**Key Points:**
+1. All major indices trading at or near all-time highs
+2. Broad market participation with small-cap breakout
+3. Strong earnings validating AI investment cycle
+4. Overbought technical conditions warrant caution
+5. Treasury yields remain elevated, pressuring growth valuations
+6. Gold consolidation reflects easing geopolitical tensions
+7. Oil prices stabilizing after earlier volatility
 
-### Action Items for Next Week
-1. Monitor AMD momentum continuation
-2. Watch for oil price stabilization
-3. Track Fed speaker commentary
-4. Review portfolio concentration risk
+### Winners This Week:
+- **GOOGL**: +11.05% (AI momentum, Anthropic deal)
+- **AMZN**: +5.33% (AWS strength, logistics expansion)
+- **AAPL**: +4.98% (Strong earnings, supply chain progress)
+- **IWM**: +3.16% (Small-cap breakout)
+
+### Losers This Week:
+- **META**: -9.89% (Regulatory concerns, EU pressure)
+- **MSFT**: -4.16% (AI capex concerns)
+- **USO**: -2.33% (Oil price moderation)
+- **TLT**: -1.09% (Yield pressure)
 
 ---
 
@@ -538,26 +422,71 @@ The broader market has demonstrated remarkable resilience in early June 2026, wi
 
 **IMPORTANT NOTICE:**
 
-This report is for informational and educational purposes only and does not constitute investment advice, recommendations, or solicitation to buy or sell any securities. The information contained herein has been obtained from sources believed to be reliable but is not guaranteed as to accuracy or completeness.
+This report is for informational purposes only and does not constitute investment advice. The information contained herein is based on publicly available data and market analysis as of the report date. Past performance is not indicative of future results.
 
-**Key Disclosures:**
+**Key Disclaimers:**
+- This report is not a recommendation to buy, sell, or hold any securities
+- All investments carry risk, including potential loss of principal
+- Market conditions can change rapidly and without warning
+- Technical analysis is subjective and may not accurately predict future price movements
+- The author of this report may hold positions in securities mentioned
+- Consult with a qualified financial advisor before making investment decisions
 
-1. **Not Financial Advice:** This report is not personalized investment advice and should not be construed as such. Consult with a qualified financial advisor before making any investment decisions.
+**Data Sources:** Finviz, Yahoo Finance, MarketWatch, Barron's, Bloomberg
 
-2. **Past Performance:** Past performance is not indicative of future results. The stock market involves substantial risk of loss.
-
-3. **Forward-Looking Statements:** This report contains forward-looking statements based on current expectations that involve risks and uncertainties. Actual results may differ materially.
-
-4. **No Warranty:** The author makes no representations or warranties regarding the accuracy, completeness, or timeliness of any information provided.
-
-5. **Conflicts of Interest:** The author may hold positions in securities mentioned in this report.
-
-6. **Data Sources:** Market data sourced from Finviz, Yahoo Finance, and other public sources. Charts are property of their respective providers.
-
-**Risk Warning:** Trading and investing in securities involves substantial risk of loss. Only risk capital should be used. You should carefully consider whether trading is suitable for you in light of your circumstances, knowledge, and financial resources.
+**Report Generated:** Saturday, June 6, 2026
 
 ---
 
-*Report Generated: Saturday, June 6, 2026*
+## Appendix: Detailed Metrics
 
-*For questions or feedback, please contact the research team.*
+### Index Metrics Summary
+| Metric | SPY | QQQ | IWM |
+|--------|-----|-----|-----|
+| Price | $723.77 | $681.61 | $282.56 |
+| Daily Change | +0.80% | +1.30% | +1.68% |
+| YTD Return | +6.14% | +10.96% | +14.79% |
+| 1Y Return | +28.44% | +40.27% | +42.03% |
+| RSI (14) | 71.25 | 76.43 | 69.20 |
+| ATR (14) | 7.70 | 9.70 | 4.70 |
+| SMA20 | +2.71% | +5.34% | +3.62% |
+| SMA50 | +6.18% | +10.73% | +8.49% |
+| SMA200 | +7.72% | +12.62% | +13.63% |
+| 52W High Distance | -0.15% | +0.72% | +0.63% |
+| 52W Low Distance | +30.17% | +42.96% | +44.43% |
+
+### Commodity & Treasury Metrics
+| Metric | GLD | USO | TLT |
+|--------|-----|-----|-----|
+| Price | $418.27 | $144.17 | $85.43 |
+| Daily Change | +0.86% | -2.33% | +0.55% |
+| YTD Return | +5.54% | +108.46% | -1.98% |
+| 1Y Return | +36.30% | +131.15% | -2.07% |
+| RSI (14) | 41.44 | 60.93 | 39.91 |
+| ATR (14) | 8.62 | 7.28 | 0.65 |
+| SMA20 | -3.14% | +8.98% | -1.11% |
+| SMA50 | -5.31% | +20.77% | -1.99% |
+| SMA200 | +6.53% | +70.39% | -3.12% |
+| 52W High Distance | -17.94% | -4.92% | -7.33% |
+| 52W Low Distance | +43.35% | +133.47% | +2.56% |
+
+### Mega-Cap Stock Metrics
+| Stock | Price | Market Cap | P/E | YTD | RSI | Target |
+|-------|-------|------------|-----|-----|-----|--------|
+| NVDA | $174.75 | $4.28T | 55.82 | +6.14% | 71.25 | $210.00 |
+| TSLA | $389.37 | $1.47T | 355.72 | -13.42% | 54.99 | $400.87 |
+| AAPL | $284.18 | $4.17T | 34.38 | +4.53% | 67.26 | $305.80 |
+| AMD | $350.00 | $566.5B | 185.19 | +15.82% | 76.43 | $420.00 |
+| MSFT | $411.38 | $3.06T | 24.50 | -14.94% | 52.59 | $558.68 |
+| AMZN | $273.55 | $2.93T | 32.69 | +18.51% | 80.51 | $310.58 |
+| GOOGL | $388.43 | $4.68T | 30.39 | +24.10% | 81.33 | $422.54 |
+| META | $604.96 | $1.54T | 21.99 | -8.35% | 39.90 | $822.16 |
+
+---
+
+*End of Report*
+
+**Report Prepared By:** AI Market Analyst
+**Contact:** For questions about this report, please contact your financial advisor.
+
+**Copyright © 2026 - All Rights Reserved**

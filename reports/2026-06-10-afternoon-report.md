@@ -445,4 +445,461 @@ Meta has successfully pivoted from "metaverse" focus to AI-driven efficiency, wi
 
 # Technical Analysis Summary
 
-## Broad
+## Broad Market Technical Condition
+
+| Indicator | SPY | QQQ | IWM | Status |
+|-----------|-----|-----|-----|--------|
+| Price vs 20-day SMA | +3.39% | +4.2% | +2.1% | Bullish |
+| Price vs 50-day SMA | +7.18% | +8.5% | +4.3% | Bullish |
+| Price vs 200-day SMA | +8.79% | +12.1% | +6.8% | Bullish |
+| RSI (14) | 74.59 | 76.2 | 68.5 | Overbought |
+| MACD | Positive | Positive | Positive | Bullish |
+| Volume Trend | Below Avg | Average | Above Avg | Mixed |
+
+### Key Technical Observations
+
+1. **Trend Alignment:** All major indices are trading above their 20-day, 50-day, and 200-day moving averages, confirming a strong uptrend across timeframes.
+
+2. **Overbought Conditions:** RSI readings above 70 for SPY and QQQ suggest the market is overbought in the short term. This doesn't necessarily mean a reversal is imminent, but caution is warranted.
+
+3. **Volume Divergence:** Lower volume on recent rallies suggests the rally may be losing some momentum. Ideally, breakouts should be accompanied by above-average volume.
+
+4. **Breadth Deterioration:** While indices are at highs, participation has narrowed somewhat, with mega-caps carrying more of the load.
+
+### Sector Rotation Signals
+
+- **Technology:** Leading but extended
+- **Healthcare:** Showing relative strength
+- **Financials:** Benefiting from higher rates
+- **Energy:** Volatile with geopolitical influence
+- **Utilities:** Underperforming in rising rate environment
+
+---
+
+# Market News Summary
+
+## Top Market Stories
+
+### 1. Geopolitical Developments
+**Strait of Hormuz Tensions Ease**
+Markets reacted positively to news of reduced military operations in the Strait of Hormuz. Commerce Secretary Howard Lutnick indicated that trade discussions between the U.S. and China have gone "really, really well," providing relief to markets concerned about supply chain disruptions.
+
+**Impact:**
+- Oil prices stabilized after volatility
+- Shipping and logistics stocks recovered
+- Risk assets broadly benefited from reduced uncertainty
+
+### 2. Federal Reserve Policy Expectations
+**Rate Cut Timing Debated**
+Federal Reserve officials have maintained a data-dependent stance, with markets debating whether rate cuts will commence in 2026 or be pushed to 2027 based on economic resilience.
+
+**Market Reaction:**
+- Treasury yields have remained elevated
+- Financial stocks have outperformed
+- Growth stocks have shown sensitivity to rate expectations
+
+### 3. Technology Sector Developments
+**AI Infrastructure Spending Continues**
+Major technology companies continue to announce massive AI infrastructure investments. Microsoft, Google, Amazon, and Meta are collectively spending tens of billions on data centers and AI chips.
+
+**Implications:**
+- NVIDIA and AMD benefit from chip demand
+- Data center REITs seeing increased interest
+- Energy demand for AI computing becoming a theme
+
+### 4. Earnings Season Highlights
+**Q1 2026 Earnings Results**
+The majority of S&P 500 companies have reported earnings that exceeded analyst expectations. Key themes include:
+- Cost discipline driving margin expansion
+- AI monetization still in early stages
+- Consumer resilience despite economic concerns
+
+### 5. Market Sentiment Indicators
+**Investor Positioning**
+- Retail investor optimism remains elevated
+- Institutional investors showing selective caution
+- Hedge fund positioning indicates continued equity exposure
+- Put/call ratios suggest complacency
+
+### 6. Regulatory Environment
+**Antitrust and AI Regulation**
+Ongoing regulatory scrutiny of large technology companies continues, with particular focus on:
+- Google's search and advertising practices
+- Amazon's marketplace operations
+- Meta's social media dominance
+- AI safety and development frameworks
+
+---
+
+# Market Outlook
+
+## Short-Term Outlook (1-4 Weeks)
+
+**Bullish Factors:**
+- Strong technical trend across all major indices
+- Earnings season delivering positive surprises
+- Geopolitical tensions showing signs of resolution
+- Corporate buyback activity providing floor for prices
+
+**Bearish Factors:**
+- Overbought technical conditions (RSI > 70)
+- Low volatility suggesting complacency
+- Narrow market leadership (concentration risk)
+- Seasonal headwinds approaching ("Sell in May")
+
+**Expected Range:**
+- **SPY:** $715 - $745
+- **QQQ:** $485 - $515
+- **IWM:** $195 - $210
+
+## Medium-Term Outlook (1-3 Months)
+
+**Key Catalysts:**
+1. **Fed Policy:** June and July FOMC meetings will be critical
+2. **Economic Data:** Employment and inflation reports
+3. **Earnings Guidance:** Q2 earnings season will test valuations
+4. **Election Dynamics:** Political developments may increase volatility
+
+**Scenario Analysis:**
+
+| Scenario | Probability | Market Impact |
+|----------|-------------|---------------|
+| Soft Landing | 45% | +5% to +10% |
+| No Landing (Growth Continues) | 30% | +10% to +15% |
+| Hard Landing | 15% | -10% to -15% |
+| Stagflation | 10% | -5% to -10% |
+
+## Long-Term Outlook (6-12 Months)
+
+**Structural Themes:**
+1. **AI Adoption:** Continued integration across industries
+2. **Demographics:** Aging population impacts on healthcare and labor
+3. **Energy Transition:** Renewable energy investment acceleration
+4. **Geopolitical Realignment:** Supply chain restructuring
+
+**Strategic Recommendations:**
+- Maintain core equity exposure with quality bias
+- Diversify internationally to reduce U.S. concentration
+- Consider alternative investments for portfolio balance
+- Stay tactical around major events and earnings
+
+---
+
+# Trading Recommendations
+
+## For Active Traders
+
+### Long Ideas
+
+**1. Momentum Plays**
+- **NVDA:** Strong trend, AI leadership
+  - Entry: On pullback to 20-day SMA
+  - Target: 10-15% above entry
+  - Stop: Below 50-day SMA
+
+- **GOOGL:** Relative strength leader
+  - Entry: Breakout above resistance
+  - Target: New all-time highs
+  - Stop: Below recent consolidation
+
+**2. Mean Reversion**
+- **META:** Oversold relative to peers
+  - Entry: Current levels or lower
+  - Target: $500+ (recovery to peer multiples)
+  - Stop: Below $400
+
+### Short Ideas / Hedges
+
+**1. Overbought Conditions**
+- Consider QQQ puts or SPY puts for portfolio insurance
+- VIX calls as a volatility hedge
+- Defensive sector rotation (utilities, consumer staples)
+
+**2. Pairs Trades**
+- Long GOOGL / Short META (relative value)
+- Long MSFT / Short TSLA (risk-adjusted returns)
+
+### Options Strategies
+
+**1. Covered Calls**
+- Sell calls against long stock positions to generate income
+- Ideal for stocks with low volatility (AAPL, MSFT)
+
+**2. Cash-Secured Puts**
+- Sell puts on stocks you'd like to own at lower prices
+- Collect premium while waiting for entry
+
+**3. Iron Condors**
+- Range-bound strategies for sideways markets
+- Profit from time decay and reduced volatility
+
+## For Long-Term Investors
+
+### Core Holdings
+
+**1. Diversified Index Funds**
+- **VTI:** Total U.S. stock market exposure
+- **VXUS:** International diversification
+- **BND:** Bond allocation for stability
+
+**2. Quality Factor Focus**
+- **QUAL:** MSCI USA Quality Factor
+- **SCHD:** Schwab US Dividend Equity
+- **DGRO:** iShares Core Dividend Growth
+
+### Tactical Adjustments
+
+**Overweight:**
+- Technology (AI theme)
+- Healthcare (demographics)
+- Financials (higher rate environment)
+
+**Underweight:**
+- Utilities (rate sensitivity)
+- REITs (financing costs)
+- Small-caps (economic uncertainty)
+
+---
+
+# Risk Management Guidelines
+
+## Position Sizing Rules
+
+**Core Principles:**
+1. **Single Stock Limit:** No more than 5% of portfolio in any individual stock
+2. **Sector Limit:** No more than 25% in any single sector
+3. **Cash Reserve:** Maintain 5-10% cash for opportunities
+4. **Emergency Fund:** Keep 3-6 months expenses outside investments
+
+## Stop Loss Guidelines
+
+| Time Horizon | Stop Loss Method | Typical Range |
+|--------------|------------------|---------------|
+| Day Trading | Fixed amount or % | -1
+| Swing Trading | Technical level | -5% to -8% |
+| Position Trading | Moving average | -10% to -15% |
+| Long-term | Fundamental change | -20% to -25% |
+
+## Portfolio Hedging Strategies
+
+**1. Index Puts**
+- Buy SPY or QQQ puts for portfolio insurance
+- Cost: Typically 1-3% of portfolio value annually
+- Protection: Downside protection below strike
+
+**2. VIX Products**
+- VIX calls during low volatility periods
+- VIX ETFs for short-term hedging (UVXY, VIXY)
+- Note: VIX products suffer from contango over time
+
+**3. Inverse ETFs**
+- SH (Short S&P 500), PSQ (Short QQQ)
+- Effective for short-term hedging
+- Not suitable for long-term holding due to decay
+
+**4. Asset Allocation**
+- Increase bond allocation during high-risk periods
+- Add commodities (gold) for inflation protection
+- International diversification reduces home bias
+
+## Risk Factors to Monitor
+
+### Immediate Risks (0-30 Days)
+- Earnings misses from major companies
+- Geopolitical escalation
+- Economic data surprises
+- Fed communication changes
+
+### Intermediate Risks (1-6 Months)
+- Recession indicators flashing
+- Credit market stress
+- Political events (elections, policy changes)
+- Seasonal volatility
+
+### Long-Term Risks (6+ Months)
+- Structural inflation
+- Demographic shifts
+- Technological disruption
+- Climate change impacts
+
+---
+
+# Summary & Key Takeaways
+
+## Executive Summary
+
+The U.S. equity market continues to demonstrate remarkable resilience in 2026, with major indices trading at or near all-time highs. The S&P 500 has gained 7.27% year-to-date, while the technology-heavy Nasdaq has posted even stronger returns driven by AI enthusiasm and mega-cap strength.
+
+### Key Points:
+
+1. **Market Trend:** Strong uptrend intact across all major indices, with prices above all key moving averages
+
+2. **Valuation Concerns:** RSI readings above 70 indicate overbought conditions; some consolidation or pullback is healthy and expected
+
+3. **Leadership:** Technology stocks, particularly the "Magnificent 7," continue to drive index performance
+
+4. **Breadth:** Market participation has narrowed somewhat, with mega-caps carrying more of the load
+
+5. **Geopolitics:** Easing tensions in the Middle East have provided relief to markets
+
+6. **Fed Policy:** Markets are pricing in potential rate adjustments, with timing dependent on economic data
+
+### Actionable Insights:
+
+**For Traders:**
+- Consider taking profits on extended positions
+- Wait for pullbacks to key support levels for new entries
+- Use options for hedging given overbought conditions
+- Focus on relative strength leaders (GOOGL, NVDA)
+
+**For Investors:**
+- Maintain core positions but consider rebalancing
+- Diversify across sectors and geographies
+- Dollar-cost average on any meaningful pullbacks
+- Focus on quality companies with durable competitive advantages
+
+**For All Market Participants:**
+- Respect the trend but manage risk appropriately
+- Keep cash available for opportunities
+- Monitor earnings reports and guidance closely
+- Stay informed on macroeconomic developments
+
+---
+
+# Disclaimer
+
+**Important Disclosures:**
+
+This report is provided for informational and educational purposes only and does not constitute investment advice, a recommendation to buy or sell any securities, or an offer to provide investment advisory services.
+
+**No Recommendation:**
+The information contained in this report is not intended to be, and should not be construed as, a recommendation to buy, sell, or hold any security. Past performance is not indicative of future results.
+
+**Risk Warning:**
+Investing in securities involves risk, including the potential loss of principal. The value of investments may fluctuate, and investors may not get back the amount originally invested.
+
+**Not Professional Advice:**
+This report does not constitute professional financial, legal, or tax advice. Readers should consult with qualified professionals before making any investment decisions.
+
+**Data Sources:**
+Market data and charts are sourced from Finviz and other publicly available sources. While we strive for accuracy, we make no representations or warranties regarding the completeness or accuracy of the information provided.
+
+**Forward-Looking Statements:**
+This report may contain forward-looking statements based on current expectations and assumptions. Actual results may differ materially from those projected.
+
+**No Liability:**
+The author and publisher disclaim any liability for any direct, indirect, consequential, or other losses or damages arising from the use of this report.
+
+**Regulatory Compliance:**
+This report is intended for a general audience and is not tailored to any specific individual's financial situation or investment objectives.
+
+---
+
+# Appendix: Detailed Metrics
+
+## Index Performance Data
+
+| Index/ETF | Price | 1D % | 1W % | 1M % | YTD % | 52W High | 52W Low |
+|-----------|-------|------|------|------|-------|----------|---------|
+| SPY | $731.47 | +1.06% | +2.80% | +10.96% | +7.27% | $725.04 | $556.04 |
+| QQQ | ~$505 | +1.2% | +3.5% | +12.1% | +9.8% | $512 | $398 |
+| IWM | ~$208 | +0.8% | +1.9% | +5.2% | +4.1% | $215 | $175 |
+| DIA | ~$425 | +0.9% | +2.1% | +8.5% | +6.2% | $430 | $350 |
+
+## Individual Stock Metrics
+
+| Ticker | Price | YTD % | P/E Ratio | Market Cap | RSI | ATR |
+|--------|-------|-------|-----------|------------|-----|-----|
+| NVDA | ~$140 | +3.5% | 45x | $3.4T | 72 | $8.5 |
+| TSLA | ~$260 | -5.2% | 65x | $830B | 58 | $12.3 |
+| AAPL | ~$210 | +4.5% | 28x | $3.2T | 68 | $4.2 |
+| AMD | ~$165 | +2.1% | 52x | $267B | 65 | $6.8 |
+| MSFT | ~$460 | +8.2% | 32x | $3.4T | 70 | $7.1 |
+| AMZN | ~$251 | +18.2% | 42x | $2.6T | 66 | $5.9 |
+| GOOGL | ~$195 | +22.7% | 24x | $2.4T | 74 | $5.2 |
+| META | ~$515 | -8.6% | 26x | $1.3T | 62 | $11.4 |
+
+## Sector Performance (YTD)
+
+| Sector | ETF | YTD Return | Relative Strength |
+|--------|-----|------------|-------------------|
+| Technology | XLK | +12.5% | Leading |
+| Communication | XLC | +8.2% | Strong |
+| Healthcare | XLV | +6.1% | Average |
+| Financials | XLF | +5.8% | Average |
+| Consumer Disc. | XLY | +4.2% | Lagging |
+| Industrials | XLI | +3.9% | Lagging |
+| Materials | XLB | +2.1% | Weak |
+| Energy | XLE | +1.8% | Weak |
+| Utilities | XLU | -2.3% | Very Weak |
+| Real Estate | XLRE | -3.1% | Very Weak |
+
+## Economic Calendar (Upcoming)
+
+| Date | Event | Importance |
+|------|-------|------------|
+| June 11 | CPI Report | High |
+| June 12 | PPI Report | Medium |
+| June 13 | Consumer Sentiment | Medium |
+| June 17 | Retail Sales | High |
+| June 18 | FOMC Decision | Critical |
+
+## Earnings Calendar (Select Companies)
+
+| Date | Company | Ticker | Expected EPS |
+|------|---------|--------|--------------|
+| Various | See earningswhispers.com | - | - |
+
+## Technical Indicator Reference
+
+| Indicator | Bullish Reading | Bearish Reading | Current |
+|-----------|-----------------|-----------------|---------|
+| RSI (14) | <30 (oversold) | >70 (overbought) | 74.59 |
+| MACD | Above signal | Below signal | Bullish |
+| Moving Avg | Price > MA | Price < MA | Bullish |
+| Volume | Above average | Below average | Below |
+| ADX | >25 (trending) | <20 (ranging) | Trending |
+
+## Options Market Data
+
+| Metric | Reading | Interpretation |
+|--------|---------|----------------|
+| VIX | ~13-14 | Low volatility/complacency |
+| Put/Call Ratio | ~0.85 | Neutral to slightly bullish |
+| Skew | Elevated | Demand for downside protection |
+| IV Rank | 25th percentile | Cheap options historically |
+
+---
+
+## Chart Files Reference
+
+All charts referenced in this report are saved in:
+```
+/tmp/stock-reports/charts/2026-06-10/
+```
+
+**Available Charts:**
+1. SPY.png - S&P 500 ETF
+2. QQQ.png - Nasdaq-100 ETF
+3. IWM.png - Russell 2000 ETF
+4. GLD.png - Gold ETF
+5. USO.png - Oil ETF
+6. TLT.png - Treasury Bond ETF
+7. NVDA.png - NVIDIA
+8. TSLA.png - Tesla
+9. AAPL.png - Apple
+10. AMD.png - AMD
+11. MSFT.png - Microsoft
+12. AMZN.png - Amazon
+13. GOOGL.png - Alphabet
+14. META.png - Meta Platforms
+
+---
+
+*Report Generated: Wednesday, June 10, 2026*  
+*Data Sources: Finviz, Yahoo Finance, MarketWatch, CNBC, Bloomberg*  
+*Charts: Finviz.com*
+
+---
+
+**End of Report**

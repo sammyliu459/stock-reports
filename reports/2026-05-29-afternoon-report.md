@@ -7,7 +7,7 @@
 
 ## 📊 Market Overview
 
-Markets are showing resilience with major indices posting mixed results as investors digest economic signals and geopolitical developments. The S&P 500 continues trading near record highs while tech stocks show strength.
+Markets are showing resilience with major indices posting gains as investors digest mixed economic signals and geopolitical developments. The S&P 500 continues its march toward record highs while the Nasdaq leads with tech sector strength.
 
 ### Key Market Statistics
 
@@ -244,212 +244,359 @@ Oil pulling back from recent highs amid geopolitical developments:
 - Operating Margin: 5.41%
 
 **Performance:**
-- Weekly: +3.55%
-- Monthly: +10.36%
-- YTD: -13
----
+- Weekly: +3.55%- Monthly: +10.36%
+- YTD: -13.42%
+- 1-Year: +38.93%
 
-### AMD (AMD)
-![AMD Chart](./charts/2026-05-29/AMD.png)
+**Technical Analysis:**
+- RSI: 54.99 (neutral)
+- ATR: $14.19
+- 52-Week Range: $271.00 - $498.83
+- Trading 21.94% below 52-week high
 
-| Metric | Value |
-|--------|-------|
-| Price | ~$350.00 |
-| Market Cap | ~$565B |
-| P/E | ~130 |
-| RSI | Neutral |
-
-**Analysis:**
-- AI chip competition with NVIDIA intensifying
-- MI300 series gaining traction in data centers
-- Strong revenue growth expected
-- **Support:** $340, $330
-- **Resistance:** $360, $375
+**Recent Developments:**
+- Short interest at 2.13% (71.11M shares)
+- Insider ownership at 11.13%
+- PEG ratio of 6.45 suggests stretched valuation
+- Elon Musk settles SEC Twitter disclosure case for $1.5 million
 
 ---
 
-### Microsoft (MSFT)
-![MSFT Chart](./charts/2026-05-29/MSFT.png)
+### Apple Inc (AAPL) - $284.18
 
-| Metric | Value |
-|--------|-------|
-| Price | $411.38 |
-| Market Cap | $3.06T |
-| P/E | 24.50 |
-| RSI | 52.59 |
-| Target Price | $558.68 |
+![AAPL Chart](../charts/2026-05-29/AAPL.png)
+
+**Company Profile:**
+- **Market Cap:** $4.07T
+- **Sector:** Technology
+- **Industry:** Consumer Electronics
+
+**Key Metrics:**
+- P/E: 34.38 | Forward P/E: 29.75
+- EPS (ttm): $8.27 | EPS next Y: $9.55
+- Revenue: $451.44B
+- Gross Margin: 47.86%
+- Operating Margin: 32.64%
+- ROE: 141.47% | ROA: 34.91%
 
 **Performance:**
-- Week: -4.16%
-- Month: +10.33%
+- Weekly: +4.98%
+- Monthly: +9.78%
+- YTD: +4.53%
+- 1-Year: +42.88%
+
+**Technical Analysis:**
+- RSI: 67.26 (approaching overbought)
+- ATR: $6.65
+- 52-Week Range: $193.25 - $288.62
+- Trading just 1.54% below 52-week high
+
+**Key Highlights:**
+- Strong dividend yield of 0.37% ($1.04 TTM)
+- Next ex-dividend date: May 11, 2026
+- Institutional ownership: 66.02%
+- Short interest: 0.92% (134.42M shares)
+- Apple settles lawsuit over delayed AI Siri features for $250 million
+
+---
+
+### Advanced Micro Devices (AMD) - $347.65
+
+![AMD Chart](../charts/2026-05-29/AMD.png)
+
+**Company Profile:**
+- **Market Cap:** $562.37B
+- **Sector:** Semiconductors
+- **Industry:** Microprocessors/GPUs
+
+**Key Metrics:**
+- P/E: 174.58 | Forward P/E: 28.96
+- EPS (ttm): $1.99 | EPS next Y: $12.00
+- Revenue: $25.48B
+- Gross Margin: 53.99%
+- Operating Margin: 18.41%
+
+**Performance:**
+- Weekly: +9.32%
+- Monthly: +17.16%
+- YTD: +17.16%
+- 1-Year: +51.47%
+
+**Technical Analysis:**
+- RSI: 71.25 (overbought)
+- ATR: $12.42
+- 52-Week Range: $204.48 - $419.86
+- Trading 17.20% below 52-week high
+
+**Recent Activity:**
+- Significant insider selling by CTO Mark Papermaster in April
+- CEO Lisa Su sold 85,000 shares in March
+- Strong momentum in AI/data center segment
+- Forecasts quarterly revenue above expectations
+
+---
+
+### Microsoft Corporation (MSFT) - $411.38
+
+![MSFT Chart](../charts/2026-05-29/MSFT.png)
+
+**Company Profile:**
+- **Market Cap:** $3.06T
+- **Sector:** Technology
+- **Industry:** Software/Infrastructure
+
+**Key Metrics:**
+- P/E: 24.50 | Forward P/E: 21.20
+- EPS (ttm): $16.79 | EPS next Y: $19.40
+- Revenue: $318.27B
+- Gross Margin: 68.31%
+- Operating Margin: 46.80%
+- ROE: 34.01% | ROA: 19.93%
+
+**Performance:**
+- Weekly: -4.16%
+- Monthly: +10.33%
 - YTD: -14.94%
-- 1 Year: -5.68%
+- 1-Year: -5.68%
 
-**Analysis:**
-- Azure cloud growth remains strong
-- AI integration across product suite
-- Heavy CapEx investments for AI infrastructure
-- Trading at discount to target price
-- **Support:** $400, $390
-- **Resistance:** $420, $440
+**Technical Analysis:**
+- RSI: 52.59 (neutral)
+- ATR: $10.90
+- 52-Week Range: $356.28 - $555.45
+- Trading 25.94% below 52-week high
+
+**Key Highlights:**
+- Dividend yield: 0.85% ($3.48 TTM)
+- Next ex-dividend: May 21, 2026
+- Strong fundamentals despite price weakness
+- PEG ratio of 1.13 indicates reasonable valuation
+- Heavy AI infrastructure investments
 
 ---
 
-### Amazon (AMZN)
-![AMZN Chart](./charts/2026-05-29/AMZN.png)
+### Amazon.com Inc (AMZN) - $273.55
 
-| Metric | Value |
-|--------|-------|
-| Price | $273.55 |
-| Market Cap | $2.94T |
-| P/E | 32.69 |
-| RSI | 80.51 |
-| Target Price | $310.58 |
+![AMZN Chart](../charts/2026-05-29/AMZN.png)
+
+**Company Profile:**
+- **Market Cap:** $2.94T
+- **Sector:** Consumer Cyclical
+- **Industry:** Internet Retail/Cloud
+
+**Key Metrics:**
+- P/E: 32.69 | Forward P/E: 27.31
+- EPS (ttm): $8.37 | EPS next Y: $10.02
+- Revenue: $742.78B
+- Gross Margin: 50.60%
+- Operating Margin: 12.14%
+- ROE: 24.28% | ROA: 11.64%
 
 **Performance:**
-- Week: +5.33%
-- Month: +28.55%
+- Weekly: +5.33%
+- Monthly: +28.55%
 - YTD: +18.51%
-- 1 Year: +46.79%
+- 1-Year: +46.79%
 
-**Analysis:**
-- Exceptional momentum, up 28.55% this month
-- AWS growth accelerating with AI demand
-- Logistics network opening to external businesses
-- RSI at 80.51 indicates overbought conditions
-- **Support:** $265, $260
-- **Resistance:** $280, $290
+**Technical Analysis:**
+- RSI: 80.51 (significantly overbought)
+- ATR: $7.43
+- 52-Week Range: $183.85 - $276.10
+- Trading just 0.92% below 52-week high
+
+**Key Highlights:**
+- Analyst recommendation: 1.26 (Strong Buy)
+- EPS growth: 35.55% YoY
+- Strong AWS and e-commerce performance
+- Short interest: 0.95% (93.01M shares)
+- Expands same-day grocery delivery to businesses
 
 ---
 
-### Alphabet (GOOGL)
-![GOOGL Chart](./charts/2026-05-29/GOOGL.png)
+### Alphabet Inc (GOOGL) - $388.43
 
-| Metric | Value |
-|--------|-------|
-| Price | $388.43 |
-| Market Cap | $4.69T |
-| P/E | 30.39 |
-| RSI | 81.33 |
-| Target Price | $421.94 |
+![GOOGL Chart](../charts/2026-05-29/GOOGL.png)
+
+**Company Profile:**
+- **Market Cap:** $4.69T
+- **Sector:** Communication Services
+- **Industry:** Internet Content/Search
+
+**Key Metrics:**
+- P/E: 30.39 | Forward P/E: 26.64
+- EPS (ttm): $12.78 | EPS next Y: $14.58
+- Revenue: $423.17B
+- Gross Margin: 60.43%
+- Operating Margin: 33.63%
+- ROE: 38.88% | ROA: 27.17%
 
 **Performance:**
-- Week: +11.05%
-- Month: +29.48%
+- Weekly: +11.05%
+- Monthly: +29.48%
 - YTD: +24.10%
-- 1 Year: +136.54%
+- 1-Year: +136.54%
 
-**Analysis:**
-- Best performing mega-cap, approaching Nvidia's market cap
-- Google Cloud gaining significant market share
-- AI integration driving ad revenue growth
-- RSI at 81.33 extremely overbought
-- **Support:** $380, $370
-- **Resistance:** $400, $420
+**Technical Analysis:**
+- RSI: 81.33 (extremely overbought)
+- ATR: $9.82
+- 52-Week Range: $147.84 - $387.38
+- Trading at new 52-week highs
+
+**Key Highlights:**
+- Dividend yield: 0.22% ($0.84 TTM)
+- EPS growth: 46.22% YoY
+- Strong search and YouTube performance
+- AI integration driving growth
+- Anthropic commits $200B to Google Cloud
 
 ---
 
-### Meta (META)
-![META Chart](./charts/2026-05-29/META.png)
+### Meta Platforms Inc (META) - $604.96
 
-| Metric | Value |
-|--------|-------|
-| Price | $604.96 |
-| Market Cap | $1.54T |
-| P/E | 21.99 |
-| RSI | 39.90 |
-| Target Price | $822.16 |
+![META Chart](../charts/2026-05-29/META.png)
+
+**Company Profile:**
+- **Market Cap:** $1.54T
+- **Sector:** Communication Services
+- **Industry:** Internet Content/Social Media
+
+**Key Metrics:**
+- P/E: 21.99 | Forward P/E: 17.41
+- EPS (ttm): $27.51 | EPS next Y: $34.75
+- Revenue: $214.96B
+- Gross Margin: 81.94%
+- Operating Margin: 41.21%
+- ROE: 32.93% | ROA: 20.90%
 
 **Performance:**
-- Week: -9.89%
-- Month: +5.57%
+- Weekly: -9.89%
+- Monthly: +5.57%
 - YTD: -8.35%
-- 1 Year: +0.95%
+- 1-Year: +0.95%
 
-**Analysis:**
-- Underperforming other mega-caps
-- Reality Labs losses weighing on sentiment
-- Strong ad revenue growth continues
-- $13B El Paso data center financing announced
-- RSI at 39.90 near oversold territory
-- **Support:** $600, $580
-- **Resistance:** $620, $650
+**Technical Analysis:**
+- RSI: 39.90 (neutral/oversold)
+- ATR: $19.77
+- 52-Week Range: $520.26 - $796.25
+- Trading 24.02% below 52-week high
+
+**Key Highlights:**
+- Dividend yield: 0.35% ($2.10 TTM)
+- PEG ratio: 0.90 (attractive valuation)
+- Heavy AI infrastructure investments
+- Reality Labs segment continuing losses
+- Plans $13B El Paso AI data center
 
 ---
 
-## 📊 Technical Analysis Summary
+## 📉 Technical Analysis Summary
 
-### Support & Resistance Levels
+### Market Breadth Indicators
 
-| Symbol | Support 1 | Support 2 | Resistance 1 | Resistance 2 |
-|--------|-----------|-----------|--------------|--------------|
-| SPY | $718 | $710 | $725 | $730 |
-| QQQ | $672 | $660 | $690 | $700 |
-| IWM | $277 | $275 | $285 | $290 |
-| TLT | $84 | $83 | $87 | $90 |
-| GLD | $410 | $400 | $425 | $440 |
-| USO | $140 | $135 | $150 | $155 |
+| Indicator | Status | Signal |
+|-----------|--------|--------|
+| **SPY RSI** | 71.25 | Overbought |
+| **QQQ RSI** | 76.43 | Overbought |
+| **IWM RSI** | 69.20 | Strong Momentum |
+| **GOOGL RSI** | 81.33 | Extremely Overbought |
+| **AMZN RSI** | 80.51 | Extremely Overbought |
 
-### Key Technical Indicators
+### Key Technical Observations
 
-| Symbol | RSI | Trend | Signal |
-|--------|-----|-------|--------|
-| SPY | 71.25 | Strong Uptrend | Bullish |
-| QQQ | 76.43 | Breakout | Bullish/Overbought |
-| IWM | 69.20 | Breakout | Bullish |
-| TLT | 39.91 | Bottoming | Neutral/Bullish |
-| GLD | 41.44 | Consolidation | Neutral |
-| USO | 60.93 | Pullback in Uptrend | Neutral |
+**Bullish Signals:**
+- All major indices trading above 20, 50, and 200-day moving averages
+- Small-caps (IWM) showing leadership - breadth expansion
+- QQQ and SPY approaching/setting new highs
+- Strong volume in advancing stocks
+
+**Caution Signals:**
+- RSI levels above 70 on SPY and QQQ suggest overbought conditions
+- GOOGL and AMZN RSI above 80 indicates extremely overbought conditions
+- Low relative volume (0.45x-0.60x average) indicates potential exhaustion
+- Treasuries (TLT) remain in downtrend
+
+### Support/Resistance Levels
+
+| Symbol | Key Support | Key Resistance | Trend |
+|--------|-------------|----------------|-------|
+| SPY | $718 / $710 | $725 / $730 | Bullish |
+| QQQ | $672 / $660 | $677 / $685 | Bullish |
+| IWM | $277 / $270 | $281 / $285 | Bullish |
+| TLT | $83.50 | $86 / $88 | Bearish |
+| GLD | $410 | $425 / $435 | Neutral |
+| USO | $140 | $148 / $152 | Bullish |
 
 ---
 
 ## 🔮 Market Outlook
 
-### Bullish Factors ✅
-1. **Tech Breakouts** - QQQ and IWM hitting new all-time highs
-2. **Broad Participation** - Small caps joining the rally
-3. **Strong Earnings** - Big Tech delivering solid results
-4. **AI Momentum** - Continued investment and innovation
-5. **Fed Policy** - Potential rate cuts later in 2026
+### Bullish Factors
 
-### Bearish Factors ⚠️
-1. **Overbought Conditions** - QQQ RSI at 76.43, AMZN at 80.51, GOOGL at 81.33
-2. **Geopolitical Risk** - Iran war uncertainty
-3. **Oil Prices** - Elevated energy costs could impact inflation
-4. **Valuation Concerns** - Some tech stocks at stretched valuations
-5. **Bond Yields** - Rising yields could pressure growth stocks
+1. **Broad Market Participation** - Small-caps leading indicates healthy breadth, not just mega-cap rally
+2. **Earnings Resilience** - Corporate profits holding up better than feared
+3. **AI Infrastructure Buildout** - Continued investment in data centers and chips (NVDA, AMD, GOOGL)
+4. **Geopolitical De-escalation** - Hormuz situation showing signs of diplomatic resolution
+5. **Fed Flexibility** - Central bank has room to cut if economy weakens
+6. **Technical Strength** - All major trends pointing higher with strong momentum
+7. **Alphabet AI Momentum** - $200B Anthropic deal highlights AI leadership
 
-### Sector Rotation Observations 🔄
-- **Technology:** Leading the market with AI-driven gains
-- **Energy:** Strong YTD but pulling back recently
-- **Small Caps:** Breaking out, indicating risk-on sentiment
-- **Utilities/REITs:** Lagging in risk-on environment
-- **Gold:** Consolidating after strong run
+### Bearish Factors
 
-### Key Levels to Watch 📍
-- **SPY:** $725 all-time high breakout
-- **QQQ:** $700 psychological level
-- **VIX:** Elevated due to geopolitical concerns
-- **10-Year Yield:** Critical for growth stock valuations
+1. **Valuation Concerns** - P/E ratios elevated, especially in tech (TSLA P/E: 355)
+2. **Overbought Conditions** - RSI levels suggest potential near-term pullback
+3. **Energy Costs** - Oil prices up 108% YTD creating inflation pressure
+4. **Treasury Weakness** - Long-term yields elevated, bonds in downtrend
+5. **Insider Selling** - Notable selling at NVDA, AMD by executives
+6. **Geopolitical Risk** - Middle East tensions remain unresolved
+7. **Narrow Leadership** - Rally dependent on few mega-cap names
+
+### Sector Rotation Observations
+
+| Sector | Performance | Outlook |
+|--------|-------------|---------|
+| **Technology** | Strong | Overbought near-term |
+| **Small-Caps** | Leading | Bullish breadth |
+| **Energy** | Mixed | Geopolitical dependent |
+| **Gold/Precious Metals** | Weak | Rate pressure |
+| **Treasuries** | Weak | Yield pressure |
+
+### Key Levels to Watch
+
+**Immediate (1-2 Weeks):**
+- SPY: Break above $725 for new highs
+- QQQ: Hold above $675 support
+- IWM: Break above $281 for small-cap confirmation
+
+**Medium-Term (1-3 Months):**
+- Fed policy direction and dot plot
+- Earnings season guidance
+- Geopolitical resolution progress
+- Inflation trajectory
 
 ---
 
-## 📝 Summary
+## 📝 Summary & Action Items
 
-The market is experiencing a **strong bullish phase** with broad participation across market caps. The Nasdaq 100 and Russell 2000 hitting new all-time highs demonstrates the strength of the current rally. Technology stocks, particularly those exposed to AI, are leading the charge.
+### Market Summary
+
+The market is displaying strong momentum with all three major indices (SPY, QQQ, IWM) posting gains. Small-caps are leading with IWM up 1.68%, signaling broad participation. Tech remains strong with QQQ up 1.30% and approaching record highs.
 
 **Key Takeaways:**
-- ✅ Major indices at or near all-time highs
-- ⚠️ Overbought conditions warrant caution
-- ✅ Strong earnings supporting valuations
-- ⚠️ Geopolitical risks remain a concern
-- ✅ Small cap breakout suggests economic optimism
+1. Bullish trend intact across all timeframes
+2. Breadth expansion via small-cap leadership is healthy
+3. Overbought conditions suggest potential near-term consolidation
+4. Energy and geopolitical risks remain wildcard factors
+5. Earnings growth supporting elevated valuations
 
-**Trading Bias:** **CAUTIOUSLY BULLISH** - The trend is strong but overbought conditions suggest potential for short-term consolidation.
+### Risk Management Notes
+
+- Consider taking profits on overbought positions (AMZN RSI 80+, GOOGL RSI 81+)
+- Watch for volume confirmation on breakouts
+- Monitor VIX for signs of complacency
+- Keep exposure balanced across sectors
 
 ---
 
-*Report generated on Friday, May 29, 2026*
+*Report generated using real-time market data from Finviz. Charts and technical indicators are for informational purposes only and do not constitute investment advice.*
 
-*Charts sourced from Finviz*
-*Data for educational purposes only*
+**Data Sources:** Finviz.com, Yahoo Finance  
+**Last Updated:** May 29, 2026 3:00 PM PST

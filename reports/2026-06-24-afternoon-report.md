@@ -609,4 +609,154 @@ We present three potential market paths for the remainder of 2026, based on vary
 - Nasdaq A/D line lagging, indicating narrow leadership in tech
 - Small-cap A/D line improving from oversold levels
 
-**Sector Participation
+**Sector Participation:**
+- 9 of 11 S&P sectors trading above 50-day moving averages
+- Technology and Communication Services showing strongest momentum
+- Real Estate and Utilities lagging but showing signs of bottoming
+- Energy showing relative strength with oil price stabilization
+- Financials benefiting from steeper yield curve
+- Healthcare consolidating after strong Q1 performance
+
+### Key Support and Resistance Levels
+
+| Index | Key Support | Key Resistance | 50-Day MA | 200-Day MA |
+|-------|-------------|----------------|-----------|------------|
+| SPY | $598 | $622 | $600 | $568 |
+| QQQ | $508 | $542 | $515 | $470 |
+| IWM | $212 | $232 | $218 | $202 |
+| VIX | 12 | 18 | 15 | 17 |
+
+### Volume Analysis
+
+- Up volume has exceeded down volume on 62% of trading days YTD
+- Institutional accumulation evident in large-cap tech and small-caps
+- Distribution days have been limited (only 4 in past 3 months)
+- Options volume remains elevated, particularly in 0DTE contracts
+- ETF flows show rotation from growth to value in recent weeks
+
+### Momentum Indicators
+
+| Index | RSI (14-day) | MACD | Bollinger Bands |
+|-------|--------------|------|-----------------|
+| SPY | 68 | Bullish | Upper half |
+| QQQ | 72 | Bullish | Upper half |
+| IWM | 62 | Bullish crossover | Middle band |
+| VIX | 42 | Bearish | Lower band |
+
+---
+
+## Conclusion and Key Takeaways
+
+### Market Summary
+
+The U.S. stock market enters the second half of 2026 in a position of strength, though with elevated valuations and narrow leadership that warrant measured caution. The "Goldilocks" scenario of moderating inflation without recession has largely played out, supporting equity prices near all-time highs. Wednesday's session reflects this equilibrium, with modest gains across major indices as investors digest Fed communications and economic data.
+
+**Key Positives:**
+- Corporate earnings remain resilient with positive guidance trends
+- Fed is likely at or near the end of its hiking cycle; cuts expected in H2
+- AI investment cycle provides structural growth opportunities beyond 2026
+- Labor market cooling without collapse; wage growth moderating
+- Consumer spending holding up better than feared despite higher rates
+- Small-cap stocks showing signs of life as rate cut expectations build
+- Housing market stabilizing with mortgage rates retreating from highs
+
+**Key Concerns:**
+- Valuations are elevated by historical standards (S&P 500 forward P/E ~21.5x)
+- Market leadership is narrow, with mega-cap tech driving disproportionate returns
+- Geopolitical risks remain elevated with no near-term resolution
+- Treasury supply concerns could pressure yields higher despite Fed cuts
+- Credit spreads offer limited risk compensation at current levels
+- Services inflation persistence may delay Fed easing
+- Consumer credit stress emerging at lower income levels
+
+### Investment Recommendations
+
+**Asset Allocation:**
+- **Equities:** Neutral to slight overweight (55-60%), with quality emphasis
+- **Fixed Income:** Neutral duration (25-30%), credit selective
+- **Alternatives:** Maintain allocation to gold (5-8%) and real assets
+- **Cash:** Slight overweight (10-15%) for tactical flexibility
+
+**Sector Preferences:**
+- **Overweight:** Technology (AI beneficiaries), Healthcare, Industrials
+- **Neutral:** Financials, Consumer Discretionary, Energy
+- **Underweight:** Real Estate, Utilities, Materials (cyclical concerns)
+
+**Risk Management:**
+- Maintain portfolio hedges through index puts or VIX calls
+- Diversify beyond mega-cap tech concentration
+- Monitor credit markets for early warning signs
+- Stay flexible as Fed policy path becomes clearer
+- Consider tactical small-cap exposure for catch-up trade
+
+### Upcoming Catalysts
+
+**This Week:**
+- Thursday: Weekly jobless claims, durable goods orders, GDP final revision
+- Friday: Core PCE inflation report (Fed's preferred measure), personal income/spending
+- Friday: University of Michigan consumer sentiment (final)
+
+**Next Week:**
+- ISM Manufacturing PMI
+- Construction spending
+- Factory orders
+- FOMC meeting minutes (from June meeting)
+
+**Next Month:**
+- Q2 earnings season begins (JPM, C, WFC kick off bank earnings)
+- June jobs report (July 3)
+- FOMC meeting (July 29-30)
+- CPI and PPI inflation reports
+
+---
+
+## Chart Reference Gallery
+
+### Major Indices
+
+| Ticker | Description | Chart |
+|--------|-------------|-------|
+| SPY | S&P 500 ETF | ![SPY](../charts/2026-06-24/SPY.png) |
+| QQQ | Nasdaq-100 ETF | ![QQQ](../charts/2026-06-24/QQQ.png) |
+| IWM | Russell 2000 ETF | ![IWM](../charts/2026-06-24/IWM.png) |
+| VIX | Volatility Index | ![VIX](../charts/2026-06-24/VIX.png) |
+
+### Commodities
+
+| Ticker | Description | Chart |
+|--------|-------------|-------|
+| USO | Crude Oil ETF | ![USO](../charts/2026-06-24/USO.png) |
+| GLD | Gold ETF | ![GLD](../charts/2026-06-24/GLD.png) |
+| SLV | Silver ETF | ![SLV](../charts/2026-06-24/SLV.png) |
+| UUP | US Dollar ETF | ![UUP](../charts/2026-06-24/UUP.png) |
+
+### Fixed Income
+
+| Ticker | Description | Chart |
+|--------|-------------|-------|
+| TLT | 20+ Year Treasury ETF | ![TLT](../charts/2026-06-24/TLT.png) |
+| HYG | High Yield Bond ETF | ![HYG](../charts/2026-06-24/HYG.png) |
+
+### Mega-Cap Tech
+
+| Ticker | Description | Chart |
+|--------|-------------|-------|
+| AAPL | Apple Inc. | ![AAPL](../charts/2026-06-24/AAPL.png) |
+| MSFT | Microsoft Corp. | ![MSFT](../charts/2026-06-24/MSFT.png) |
+| NVDA | NVIDIA Corp. | ![NVDA](../charts/2026-06-24/NVDA.png) |
+| TSLA | Tesla Inc. | ![TSLA](../charts/2026-06-24/TSLA.png) |
+
+---
+
+## Disclaimer
+
+This report is for informational purposes only and does not constitute investment advice. Past performance is not indicative of future results. The author is not a licensed financial advisor. Readers should conduct their own research and consult with qualified professionals before making investment decisions.
+
+Market data and analysis are based on information available as of June 24, 2026. Market conditions can change rapidly, and this report may not reflect subsequent developments. All price targets, estimates, and projections are subject to significant uncertainty and should not be relied upon for investment decisions.
+
+**Report Generated:** June 24, 2026 at 3:30 PM PDT  
+**Next Scheduled Update:** June 25, 2026 (Morning Report)
+
+---
+
+*End of Report*

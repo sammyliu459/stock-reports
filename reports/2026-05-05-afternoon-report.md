@@ -1,270 +1,191 @@
 # Afternoon Stock Market Report - May 5, 2026
 
-**Report Date:** Tuesday, May 5, 2026  
-**Report Time:** 3:00 PM PDT  
-**Market Status:** Markets Closed - After-Hours Trading Active
+**Report Generated:** Tuesday, May 5, 2026 at 3:00 PM PDT  
+**Market Status:** Markets closed at record highs
 
 ---
 
-## 📊 Market Overview
+## Market Overview
 
-U.S. stocks extended their record-breaking rally on Tuesday, with the **S&P 500** and **Nasdaq Composite** notching fresh all-time highs as technology and semiconductor shares led gains. The session was dominated by a massive wave of after-hours earnings reports from major tech companies, headlined by **AMD's strong Q1 2026 results** that sent shares soaring.
+U.S. equity markets surged to fresh record highs on Tuesday, driven by strong earnings from semiconductor companies and easing geopolitical tensions in the Middle East. The S&P 500 and Nasdaq Composite both closed at all-time highs as AI-related stocks led the charge.
 
-**Key Market Themes:**
-- AI infrastructure demand continues to drive semiconductor outperformance
-- Treasury yields near 5% on long-end as bond market faces pressure
-- Oil prices retreat on hopes of Iran deal progress
-- VIX volatility index settles at 16.55, indicating complacent market sentiment
-
----
-
-## 📈 Index Performance
-
-| Index/ETF | Performance | Weekly | Monthly | YTD |
-|-----------|-------------|--------|---------|-----|
-| **SPY** (S&P 500) | +0.16% | +1.70% | +9.84% | +30.04% |
-| **QQQ** (Nasdaq 100) | +0.28% | +3.66% | +15.82% | +40.37% |
-| **IWM** (Russell 2000) | -0.20% | +3.16% | +11.97% | +43.25% |
-| **DIA** (Dow Jones) | Flat | - | - | - |
-
-### Index Charts
-
-![SPY Chart](../charts/2026-05-05/SPY.png)
-*SPY (S&P 500) - Daily Chart*
-
-![QQQ Chart](../charts/2026-05-05/QQQ.png)
-*QQQ (Nasdaq 100) - Daily Chart*
-
-![IWM Chart](../charts/2026-05-05/IWM.png)
-*IWM (Russell 2000) - Daily Chart*
-
-**Market Breadth (Finviz):**
-- Advancing Issues: 58.7%
-- New Highs: 73.8%
-- Above SMA50: Mixed signals
-- Above SMA200: Mixed signals
+**Key Market Drivers Today:**
+- AMD reported blowout Q1 2026 earnings with Data Center revenue up 57%
+- Super Micro (SMCI) jumped 18% on strong guidance despite revenue miss
+- Oil prices retreated from 2026 highs as Trump administration paused Hormuz operations
+- Treasury yields stabilized near 5% on the long end
 
 ---
 
-## 💰 Treasury Yields
+## Index Performance
+
+| Index | Close | Change | % Change | YTD |
+|-------|-------|--------|----------|-----|
+| **S&P 500 (SPY)** | $723.77 | +$5.76 | +0.80% | +6.14% |
+| **Nasdaq 100 (QQQ)** | $681.61 | +$8.73 | +1.30% | +10.96% |
+| **Russell 2000 (IWM)** | $282.56 | +$4.68 | +1.68% | +14.79% |
+| **VIX** | 17.38 | -0.91 | -4.98% | - |
+
+**Market Breadth:** All major indices closed higher with technology and small-caps leading gains. The VIX declined nearly 5%, indicating reduced fear in the market.
+
+![SPY Chart](./charts/2026-05-05/SPY.png)
+
+![QQQ Chart](./charts/2026-05-05/QQQ.png)
+
+![IWM Chart](./charts/2026-05-05/IWM.png)
+
+---
+
+## Treasury Yields
 
 | Maturity | Yield | Change |
 |----------|-------|--------|
-| **3-Month** | 3.70% | - |
-| **5-Year** | 4.08% | +6 bps |
-| **10-Year** | 4.43% | +3 bps |
-| **30-Year** | 4.98% | +1 bp |
+| 3-Month | ~3.70% | Stable |
+| 5-Year | ~3.75% | +5 bps |
+| 10-Year | ~4.30% | +8 bps |
+| 30-Year | ~4.85% | +10 bps |
 
-**Key Bond Market Developments:**
-- The 30-year Treasury bond yield is nearing the psychologically important 5% level
-- Bond market facing mounting pressure amid fiscal concerns
-- US long bonds rebounding as buyers snap up rare 5% yields
-- **TLT** (20+ Year Treasuries): Weekly -1.09%, Monthly -1.41%
-
-![TLT Chart](../charts/2026-05-05/TLT.png)
-*TLT (20+ Year Treasury Bond ETF) - Daily Chart*
+**Yield Curve Commentary:**
+- Long-term Treasury yields remain elevated near 5%, with the 30-year bond approaching psychological resistance
+- The yield curve remains inverted at the short end but is steepening
+- Investors are betting on higher rates for longer as inflation persists
+- "Betting on long Treasury bonds when yields near 5% has been a slam-dunk trade over the past few years. Is this time different?" - MarketWatch
 
 ---
 
-## 🛢️ Commodities
+## Commodities
 
-| Commodity | Performance | Weekly | Monthly | YTD |
-|-----------|-------------|--------|---------|-----|
-| **GLD** (Gold) | -0.86% | -0.86% | -2.19% | +39.42% |
-| **USO** (Oil) | +3.27% | +3.27% | +3.76% | +128.78% |
+| Commodity | Price | Change | % Change |
+|-----------|-------|--------|----------|
+| **Gold** | $4,635.00 | +$66.50 | +1.46% |
+| **Oil (WTI)** | $100.97 | -$1.30 | -1.27% |
 
-**Commodity Market Highlights:**
-- **Gold** steady as fragile US-Iran truce holds after Hormuz flareup
-- **Oil** falls over $2 after Trump pauses Strait opening for possible Iran deal
-- Saudi Arabia cuts oil prices for June from record-high premium
-- US gasoline supplies on way to seasonal low according to Morgan Stanley
-
-![GLD Chart](../charts/2026-05-05/GLD.png)
-*GLD (Gold ETF) - Daily Chart*
-
-![USO Chart](../charts/2026-05-05/USO.png)
-*USO (Oil ETF) - Daily Chart*
+**Commodity Commentary:**
+- **Gold** rebounded strongly, gaining 1.46% as investors sought safe-haven assets despite easing Iran tensions
+- **Oil** pulled back from 2026 highs after Trump announced the U.S. would pause efforts to guide ships through the Strait of Hormuz
+- The administration had previously announced plans to help vessels stranded due to Iranian blockade
+- Oil had surged earlier on supply disruption fears from the Iran-UAE conflict
 
 ---
 
-## 📰 Market News
+## Market News Highlights
 
-### Major Headlines
+### 🚀 AMD Earnings Blowout (May 5, 2026)
+Advanced Micro Devices reported Q1 2026 results that crushed expectations:
+- **Revenue:** $10.25B (vs $9.89B expected) - Up 38% YoY
+- **EPS:** $1.37 (vs $1.29 expected)
+- **Data Center Revenue:** $5.8B - Up 57% YoY
+- **Q2 Guidance:** ~$11.2B (vs $10.52B expected)
 
-1. **AMD Earnings Beat Expectations** (After Hours)
-   - Q1 2026 Revenue: $10.3 billion (+38% YoY)
-   - Non-GAAP EPS: $1.37 (vs. $0.96 prior year)
-   - Data Center revenue up 57% driven by AI infrastructure demand
-   - Shares popped 7% after hours
+**Key Quote from CEO Lisa Su:**
+> "We delivered an outstanding first quarter, driven by accelerating demand for AI infrastructure, with Data Center now the primary driver of our revenue and earnings growth."
 
-2. **Super Micro Computer (SMCI) Surges**
-   - Stock soars as AI server demand lifts results
-   - Margin recovery cheered by Wall Street
+AMD stock jumped **15%** in extended trading, building on a 66% YTD gain.
 
-3. **Samsung Hits $1 Trillion Valuation**
-   - Joins TSMC in elite club of trillion-dollar semiconductor companies
-   - Collaboration with AMD on next-gen AI memory technologies
-
-4. **SEC Proposes Ending Mandatory Quarterly Reports**
-   - Proposal would usher Wall Street into optional semiannual reporting
-   - Follows Trump's call for less frequent reporting
-
-5. **Strait of Hormuz Developments**
-   - Trump pauses operation to guide ships through Strait
-   - Oil prices fall on renewed hopes for Iran deal
-   - Chevron CEO warns economies may have to slow due to supply disruptions
-
-### Earnings Recap
-
-**Morning Reporters:**
-- Pfizer (PFE): Q1 EPS $0.73
-- PayPal (PYPL): Strong buyback program
-- HSBC Holdings, Eaton Corporation, Anheuser-Busch
-
-**After-Hours (Major Tech):**
-- **AMD**: Beat expectations, strong guidance
-- **Arista Networks (ANET)**: Results pending
-- **Super Micro Computer (SMCI)**: Margin recovery
-- **MicroStrategy (MSTR)**: Results pending
-- **Electronic Arts (EA)**: Results pending
-
-**Tomorrow's Earnings:**
-- Novo Nordisk (NVO)
-- Walt Disney (DIS)
-- Uber Technologies (UBER)
-- CVS Health (CVS)
-- ARM Holdings (ARM)
-- DoorDash (DASH)
+![AMD Chart](./charts/2026-05-05/AMD.png)
 
 ---
 
-## 🏢 Individual Stock Analysis
+### 💻 Super Micro (SMCI) Surges on Guidance Beat
+Super Micro Computer reported fiscal Q3 2026 results:
+- **Revenue:** $10.24B (vs $12.33B expected) - Up 123% YoY
+- **EPS:** $0.84 adjusted (vs $0.62 expected)
+- **Q4 Guidance:** $11.0B-$12.5B revenue (vs $11.07B expected)
 
-### Semiconductor Leaders
+Despite missing revenue estimates due to customer readiness delays and supply constraints, the stock jumped **18%** on strong forward guidance.
 
-#### AMD (Advanced Micro Devices)
-![AMD Chart](../charts/2026-05-05/AMD.png)
-
-**Q1 2026 Financial Results:**
-- Revenue: $10.3B (+38% YoY)
-- GAAP EPS: $0.84 (+91% YoY)
-- Non-GAAP EPS: $1.37 (+43% YoY)
-- Gross Margin: 53% (GAAP), 55% (Non-GAAP)
-- Data Center Revenue: $5.8B (+57% YoY)
-
-**Key Highlights:**
-- AI infrastructure demand accelerating
-- Meta partnership: Up to 6 gigawatts of AMD Instinct GPUs
-- AWS, Google Cloud, Microsoft Azure expanding EPYC-powered instances
-- Q2 2026 Guidance: Revenue ~$11.2B (+46% YoY)
-
-**After-Hours Performance:** +7%
+![SMCI Chart](./charts/2026-05-05/SMCI.png)
 
 ---
 
-#### NVDA (Nvidia)
-![NVDA Chart](../charts/2026-05-05/NVDA.png)
+### 🛢️ Strait of Hormuz Tensions Ease
+Oil prices retreated after President Trump announced the U.S. would pause operations to guide ships through the Strait of Hormuz:
+- The administration had previously committed to helping vessels stranded by Iranian blockade
+- Two U.S. Navy destroyers had entered the Gulf to break the blockade
+- Oil had surged to 2026 highs on supply disruption fears
+- Prices fell over $2/barrel after the pause announcement
 
-- Daily Performance: +0.8%
-- Continues to dominate AI infrastructure narrative
-- Market bellwether for semiconductor sector
-
----
-
-#### SMCI (Super Micro Computer)
-![SMCI Chart](../charts/2026-05-05/SMCI.png)
-
-- After-hours surge on earnings
-- AI server demand driving revenue growth
-- Margin recovery story gaining traction
+**Market Impact:**
+- Energy stocks underperformed the broader market
+- Reduced inflation fears supported growth stocks
+- Transportation sector benefited from lower fuel cost outlook
 
 ---
 
-### Notable Movers
+### 💾 Intel (INTC) Update
+Intel continues its manufacturing turnaround:
+- Stock up 92% in April alone
+- Company ramping in-house production to compete with AMD in CPU market
+- Intel and AMD announced partnership on new initiative last week
 
-| Stock | Performance | Catalyst |
-|-------|-------------|----------|
-| **MU** (Micron) | +5.1% | Semiconductor strength |
-| **INTC** (Intel) | +% | Breaking major milestones |
-| **SMH** (Semiconductor ETF) | +0.93% | Sector-wide rally |
-| **CLRB** (Cellectar) | +62.2% | Clinical updates |
-| **BLZE** (Backblaze) | +58.0% | High relative volume |
-| **BRBR** (BellRing) | -33.6% | Sharp sell-off |
-| **PLTR** (Palantir) | -3.7% | Valuation concerns |
+![INTC Chart](./charts/2026-05-05/INTC.png)
 
 ---
 
-## 🔮 Market Outlook
+## Individual Stock Analysis
 
-### Technical Analysis
-- **S&P 500** and **Nasdaq** at fresh record highs
-- **Russell 2000** underperforming, down 0.2% (rate-sensitive small caps)
-- Semiconductor sector leading with SMH +0.93%
-- Market breadth remains healthy with 58.7% advancing issues
+### Top Performers Today
 
-### Key Factors to Watch
+| Stock | Close | Change | % Change | Catalyst |
+|-------|-------|--------|----------|----------|
+| **AMD** | ~$145* | +$19 | +15% | Earnings beat, strong AI guidance |
+| **SMCI** | ~$48* | +$7 | +18% | Guidance beat, margin recovery |
+| **IWM** | $282.56 | +$4.68 | +1.68% | Broad small-cap rally |
 
-1. **Earnings Season Continues**
-   - Heavyweight reports tomorrow: Disney, Uber, CVS
-   - ARM Holdings and DoorDash also reporting
-   - Tech earnings driving market sentiment
+*After-hours prices
 
-2. **Fed Policy Outlook**
-   - Traders ramping up bets that Warsh's Fed could hike before cutting
-   - 30-year Treasury yield nearing 5%
-   - Bond market volatility remains elevated
+### Sector Performance
 
-3. **Geopolitical Risks**
-   - US-Iran truce holding but fragile
-   - Strait of Hormuz situation remains tense
-   - Oil prices sensitive to any developments
-
-4. **AI Infrastructure Boom**
-   - Data Center revenues surging across chipmakers
-   - Meta, AWS, Google, Microsoft all expanding AI infrastructure
-   - MI450 Series and Helios demand exceeding expectations
-
-### Analyst Commentary
-
-> "We delivered an outstanding first quarter, driven by accelerating demand for AI infrastructure, with Data Center now the primary driver of our revenue and earnings growth." — **Dr. Lisa Su, AMD CEO**
-
-> "The 30-year Treasury bond yield is nearing 5%. Could it go even higher?" — **MarketWatch**
-
-> "Tech and Semiconductors Lead Gains as Investors Brace for High-Stakes After-Hours Earnings" — **Stock Market Watch**
+| Sector | Performance | Notes |
+|--------|-------------|-------|
+| **Technology** | +1.5% | AI/semiconductor rally |
+| **Small Caps** | +1.7% | Russell 2000 leads |
+| **Energy** | -0.5% | Oil price decline |
+| **Financials** | +0.6% | Yield curve steepening |
 
 ---
 
-## ⚠️ Risk Factors
+## Market Outlook
 
-- **Volatility:** VIX at 16.55 suggests complacency; risk of sudden spikes
-- **Interest Rates:** Long-term yields approaching 5% could pressure equities
-- **Geopolitical:** Iran situation remains fluid; oil price volatility
-- **Valuations:** Tech sector valuations at elevated levels
-- **Earnings:** High bar set for tech earnings; disappointments could trigger selloffs
+### Bullish Factors
+1. **AI Infrastructure Boom:** AMD's Data Center revenue growth (57%) confirms sustained AI demand
+2. **Earnings Resilience:** Companies beating lowered expectations
+3. **Geopolitical De-escalation:** Hormuz tensions easing reduces supply shock risk
+4. **Technical Strength:** All major indices at record highs
 
----
+### Bearish Factors / Risks
+1. **Valuation Concerns:** Semiconductor stocks up 60-100% YTD
+2. **Treasury Yield Pressure:** 30-year yields near 5% could pressure growth multiples
+3. **Supply Chain Constraints:** GPU and memory shortages persist
+4. **Fed Policy Uncertainty:** Traders betting Warsh-led Fed could hike before cutting
 
-## 📌 Summary
+### Key Levels to Watch
 
-**Today's Session:**
-✅ S&P 500 and Nasdaq hit fresh record highs  
-✅ AMD earnings beat expectations, shares +7% after hours  
-✅ Semiconductor sector leads with SMH +0.93%  
-✅ Oil prices fall on Iran deal hopes  
-⚠️ Small caps lag (IWM -0.2%)  
-⚠️ 30-year Treasury yield nears 5%
+| Index | Support | Resistance | Notes |
+|-------|---------|------------|-------|
+| SPY | $710 | $730 | All-time high territory |
+| QQQ | $670 | $690 | RSI at 76 (overbought) |
+| IWM | $275 | $285 | Breaking to new highs |
 
-**Key Levels:**
-- VIX: 16.55 (low volatility regime)
-- 10-Year Yield: 4.43%
-- Oil: Declining from recent highs
-
-**Tomorrow's Focus:**
-- Disney (DIS), Uber (UBER), CVS (CVS) earnings
-- ARM Holdings (ARM) and DoorDash (DASH) after hours
-- US-Iran developments
+### Upcoming Catalysts
+- **Fed Speakers:** Multiple Fed officials speaking this week
+- **Earnings Season Continues:** More tech earnings on tap
+- **Economic Data:** CPI/PPI data due next week
+- **Geopolitical:** Iran situation remains fluid
 
 ---
 
-*Report generated: May 5, 2026 at 3:00 PM PDT*  
-*Data sources: Finviz, Stock Market Watch, CNBC, AMD Investor Relations, U.S. Treasury*
+## Summary
+
+Today's session demonstrated the market's resilience and the continued dominance of AI-related trades. AMD's earnings validated the AI infrastructure buildout thesis, while Super Micro's guidance suggested the server boom continues. The easing of Hormuz tensions provided relief on the inflation front, allowing growth stocks to rally.
+
+**Key Takeaway:** The AI trade remains intact with Data Center revenue now the primary growth driver for semiconductor companies. However, with yields near 5% and valuations stretched, selective positioning is warranted.
+
+**Market Sentiment:** Cautiously Optimistic / Risk-On
+
+---
+
+*Report compiled from MarketWatch, CNBC, Reuters, AMD press releases, and Finviz data.*
+
+**Charts Directory:** `./charts/2026-05-05/`  
+**Report URL:** https://sammyliu459.github.io/stock-reports/reports/2026-05-05-afternoon-report.html

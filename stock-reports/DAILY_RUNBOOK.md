@@ -115,6 +115,28 @@ Use a **sub-agent** for execution (multi-step, safer isolation). Main session ha
 
 ---
 
+## Finviz Ticker Reference
+
+| Asset | Finviz Ticker | Notes |
+|-------|---------------|-------|
+| S&P 500 ETF | `SPY` | ✅ Charts work |
+| Nasdaq 100 ETF | `QQQ` | ✅ Charts work |
+| Russell 2000 ETF | `IWM` | ✅ Charts work |
+| Gold ETF | `GLD` | ✅ Use instead of GC/GC=F |
+| Silver ETF | `SLV` | ✅ Use instead of SI/SI=F |
+| Crude Oil ETF | `USO` | ✅ Use instead of CL/CL=F |
+| Natural Gas ETF | `UNG` | ✅ Use instead of NG/NG=F |
+| 10Y Treasury Yield | `TNX` | ✅ Charts work |
+| VIX | `VIX` | ✅ Charts work |
+
+**⚠️ Known Issue:** Finviz futures charts (GC, SI, CL, NG) frequently return "Not Available" due to rate limiting or API restrictions. **Workaround:** Use commodity ETFs instead:
+- Gold → `GLD`
+- Silver → `SLV`
+- Crude Oil → `USO`
+- Natural Gas → `UNG`
+
+---
+
 ## Failure / Recovery Playbook
 - If chart source fails:
   - [ ] Try alternate source (Yahoo ↔ TradingView ↔ StockCharts)

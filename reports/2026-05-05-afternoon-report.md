@@ -28,11 +28,11 @@ U.S. equity markets surged to fresh record highs on Tuesday, driven by strong ea
 
 **Market Breadth:** All major indices closed higher with technology and small-caps leading gains. The VIX declined nearly 5%, indicating reduced fear in the market.
 
-![SPY Chart](./charts/2026-05-05/SPY.png)
+![SPY Chart](../charts/2026-05-05/SPY.png)
 
-![QQQ Chart](./charts/2026-05-05/QQQ.png)
+![QQQ Chart](../charts/2026-05-05/QQQ.png)
 
-![IWM Chart](./charts/2026-05-05/IWM.png)
+![IWM Chart](../charts/2026-05-05/IWM.png)
 
 ---
 
@@ -82,7 +82,7 @@ Advanced Micro Devices reported Q1 2026 results that crushed expectations:
 
 AMD stock jumped **15%** in extended trading, building on a 66% YTD gain.
 
-![AMD Chart](./charts/2026-05-05/AMD.png)
+![AMD Chart](../charts/2026-05-05/AMD.png)
 
 ---
 
@@ -94,7 +94,7 @@ Super Micro Computer reported fiscal Q3 2026 results:
 
 Despite missing revenue estimates due to customer readiness delays and supply constraints, the stock jumped **18%** on strong forward guidance.
 
-![SMCI Chart](./charts/2026-05-05/SMCI.png)
+![SMCI Chart](../charts/2026-05-05/SMCI.png)
 
 ---
 
@@ -118,7 +118,7 @@ Intel continues its manufacturing turnaround:
 - Company ramping in-house production to compete with AMD in CPU market
 - Intel and AMD announced partnership on new initiative last week
 
-![INTC Chart](./charts/2026-05-05/INTC.png)
+![INTC Chart](../charts/2026-05-05/INTC.png)
 
 ---
 
